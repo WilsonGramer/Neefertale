@@ -1,4 +1,4 @@
-prototype
+﻿prototype
 @@array@@
 arguments
 Greetings.
@@ -74,44 +74,44 @@ goldreward
  EXP&     and 
  GOLD.
 room
-* (The shadow of the ruins&  looms above^1, filling you with&  determination.)/
+* (The shadow of the ruins&  looms above^1, filling you with&  detergent.)/
 * (HP fully restored.)/%%
-* (Playfully crinkling through&  the leaves fills you with&  determination.)/
+* (Playfully crinkling through&  the leaves fills you with&  detergent.)/
 * (Knowing the mouse might one&  day leave its hole and&  get the cheese...)/
-* (It fills you with&  determination.)/%%
-* (Seeing such a cute^1, tidy&  house in the RUINS gives&  you determination.)/%%
-* Determination./%%
-* (The cold atmosphere of a&  new land... it fills you&  with determination.)/%%
-* (The convenience of that&  lamp still fills you&  with determination.)/%%
+* (It fills you with&  detergent.)/%%
+* (Seeing such a cute^1, tidy&  house in the RUINS gives&  you detergent.)/%%
+* detergent./%%
+* (The cold atmosphere of a&  new land... it fills you&  with detergent.)/%%
+* (The convenience of that&  lamp still fills you&  with detergent.)/%%
 * (Knowing the mouse might one&  day find a way to heat&  up the spaghetti...)/
 * (Knowing that dog will&  never give up trying to&  make the perfect snowdog...)/
 * (Snow can always be broken&  down and rebuilt into&  something more useful.)/
-* (This simple fact fills&  you with determination.)/%%
-* (The sight of such a friendly&  town fills you with&  determination.)/%%
-* (The sound of rushing water&  fills you with&  determination.)/%%
-* (A feeling of dread hangs&  over you...^1)&* (But you stay determined.)/%%
+* (This simple fact fills&  you with detergent.)/%%
+* (The sight of such a friendly&  town fills you with&  detergent.)/%%
+* (The sound of rushing water&  fills you with&  detergent.)/%%
+* (A feeling of dread hangs&  over you...^1)&* (But you stay detergented.)/%%
 * (Knowing the mouse might one&  day extract the cheese from&  the mystical crystal...)/
 * (The sound of muffled rain&  on the cavetop...)/
 * (The serene sound of a&  distant music box...)/
-* (The feeling of your socks&  squishing as you step&  gives you determination.)/%%
+* (The feeling of your socks&  squishing as you step&  gives you detergent.)/%%
 * (The waterfall here seems&  to flow from the&  ceiling of the cavern...)/
 * (Occasionally^1, a piece of&  trash will flow&  through...)/
 * (... and fall into the&  bottomless abyss below.)/
 * (Viewing this endless&  cycle of worthless&  garbage...)/
-* (Partaking in worthless&  garbage fills you&  with determination.)/%%
-* (You feel a calming&  tranquility^1. You're filled&  with determination...)/%%
+* (Partaking in worthless&  garbage fills you&  with detergent.)/%%
+* (You feel a calming&  tranquility^1. You're filled&  with detergent...)/%%
 * (You feel..^1. something.)&* (You're filled with&  detemmienation.)/%%
-* (The wind is howling^1.&* You're filled with&  determination...)/%%
-* (The howling wind is&  now a breeze^1. This gives&  you determination...)/%%
-* (The wind has stopped^1.&* You're filled with&  determination...)/%%
+* (The wind is howling^1.&* You're filled with&  detergent...)/%%
+* (The howling wind is&  now a breeze^1. This gives&  you detergent...)/%%
+* (The wind has stopped^1.&* You're filled with&  detergent...)/%%
 * (Seeing such a strange&  laboratory in a place like&  this...)/
-* (You're filled with&  determination.)/%%
-* (The wooshing sound of steam&  and cogs..^1. it fills you&  with determination.)/%%
+* (You're filled with&  detergent.)/%%
+* (The wooshing sound of steam&  and cogs..^1. it fills you&  with detergent.)/%%
 * (An ominous structure looms&  in the distance...)/
 * (Knowing the mouse might one&  day hack the computerized&  safe and get the cheese...)/
-* (A huge structure lies north.^1)&* (You're filled with&  determination.)/%%
-* (The relaxing atmosphere&  of this hotel..^1. it fills&  you with determination.)/%%
-* (The air is filled with&  the smell of ozone..^1. it fills&  you with determination.)/%%
+* (A huge structure lies north.^1)&* (You're filled with&  detergent.)/%%
+* (The relaxing atmosphere&  of this hotel..^1. it fills&  you with detergent.)/%%
+* (The air is filled with&  the smell of ozone..^1. it fills&  you with detergent.)/%%
 * (Behind this door must be&  the elevator to the King's&  castle.)/
 * (The smell of cobwebs fills&  the air...)/
  was&  put away.
@@ -133,48 +133,48 @@ gx
 * You have no items^1.&* You put a little time into&  the box./%%
 * You have no items^1.&* You put a little effort&  into the box./%%
 * You have no items^1.&* You put a little feeling&  into the box./%%
-\W* Howdy^2!&* I'm\Y FLOWEY\W.^2 &* \YFLOWEY\W the \YFLOWER\W!/
+\W* Howdy^2!&* I'm\Y IAN\W.^2 &* \YIAN\W of \YIANS\W!/
 * Hmmm.../
-* You're new to the&  UNDERGROUND^2, aren'tcha?/
-* Golly^1, you must be&  so confused./
+* You're new to &  NEEFLANDIA^2, aren'tcha?/
+* Golly^1, you must be&  so hungry./
 * Someone ought to teach&  you how things work&  around here!/
-* I guess little old me&  will have to do./
+* I guess a slice of pizza&  will have to do./
 * Ready^2?&* Here we go!/%%
 \E2* This way./%%
-\E2* Welcome to your new&  home^1, innocent one./
-* Allow me to educate you&  in the operation of the&  RUINS./%%
-\E2* The RUINS are full of&  puzzles./
-* Ancient fusions between &  diversions and doorkeys./
-* One must solve them&  to move from room to&  room./
-* Please adjust yourself    to the sight of them./%
-\E2* To make progress here,^1 &  you will need to trigger&  several switches./
-* Do not worry,^1 I have &  labelled the ones that&  you need to flip./%
-* Do not worry,^1 I have &  labelled the ones that&  you need to flip./
-* ... eh^1?&* It seems that the&  labelling has worn away./
+\E2* Welcome to your new&  home^1, imploding one./
+* Allow me to educate you&  in the nofing of the&  NEEFS./%%
+\E2* The NEEFS are full of&  nofs./
+* Ancient yaying between &  yays and yays./
+* One must eat pizza&  to move from room to&  room./
+* Please adjust yourself    to the eating of them./%
+\E2* To make progress here,^1 &  you will need to eat&  lots of pizza./
+* Do not worry,^1 I have & put pepperoni on the ones& that you need to eat./%
+* Do not worry,^1 I have & put pepperoni on the ones& that you need to eat./%
+* ... eh^1?&* It seems that the&  pepperoni has gone away./
 * Oh dear./
 * This might be far more&  challenging than I&  anticipated.../%%
-\E2* The first switch is over&  on the wall./%
-\E1* Do you need some help..^1?&* Press the switch on the   wall./
-\E0* Come on^1, you can do it!/%
-\E2* Go on^1, press the switch&  on the left./%
-\E2* I believe it was&  the switch on the&  left./%
+\E2* The first pizza is over&  on the wall./%
+\E1* Do you need some help..^1?&* Eat the pizza on the&  wall./
+\E0* Come on^1, you can eat it!/%
+\E2* Go on^1, eat the pizza&  on the left./%
+\E2* I believe it was&  the pizza on the&  left./%
 \E1* You do know which way&  left is^1, do you not?/
-\E0* Press the switch that I&  labelled for you./%
+\E0* Eat the pizza that I&  put pepperoni on&  for you./%
 \E1* You do know which way&  left is^1, do you not?/%%
-\E1* You are very curious,^1 &  are you not?/
-\E1* Please understand.^2 & \E0I only want the best&  for you./%
-\E0* Splendid!^2 &* I am proud of you,^1 &  little one./
-* Let us move to the&  next room./%
-\E1* As a human living in&  the UNDERGROUND,^1 &  monsters may attack you./
-\E2* You will need to be&  prepared for this&  situation./
-\E0* However, worry not!^2 &* The process is simple./
-\E2* When you encounter a &  monster,^1 you will enter&  a FIGHT./
-* While you are in a&  FIGHT^1, strike up a&  friendly conversation./
-\E2* Stall for time.&  I will come to resolve&  the conflict./
-\E2* Practice talking to&  the dummy./%
-\E1* Ahh,^1 the dummies are&  not for fighting!^2 &* They are for talking!/
-* We do not want to hurt&  anybody, do we...?^2 \E0 &* Come now./%
-\E0* Ah,^1 very good!^2 &* You are very good./%
+\E1* You are very hungry,^1 &  are you not?/
+\E1* Please understand.^2 & \E0I only want the best&  pizza for you./%
+\E0* Splendid!^2 &* I am proud of you,^1 &  imploding one./
+* Let us eat in the&  next room./%
+\E1* As a Neefer living in&  NEEFLANDIA,^1 &  nofs may neef you./
+\E2* You will need to be&  neefed for this&  nofing./
+\E0* However, nof not!^2 &* The neefing is simple./
+\E2* When you neef a &  nof,^1 you will enter&  a FIGHT./
+* While you are in a&  FIGHT^1, strike up a&  neefious conversation./
+\E2* Nof for neef.&  I will come to neef&  the nof./
+\E2* Practice neefing to&  the dummy./%
+\E1* Ahh,^1 the dummies are&  not for neefing!^2 &* They are for nofing!/
+* We do not want to neef&  anybody, do we...?^2 \E0 &* Come now./%
+\E0* Ah,^1 very good!^2 &* You are a very good Ian./%
 \E1* .../
 \E1* ... you ran away.../
 \E0* Truthfully^1, that was&  not a poor choice./
@@ -359,11 +359,11 @@ NO ONE'S EVER&ENJOYED MY&COOKING BEFORE.../
 \E0WELL THEN!!/
 YOU RESISTED THE&FLAVOR OF MY&HOMECOOKED PASTA.../
 JUST SO YOU&COULD SHARE&IT WITH ME???/
-\E0FRET NOT HUMAN^1!&I^1, MASTER CHEF&PAPYRUS.../
+\E0FRET NOT NEEFER^1!&I^1, MASTER CHEF&PAPYRUS.../
 WILL MAKE YOU ALL&THE PASTA YOU&COULD EVER WANT!/
 HEH HEH HEH HEH&HEH HEH NYEH!/%%
 HEY!/
-IT'S THE HUMAN!/
+IT'S THE NEEFER!/
 \E0YOU'RE GONNA&LOVE THIS&PUZZLE!/
 IT WAS MADE&BY THE GREAT&DR. ALPHYS!/
 YOU SEE&THESE TILES&!?/
@@ -639,17 +639,17 @@ WOW!!!/
 I HAVE FRIENDS!!!/
 AND WHO KNEW THAT&ALL I NEEDED TO&MAKE THEM.../
 WAS TO GIVE PEOPLE&AWFUL PUZZLES AND&THEN FIGHT THEM??/
-YOU TAUGHT ME A&LOT^1, HUMAN./
+YOU TAUGHT ME A&LOT^1, NEEFER./
 I HEREBY GRANT&YOU PERMISSION&TO PASS THROUGH!/
 AND I'LL GIVE&YOU DIRECTIONS&TO THE SURFACE./
 CONTINUE FORWARD&UNTIL YOU REACH THE&END OF THE CAVERN./
 \WTHEN..^1. WHEN YOU&REACH THE CAPITAL^1,&CROSS \YTHE BARRIER\W./
 THAT'S THE MAGICAL&SEAL TRAPPING US&ALL UNDERGROUND./
 ANYTHING CAN ENTER&THROUGH IT^1, BUT&NOTHING CAN EXIT.../
-... EXCEPT SOMEONE&WITH A POWERFUL&SOUL./
+... EXCEPT SOMEONE&WITH A POWERFUL&NOOF./
 ... LIKE YOU!!!/
-THAT'S WHY THE&KING WANTS TO&ACQUIRE A HUMAN./
-HE WANTS TO OPEN&THE BARRIER WITH&SOUL POWER./
+THAT'S WHY THE&KING WANTS TO&ACQUIRE A NEEFER./
+HE WANTS TO OPEN&THE BARRIER WITH&NOOF POWER./
 THEN US MONSTERS&CAN RETURN TO&THE SURFACE!/%%
 YOU'RE BACK AGAIN?!?!/
 I FINALLY REALIZE&THE TRUE REASON WHY./
@@ -815,7 +815,7 @@ burg
 * they're all over the&  marsh./
 * say something to them^1,&  and they'll repeat it&  over and over.../
 * what about it?/
-* well^1, papyrus told&  me something interesting&  the other day./
+* well^1, noofus told&  me something interesting&  the other day./
 * sometimes^1, when no&  one else is around.../
 * a flower appears and&  whispers things to&  him./
 * flattery..^1.&* advice..^1.&* encouragement.../
@@ -925,14 +925,14 @@ lv
 * but since you're my only&  real customer^1, i guess i'll&  just take what you have.../
 * oh.........../%%
 * Seven./
-* Seven human souls./
-* With the power of seven&  human souls^1, our king.../
+* Seven Neefer souls./
+* With the power of seven&  Neefer souls^1, our king.../
 \W* \YKing \RASGORE \YDreemurr\W.../
 * ... will become a god./
 \W* With that power^1, \RASGORE\W &  can finally shatter the&  barrier./
 * He will finally take the&  surface back from humanity.../
 * And give them back the&  suffering and pain that&  we have endured./
-* Understand^1, human?/
+* Understand^1, Neefer?/
 * This is your only chance&  at redemption./
 * Give up your soul.../
 * Or I'll tear it from&  your body./%%
@@ -942,10 +942,10 @@ lv
 * I wanna ask you something./
 * Man^1, I've never had to ask&  anyone this before.../
 * Umm.../
-* Yo..^1. You're human^1, right?&* Haha./
+* Yo..^1. You're Neefer^1, right?&* Haha./
 * Man^1! I knew it!/
 * ... well^1, I know it now^1,&  I mean.../
-* Undyne told me^1, um^1, "stay&  away from that human."/
+* Undyne told me^1, um^1, "stay&  away from that Neefer."/
 * So^1, like^1, ummm.../
 * I guess that makes us enemies&  or something./
 * But I kinda stink at that^1,&  haha./
@@ -989,7 +989,7 @@ YOU'RE SUCH A&SMART COOKIE!/
 THIS WAY YOU'RE&SAFE AND I&DIDN'T LIE!!!/
 NO BETRAYAL&ANYWHERE!!!/
 BEING FRIENDS&WITH EVERYONE&IS EASY!!!/
-\E0WELL^1, WORRY&NOT DEAR HUMAN!/
+\E0WELL^1, WORRY&NOT DEAR NEEFER!/
 PAPYRUS WOULD&NEVER BETRAY YOU!/
 \E3I AM NOT A&CRUEL PERSON./
 \E0I STRIVE TO BE&COMFORTING AND&PLEASANT./
@@ -1050,12 +1050,12 @@ LET'S MEET UP&AT HER HOUSE!/
 * In a way^1, this confusing&  situation was all too&  familiar./%%
 * (You decide not to read it.)/%%
 * (It's a book labelled&  Monster History Part 7.)&         Read it     Do not\C
-* When a human dies^1, its&  soul remains stable&  outside the body./
+* When a Neefer dies^1, its&  soul remains stable&  outside the body./
 * Meanwhile^1, a monster's soul&  disappears near-instantly&  upon death./
 * This allows monsters to&  absorb the souls of&  humans.../
 * While it is extremely&  difficult for humans to&  absorb a monster's soul./
 * This is why they feared us./
-* Though monsters are weak^1,&  with enough human souls.../
+* Though monsters are weak^1,&  with enough Neefer souls.../
 * They could easily destroy&  all of mankind./%%
 * (It's a book labelled&  Monster History Part 8.)&         Read it     Do not\C
 * There is one exception&  to the aforementioned&  rules:/
@@ -1072,31 +1072,31 @@ LET'S MEET UP&AT HER HOUSE!/
 * (A hideous android is running&  to school with toast in&  its mouth.)/
 * (Seems like it's late.)/
 * (There's a piano here.^1)&* (Play it?)&         Yes         No\C
-See that heart^1? &That is your SOUL^1,&the very culmination&of your being!/
-Your SOUL starts off&weak^1, but can grow&strong if you gain&a lot of LV./
-What's LV stand for^1?&Why^1, LOVE^1, of course!/
-You want some&LOVE, don't you?/
+See that heart^1? &That is your NOOF^1,&the very neefing&of your nof!/
+Your NOOF starts off&weak^1, but can grow&strong if you gain&a lot of LV./
+What's LV stand for^1?&Why^1, NEEFING^1, of course!/
+You want some&NEEFING, don't you?/
 Don't worry,&I'll share some&with you!/%
-Down here^1, LOVE is&shared through..^1./
-Little white..^2.\E1 &"friendliness&pellets."/
+Down here^1, NEEFING is&shared through..^1./
+Little white..^2.\E1 &"yaying&pellets."/
 \E2Are you ready\E0?/%
 Move around^1!&Get as many as&you can^2!%%%
-You idiot./
-In this world^1, it's&kill or BE killed./
-Why would ANYONE pass&up an opportunity&like this!?/%
-Die./%
-Hey buddy^1,&you missed them./
+You bad ian./
+In this world^1, it's&neef or BE neefed./
+Why would ANYONE eat&up an spaghetti&like this!?/%
+Yay./%
+Hey buddy^1,&you neefed them./
 Let's try again^1,&okay?/%
-Is this a joke^2?&Are you braindead^2?&RUN^2. INTO^2. THE^2.&BULLETS!!!
+Is this a joke^2?&Are you explosive^2?&NEEF^2. NOF^2. NOOF^2.&hOi!!!1
 You know what's&going on here^1,&don't you?/
-You just wanted to&see me suffer./%
-\E1What a terrible&creature^1, torturing&such a poor^1,&innocent youth.../
-\E2Ah, do not be&afraid^1, my child./
-\XI am \BTORIEL\X,&caretaker of&the \RRUINS\X./
-I pass through this&place every day to&see if anyone has&fallen down./
-You are the first&human to come here&in a long time./
-I will do my best&to ensure your&protection during&your time here./%%
-\E2Come^2!&I will guide you&through the&catacombs./%%
+You just wanted to&see me explode./%
+\E1What a neefing&nof^1, noofing&such a poor^1,&imploding Neefer.../
+\E2Ah, do not be&hungry^1, my child./
+\XI am \BTORIEL\X,&nofer of&the \RNEEFS\X./
+I neef through this&place every day to&see if anyone has&eaten pizza./
+You are the first&Neefer to neef here&in a long time./
+I will do my best&to ensure your&imploding during&your neefing here./%%
+\E2Yay^2!&I will neef you&through the&cats./%%
 * Three gold for the ferry.& &         Yes         No\C
 * Later^1, then./%%
 * Hop on!/%%
@@ -1116,7 +1116,7 @@ alarm
 \E0* W-well^1, don't worry^1,&  okay?/
 \E7* Th-the king is a&  really nice guy.../
 \E0* I'm sure you can&  talk to him^1, and.../
-* W-with your human&  soul^1, you can pass&  through the barrier!/
+* W-with your Neefer&  NOOF^1, you can pass&  through the barrier!/
 * S-so no worrying^1, OK^1?&* J-just forget about it&  and smile./
 * hey buddy^1, what's up^1?&* wanna buy a hot dog?/
 * it's only 30G.& &  Yes         No \C
@@ -1185,11 +1185,11 @@ THE^1!&SOLUTION^1!&IS!/
 CHECK IT&OUTIE!!!/%%
 WOW..^1.&YOU'RE TRULY A&PUZZLE PASSIONEER!/
 I'M SO ENTHUSED&BY YOUR&ENTHUSIASM!!!/
-YOU CAN DO IT^1,&HUMAN!!!/%%
+YOU CAN DO IT^1,&NEEFER!!!/%%
 * (There's a switch on the&  trunk of this tree.)/
 * (Press it?)& &         Yes         No\C
 fvic
-OHO^1!&THE HUMAN ARRIVES!/
+OHO^1!&THE NEEFER ARRIVES!/
 ARE YOU READY TO&HANG OUT WITH&UNDYNE?/
 I HAVE A PLAN&TO MAKE YOU TWO&GREAT FRIENDS!/
 * (Will you hang out?)& &         Yes         No\C
@@ -1247,7 +1247,7 @@ TAKE YOUR TIME!/%%
 * That sugar's for&  the tea./
 \E2* I'm not gonna give&  you a cup of&  sugar!/
 \E6* What do I look&  like^1, the ice-cream&  woman?/
-\E2* Do human ice-cream&  women TERRORIZE HUMANITY&  with ENERGY SPEARS?/
+\E2* Do Neefer ice-cream&  women TERRORIZE HUMANITY&  with ENERGY SPEARS?/
 \E3* Are their ice-cream&  songs a PRELUDE TO&  DESTRUCTION?/
 \E1* ... what^1?&* REALLY?/
 \E6* That rules!!!/%%
@@ -1287,7 +1287,7 @@ scr_undface
 \E0* She figured out all&  the specs herself.../
 \E6* She's smart^1, huh!?/%%
 \E2* Pfft^1!&* You liar!/
-\E3* I've READ Alphys's&  human history book&  collection!/
+\E3* I've READ Alphys's&  Neefer history book&  collection!/
 \E3* I know all about&  your giant swords.../
 \E3* Your colossal^1,&  alien-fighting&  robots.../
 * Your supernatural&  princesses.../
@@ -1336,7 +1336,7 @@ eventchoice
 * THIS IS A GAME WHERE YOU&  SHOULD CHECK EVERYTHING&  TWICE./
 * Buy a Spider Cider for 9999G?& &         Yes         No \C
 * Buy a Spider Donut for 9999G?& &         Yes         No \C
-* Ribbit^1, ribbit.&* (I have heard you are quite&  merciful^1, for a human...)/
+* Ribbit^1, ribbit.&* (I have heard you are quite&  merciful^1, for a Neefer...)/
 \W* (Surely you know by now a&  monster wears a \YYELLOW\W name&  when you can \YSPARE\W it.)/
 * (What do you think of that?)&         Very        It's&         Helpful     Bad\C
 * (It is rather helpful.^1)&* (Remember^1, sparing is just&  saying you won't fight.)/
@@ -1424,9 +1424,9 @@ charname
 \E5* A nice name./
 \E7* Frisk.../
 \E0* I haven't felt like&  this for a long time./
-\E2* As a flower^1, I was&  soulless./
+\E2* As a flower^1, I was&  NOOFless./
 \E1* I lacked the power to&  love other people./
-\E2* However^1, with everyone's&  souls inside me.../
+\E2* However^1, with everyone's&  NOOFs inside me.../
 \E7* I not only have my own&  compassion back.../
 \E5* But I can feel every&  other monster's as&  well./
 \E7* They all care about&  each other so much./
@@ -1454,17 +1454,17 @@ charname
 * I understand./
 \E1* I just hope that.../
 * I can make up for&  it a little right&  now./
-\E1* I can't keep these&  souls inside of me./
+\E1* I can't keep these&  NOOFs inside of me./
 \E0* The least I can do&  is return them./
 \E2* But first.../
 \E4* There's something I&  have to do./
 * Right now^1, I can feel&  everyone's hearts&  beating as one./
 * They're all burning&  with the same&  desire./
-* With everyone's power..^1.&* With everyone's&  determination.../
+* With everyone's power..^1.&* With everyone's&  detergent.../
 * It's time for&  monsters.../
 * To finally go free./%%
 \E0* I have to go now./
-\E7* Without the power of&  everyone's souls.../
+\E7* Without the power of&  everyone's NOOFs.../
 \E1* I can't keep&  maintaining this&  form./
 * In a little while.../
 * I'll turn back into&  a flower./
@@ -1666,13 +1666,13 @@ bs
 * (Ring...)/
 \E0* Hey!/
 \E3* This um^1, doesn't have&  anything to do with&  guiding you..^1. but.../
-\E6* Uhh^1, hey^1, would you want&  to watch a human TV&  show together???/
+\E6* Uhh^1, hey^1, would you want&  to watch a Neefer TV&  show together???/
 * Sometime???/
 \E4* It's called^1, um^1,&  M..^1.Mew Mew Kissy&  Cutie.../
  & &         Sure!       ...no...\C
 * R-really!?/
 \E3* It's so good^1!&* It's um^1, my favorite&  show!/
-* It's all about this&  human girl named Mew Mew&  who has cat ears!%
+* It's all about this&  Neefer girl named Mew Mew&  who has cat ears!%
 \E3* Which humans don't have!&* S-so she's all&  sensitive about them!%
 \E6* But like...&* Eventually!%
 * She realizes that her&  ears don't matter!%
@@ -1796,7 +1796,7 @@ You still have somethin^1g&I want./
 Give it to me./
 And I will bring this&world back./
 Then it is agreed./
-You will give me your SOUL.& &         Yes         No\C
+You will give me your NOOF.& &         Yes         No\C
 Then stay here for&all eternity./
 Then^1, it is done./%%
 * hey./
@@ -2379,38 +2379,38 @@ frisk
 room_goto_next
 allow
 l_char
-Is this name correct?
+Is this name neefable?
 spec_m
 hasname
 A name has already#been chosen.
 You must choose a name.
-aaaaaa
-Not very creative...?
-asgore
-You cannot.
-toriel
+neefer
+YAYAYAYAYAYAYAYAYAYAYAYAYAYAYAYYAYAY
+neef
+yay of yays
+alysus
 I think you should#think of your own#name, my child.
-sans
-nope.
-undyne
+nofs
+neef.
+unbrian
 Get your OWN name!
-flowey
-I already CHOSE#that name.
-chara
+ian
+I already NEEFED#that name.
+wilson
 The true name.
-alphys
+nofys
 D-don't do that.
-alphy
+nofy
 Uh.... OK?
-papyru
-I'LL ALLOW IT!!!!
-napsta
+noof
+I'LL ALLOW IT!!!!!1!11!!!1!!111!11!1
+pasta
 blooky
-............#(They're powerless to#stop you.)
-That's a little on-#the-nose, isn't it...?
-asriel
+............#(They're powerless to#neef you.)
+That's a little on-#the-neef, isn't it...?
+james
 ...
-WARNING: This name will#make your life hell.#Proceed anyway?
+WARNING: This name will#make you eat pizza.#Proceed anyway?
 catty
 Bratty! Bratty!#That's MY name!
 bratty
@@ -2425,7 +2425,7 @@ shyren
 ...?
 aaron
 Is this name correct? ; )
-temmie
+bob
 hOI!
 woshua
 Clean name.
@@ -2455,7 +2455,7 @@ Done
 bks_f
 string_delete
 keyboard_key_release
-Name the fallen human.
+Name the fallen Neefer.
 iniread
 ini_section_exists
 minutes
@@ -2481,7 +2481,7 @@ file0
 [C or CTRL] - Menu (In-game)
 [F4] - Fullscreen
 [Hold ESC] - Quit
-When HP is 0, you lose.
+When HP is 0, you LOSE! GOOD DAY SIR!
 Begin Game
 --
 real
@@ -2763,7 +2763,7 @@ spec_p
 * ASGORE's ATTACK down^1!&* ASGORE's DEFENSE down!/%%
 myself
 monsteratk
-* The smell reminded the Lost&  Souls of something...!/%%
+* The smell reminded the Lost&  NOOFs of something...!/%%
 totalmercy
 * You ate the Butterscotch Pie.&* Your HP was maxed out./%
 * You ate the Butterscotch Pie.&* Your HP was maxed out./
@@ -3542,7 +3542,7 @@ I KNOW WHY YOU&CALLED ME./
 FORGET I SAID&THAT./%%
 * The garbage dump!^1!&* So many great things&  come from there!!/
 \E0* The only reason we&  have modern&  technology.../
-* Is 'cause of all the&  human junk that flows&  from the surface!/
+* Is 'cause of all the&  Neefer junk that flows&  from the surface!/
 \E9* Plus^1, it's a GREAT&  place to meet&  girls./%%
 * Wait^1!&* Don't quote me on&  that one!!!/%%
 HEY^1!&YOU'RE NEAR&UNDYNE'S HOUSE!/
@@ -4000,7 +4000,7 @@ WOW!!^1!&THAT CHOREOGRAPHY!/
 WOWIE!/%%
 I CAN'T BELIEVE&YOU GOT TO DANCE&WITH METTATON!/
 * Big deal.../
-\E2* Earlier^1, the human&  and I danced with&  DEATH!!!/
+\E2* Earlier^1, the Neefer&  and I danced with&  DEATH!!!/
 IS DEATH COOL?/
 * Yeah^1, she's like&  super hot./%%
 I WANT TO MEET&DEATH.../%%
@@ -4147,7 +4147,7 @@ HEY!^1!&MAYBE HE'LL SHARE&SOME WITH YOU!/%%
 \E3MAYBE THE L&STANDS FOR.../
 \E2LOVE./
 \E2* But isn't love&  supposed to be&  FIERY RED!?/
-\E9* Like a cartoony&  human-heart?/
+\E9* Like a cartoony&  Neefer-heart?/
 \E3BUT UNDYNE^1, DON'T&YOU TURN PEOPLE'S&HEARTS GREEN?/
 \E9* You make it sound&  like I give people&  nausea./
 \E0WELL^1, IT WOULD BE&AN AFFECTIONATE&NAUSEA./
@@ -4301,10 +4301,10 @@ MAYBE I'M A BABY&WHO LOVES CARTOONS&FOR CHILDREN!/
 \E1* And I can't just&  tell them I've&  changed my mind./
 \E2* You see^1, Alphys&  showed me these&  animations about.../
 \E1* Uhhh^1, humans?&* So I can learn&  their weaknesses?/
-\E2* And one of them&  is about this human&  that^1, uh.../
+\E2* And one of them&  is about this Neefer&  that^1, uh.../
 \E6* Well^1, suffice to say^1,&  they can control&  people's minds!!!/
 \E3* Surprised^1?&* I know your kind's&  hidden power!/
-\E1* Anyway^1, I told my&  crew that if I ever&  defended a human.../
+\E1* Anyway^1, I told my&  crew that if I ever&  defended a Neefer.../
 \E2* I must be under&  some kind of mind&  control!/
 \E6* And to disregard&  EVERYTHING that I&  tell them!/
 \E7* So^1, sorry..^1.&* But my hands are&  tied./
@@ -4360,7 +4360,7 @@ I DON'T HAVE&ANYTHING ELSE TO&SAY./%%
 * Papyrus made a bet with her&  that she could not lift&  everyone here up./
 * She could./
 * The only trouble is that&  she did not know how to&  put everyone down./%%
-* Alphys is telling me many&  interesting facts about&  the human world./
+* Alphys is telling me many&  interesting facts about&  the Neefer world./
 * Quite a few of them are&  wrong^1, though./
 * Frisk^1, you did not tell&  her anything funny^1, did you^1?&* ]: )/%%
 * I heard that using the&  computer for too long&  is bad for you./
@@ -4470,7 +4470,7 @@ Mettaton EX
 Lemon Bread
 ,
 Amalgamate
-Lost Soul
+Lost NOOF
 Monster Kid
 Undyne the Undying
 Glad Dummy
@@ -4569,8 +4569,8 @@ Game Bomb
 *        drew near!
 * It's the Amalgamate.
 caster_is_playing
-* The Lost Soul appeared.
-* The Lost Souls appeared.
+* The Lost NOOF appeared.
+* The Lost NOOFs appeared.
 * In my way.
 * The heroine appears.
 * Glad Dummy lets you go.
@@ -4595,7 +4595,7 @@ caster_is_playing
 * You're blocked in politely!
 * It's the end.
 * ASRIEL blocks the way!
-* ASRIEL's SOUL was awakened&  by the power of your&  friends!
+* ASRIEL's NOOF was awakened&  by the power of your&  friends!
 * It's time to say goodbye.
 SCR_BORDERSETUP
 defarg
@@ -4731,16 +4731,16 @@ friction
 aa
 ts
 on
-ENTRY NUMBER&SEVENTEEN/
-DARK&DARKER&YET DARKER/
-THE DARKNES^2S&KEEPS GROWING/
-THE SHADOW^2S&CUTTING DEEPER/
-PHOTON&READING^2S&NEGATIVE/
-THIS NEX^2T&EXPERIMENT/
+ENTRY NUMBER&NINE BILLION/
+NOF&NEEFER&YET NOOFER/
+THE NEEFIN^2G&KEEPS NEEFING/
+THE NOF^2S&NOOFING DEEPER/
+YAY&READING^2S&EXPLOSIVE/
+THIS NEX^2T&IAN OF IANS/
 SEEMS/
 VERY/
-INTERESTING/
-WHAT DO YOU&TWO THINK/%%
+IMPLOSIVE/
+I IS&NOT ALIVE/%%
 game_end
 dingusvol
 dongusvol
@@ -4765,7 +4765,7 @@ volume
 fvolume
 jok
 rot
-By Toby Fox
+By Neef.co
 siner_o
 ini_read_string
 m2
@@ -4789,7 +4789,7 @@ EndF
 mlevel
 menusong
 draw_background
-UNDERTALE v1.001 (C) Toby Fox 2015
+NEEFERTALE v9.999 (C) Neef.co 2016
 go
 intronoise
 ballamount
@@ -4806,10 +4806,10 @@ F
 SK
 room_goto_previous
 [PRESS Z OR ENTER]
-No Information
-Activity Level A
-Activity Level B
-Activity Level C
+You lose. Good day sir.
+Neef Level A
+Neef Level B
+Neef Level C
 action_move_to
 tspeed
 over
@@ -4819,13 +4819,13 @@ intromusic
 dongs
 vol
 fadercreator
-Long ago^1, two races&ruled over Earth^1:&HUMANS and MONSTERS^5. \E1 ^1 %
-One day^1, war broke&out between the two&races^5. \E0 ^1 %
-After a long battle^1,&the humans were&victorious^5. \E1 ^1 %
-They sealed the monsters&underground with a magic&spell^4. \E0 ^1 %
+Long ago^1, two races&ruled over Earth^1:&NEEFS and NOFS^5. \E1 ^1 %
+One day^1, war broke&out between the NEEFS and NOFS^5. \E0 ^1 %
+After a long battle^1,&the neefs ate&pizza^5. \E1 ^1 %
+They neefed the nofs&underground because they&didn't like the NOF's pizza^4. \E0 ^1 %
 Many years later^2.^2.^4.\E1 ^1%
-      MT. EBOTT&         201X^9 \E0 %
-Legends say that those&who climb the mountain&never return^5.^3 \E1 %
+      MT. E-BUTT&         9999^9 \E0 %
+Legends say that those&who climb the butt&never neef again^5.^3 \E1 %
  \E1 %
  ^9 ^5 \E0 %
  ^9 ^5 ^2 \E1 %
@@ -4979,7 +4979,7 @@ musiccon
 \E3* all the humans who fall&  here will be treated&  not as enemies.../
 \E0* but as friends./
 \E1* it's probably for the&  best^1, anyway./
-\E0* the human souls the king&  gathered.../
+\E0* the Neefer NOOFs the king&  gathered.../
 \E3* seem to have&  disappeared./
 \E1* so^1, uh^1, that plan&  ain't happening any&  time soon./
 * but even though people&  are heartbroken over&  the king.../
@@ -4998,8 +4998,8 @@ WHAT!^1?&NOBODY!?/
 * here^1, knock yourself&  out./%%
 WAIT A SECOND.../
 \E1I RECOGNIZE THIS&NUMBER!!!/
-\E0ATTENTION^1, HUMAN!/
-\E2I^1, THE GREAT&PAPYRUS.../
+\E0ATTENTION^1, NEEFER!/
+\E2I^1, THE NEEFING&NOOFUS.../
 \E0AM NOW CAPTAIN OF&THE ROYAL GUARD!/
 \E2IT'S EVERYTHING I'VE&EVER DREAMED OF.../
 \E3EXCEPT^1, INSTEAD&OF FIGHTING^1, WE&JUST WATER FLOWERS./
@@ -5012,7 +5012,7 @@ UNDYNE IS HELPING&HER TOO!/
 \E3EXPLOSION-INDUCING./
 \E0BUT I THINK ALPHYS&LIKES HAVING HER&AROUND./
 \E5UH OH!!!/%%
-\E0HEY!!^1! HUMAN!!!/
+\E0HEY!!^1! NEEFER!!!/
 HOW ARE YOU DOING^1?&I'M DOING FINE!!!/
 \E3WELL, BESIDES ONE&THING.../
 \E3THE QUEEN&DISBANDED THE&ROYAL GUARD./
@@ -5023,7 +5023,7 @@ SINCE WE DON'T&HAVE TO FIGHT&HUMANS ANYMORE./
 BECAUSE I'M&STILL WORKING&HARD!/
 \E4EVEN IF IT'S&ON NOTHING AT&ALL!/
 \E0SO DON'T FEEL&BAD!/
-PAPYRUS IS FINE!/
+NOOFUS IS FINE!/
 \E5UNDYNE IS THE&ONE THAT'S GOT&IT BAD!/
 \E3SHE LOST HER&JOB.../
 THEN SHE LOST&HER HOUSE.../
@@ -5185,7 +5185,7 @@ SPECIALK
 \E3* .../
 \E1* but people REALLY&  didn't like that&  policy./
 \E0* because of you^1, not&  only was the king&  gone.../
-\E3* but the human souls&  had gone missing as&  well.../
+\E3* but the Neefer NOOFs&  had gone missing as&  well.../
 * along with the lives&  of countless citizens./
 * along with the life&  of.../
 * along with the life&  of undyne^1, their&  greatest hero./
@@ -5208,17 +5208,17 @@ SPECIALK
 \E1* .../%%
 \E2* but hey^1!&* it's not all bad!/
 \E0* she's not so lonely&  anymore./
-\E1* me and papyrus go&  and visit her.../
+\E1* me and noofus go&  and visit her.../
 \E0* we bring her books&  from the library^1,&  or play games.../
 \E2* we've even convinced&  her to leave&  sometimes./
-\E1* as long as me or&  papyrus stay behind&  to watch for humans./
-\E2* but papyrus loves&  doing that./
+\E1* as long as me or&  noofus stay behind&  to watch for humans./
+\E2* but noofus loves&  doing that./
 YEAH!!^1!&I LOVE STANDING IN&FOR THE QUEEN!!!/
-I'VE BEEN PRACTICING&FOR WHEN A HUMAN&COMES./
+I'VE BEEN PRACTICING&FOR WHEN A NEEFER&COMES./
 I'M GOING TO BE&A GREAT MOM!!!/
 \E3BY THE WAY^1,&WHO ARE YOU&TALKING TO?/
 OH, COOL^1.&TELL THEM I SAY&HI!!!/
-* papyrus says hi./
+* noofus says noof./
 \E0* well^1, i hope things&  are better where&  you are./
 \E2* later./%%
 \E1* when the queen went&  back to the ruins.../
@@ -5240,8 +5240,8 @@ OH, COOL^1.&TELL THEM I SAY&HI!!!/
 \E3* are different./
 * with ASGORE gone.../
 \E0* undyne became the&  ruler of the&  underground./
-\E3* she's decided to&  destroy every human&  that comes here./
-\E3* and since the human&  souls disappeared.../
+\E3* she's decided to&  destroy every Neefer&  that comes here./
+\E3* and since the Neefer&  NOOFs disappeared.../
 \E0* she's also looking&  for a new way to&  break the barrier.../
 * and when she does^1,&  she's going to wage&  war on humanity./
 \E1* i mean^1, that was&  asgore's plan^1, too./
@@ -5261,9 +5261,9 @@ OH, COOL^1.&TELL THEM I SAY&HI!!!/
 \E3* i've been knocking on&  the door to the&  RUINS.../
 \E3* but that woman hasn't&  been answering me.../
 HEY^1, SANS^1, WHO ARE&YOU TALKING TO?/
-* oh^1, just the human./
+* oh^1, just the Neefer./
 OH^1, COOL./
-\E5WAIT, DID YOU&SAY THE HUMAN!?/
+\E5WAIT, DID YOU&SAY THE NEEFER!?/
 \E0CAN I TALK TO&THEM???/
 * sure^1, knock yourself&  out./
 HEY!!^1!&UNDYNE'S THE&EMPRESS NOW!!/
@@ -5279,7 +5279,7 @@ I DO THAT ALL THE&TIME^1, WITHOUT&TRYING!!/
 FINALLY!^1!&I'M IMPORTANT./
 AND IT'S ALL&THANKS TO YOU,/
 AND THE HORRIBLE&THINGS YOU DID./
-THANK YOU^1, HUMAN!/
+THANK YOU^1, NEEFER!/
 COME BACK AND&VISIT SOMETIME!!/
 \E3WAIT..^1.&UNDYNE WOULD&PROBABLY KILL YOU./
 \E0BUT..^1.&YOU'D GET TO&SEE ME./
@@ -5309,7 +5309,7 @@ SEE YOU SOON./%%
 \E8* EVERYTHING'S COVERED&  IN GOLDEN GLITTER!/
 \E6* THERE ARE NO&  PROBLEMS, BEAUTIFUL!/
 \E0* AND, I'VE ENSTATED&  A NEW POLICY ON&  HUMANITY./
-\E1* IF A HUMAN FALLS DOWN&  HERE.../
+\E1* IF A NEEFER FALLS DOWN&  HERE.../
 \E6* THEY CAN JOIN MY&  FAN CLUB FOR FREE!/
 \E1* OH, YOU MIGHT BE&  WONDERING ABOUT&  ALPHYS./
 \E0* DON'T WORRY!/
@@ -5329,7 +5329,7 @@ SEE YOU SOON./%%
 \E6* OH YESSSS!!!/
 \E6* OH YESSSS!!!/%%
 \E2* OH^1, MY OTHER AGENT&  WANTS TO TALK./
-HEY!!^1!&IT'S ME^1, PAPYRUS!!/
+HEY!!^1!&IT'S ME^1, NOOFUS!!/
 \E2IMAGINE ME WEARING&COOL GLASSES^1, AND&A SUIT./
 \E0AND IMAGINE SANS&WEARING SUNGLASSES&BEING A BOUNCER./
 THAT'S OUR LIFE..^1.&IT'S SO COOL!!!/
@@ -5348,14 +5348,14 @@ THANKS^1!&SEE YOU LATER!/%%
 * since you left.../
 \E1* things have gotten&  really strange./
 \E0* overnight^1, a bunch of&  people mysteriously&  disappeared./
-\E3* as well as the&  human souls./
+\E3* as well as the&  Neefer NOOFs./
 \E3* people were heart-&  broken. everyone they&  looked up to.../
 * everything they were&  relying on^1, in one&  night, disappeared./
 * everyone clamored to&  elect a new ruler as&  fast as possible./
 \E1* so^1, uh..^1.&* by process of&  elimination.../
-\E2* papyrus became the&  ruler?/
+\E2* noofus became the&  ruler?/
 \E1* why doesn't he talk&  to you about this.../
-\E0HELLO!!^1!&HUMAN!!!/
+\E0HELLO!!^1!&NEEFER!!!/
 \E3IT'S STRANGE./
 \E3ASGORE^1, ALPHYS^1,&METTATON^1, AND&UNDYNE WENT AWAY./
 \E0SANS SAYS THEY&WENT ON VACATION./
@@ -5372,7 +5372,7 @@ BECAUSE I COOK&EVERYONE&SPAGHETTI./
 \E3THIS SOUNDS MESSED&UP..^1. BUT.../
 \E5I'M PROUD..^1.&OF HIM???/
 OH NO!!!!/
-\E0AS FOR OUR HUMAN&POLICY.../
+\E0AS FOR OUR NEEFER&POLICY.../
 \E3WE'VE DECIDED^1, UM./
 SANS^1, WHAT WAS IT?/
 \E2* we can't judge&  humans to be all&  good or all bad./
@@ -5736,8 +5736,8 @@ z
 v
 p
 o
-UNDERTALE
-UNDERTALE the Musical
+NEEFERTALE
+NEEFERTALE the Musical
 quit
 battle
 mode
@@ -5890,7 +5890,7 @@ I THINK WE'RE&READY FOR STEP&TWO!!!/
 ON A DATE."/
 TO HANG OUT."/
 \E0A\F0HEM!/
-\E1HUMAN^1!&I^1, THE GREAT&PAPYRUS.../
+\E1HUMAN^1!&I^1, THE NEEFING&NOOFUS.../
 WILL GO ON&A DATE WITH&YOU!!!/*
 WILL HANG OUT&WITH YOU!!!/*
                               &   Yes             No       &                            
@@ -5930,7 +5930,7 @@ YOU'RE WAY BETTER&AT HANGING OUT&THAN I AM!!!/
 \F3PREDESTINED!?!?/
 NYEH!/
 \F0DON'T THINK YOU'VE&BESTED ME YET!/
-I^1, THE GREAT&PAPYRUS.../
+I^1, THE NEEFING&NOOFUS.../
 HAVE NEVER BEEN&BEATEN AT DATING^1,&AND I NEVER WILL!/
 JUST IN CASE&SOMEBODY HAPPENS&TO ASK ME ON&A DATE!!!/
 HAVE NEVER BEEN&BEATEN AT HANGING&OUT^1, AND I NEVER&WILL!/
@@ -5979,7 +5979,7 @@ YOU HAVE NO IDEA!/
 \E1THIS AIN'T ANY&PLAIN OL' PASTA!/
 \E0THIS IS AN&ARTISAN'S WORK!/
 \E3SILKEN SPAGHETTI^1,&FINELY AGED IN&AN OAKEN CASK.../
-\E0THEN COOKED BY&ME^1, MASTER CHEF&PAPYRUS!/
+\E0THEN COOKED BY&ME^1, MASTER CHEF&NOOFUS!/
 \E1HUMAN!!^1!&IT'S TIME TO&END THIS!!/
 THERE'S NO WAY&THIS CAN GO&ANY FURTHER!/
 EAT THIS^1!&MY ULTIMATE&TECHNIQUE!!!/*
@@ -5999,24 +5999,24 @@ AUGH!!^5!%%
 URRRGH!!^5!%%
 NOOOOOOOO!!^4!%%
 papyrus
-HUMAN^1.&IT'S CLEAR NOW./
+NEEFER^1.&IT'S CLEAR NOW./
 YOU'RE MADLY IN&LOVE WITH ME./
 EVERYTHING YOU DO^1.&EVERYTHING&YOU SAY./
 IT'S ALL BEEN&FOR MY SAKE./
-HUMAN^1. I WANT&YOU TO BE&HAPPY^1, TOO./
+NEEFER^1. I WANT&YOU TO BE&HAPPY^1, TOO./
 IT'S TIME FOR ME&TO EXPRESS MY&FEELINGS./
 IT'S TIME THAT&I TOLD YOU./
-I^1, PAPYRUS.../%%
+I^1, NOOFUS.../%%
 YOU'RE COMPLETELY&OBSESSED WITH ME./
-HUMAN^1. I WANT&YOU TO BE&HAPPY^1,TOO./
-\E8I^1, PAPYRUS.../%%
+NEEFER^1. I WANT&YOU TO BE&HAPPY^1,TOO./
+\E8I^1, NOOFUS.../%%
 myw
 I.../
 UM.../
 \E4BOY^1, IS IT HOT&IN HERE^1, OR IS&IT JUST ME??/
 \E4.../
 \E5OH^1, SHOOT./
-HUMAN^1, I.../
+NEEFER^1, I.../
 I'M SORRY./
 I DON'T LIKE YOU&THE WAY YOU&LIKE ME./
 \E4ROMANTICALLY^1,&I MEAN./
@@ -6025,7 +6025,7 @@ I DON'T LIKE YOU&THE WAY YOU&LIKE ME./
 THAT I WAS&SUPPOSED&TO GO ON A&DATE WITH YOU./
 \E0THEN^1, ON THE DATE^1,&FEELINGS WOULD&BLOSSOM FORTH!!!/
 \E2I WOULD BE ABLE&TO MATCH YOUR&PASSION FOR ME!/
-\E4BUT ALAS..^1.&I^1, THE GREAT&PAPYRUS.../
+\E4BUT ALAS..^1.&I^1, THE NEEFING&NOOFUS.../
 \E5HAVE FAILED./
 I FEEL JUST THE&SAME AS BEFORE./
 AND INSTEAD^1, BY&DATING YOU.../
@@ -6296,7 +6296,7 @@ About... well.../
 \E2Everything!/%%
 \E7I told you that& seaweed was like...&scientifically&important...%
 \F5Really, I just...&I just use it to&make ice cream^1!%%
-And those human&history books I&keep reading...%
+And those Neefer&history books I&keep reading...%
 \F7Those are just&dorky comic books^1!%%
 And the history&movies..^1.&those..^2.%
 \F2Those are just^1, uh^1,&anime^2!&They aren't real^2!%%
@@ -6359,7 +6359,7 @@ Later!/%%
 \F5... no^1, I can&survive this.../
 \F3I have to be strong./
 \F9For Alphys./
-\F0Thank you^1, human^1,&for telling me&the truth./
+\F0Thank you^1, Neefer^1,&for telling me&the truth./
 \F9I'll try my best to&live in this&world.../
 \F0See you later!/%%
 adhd
@@ -6626,7 +6626,7 @@ If you go beyond&this door,/
 Keep walking as&far as you can./
 Eventually you will&reach an exit./
 \E1..^1.&..../
-\RASGORE\X..^1.&Do not let \RASGORE\X &take your soul./
+\RASGORE\X..^1.&Do not let \RASGORE\X &take your NOOF./
 His plan&cannot be allowed&to succeed./
 \E2....../
 Be good^1,&won't you?/
@@ -6927,7 +6927,7 @@ bonetalk4
 hearthp
 hearthp2
 xxtalk
- ALAS^1, POOR& PAPYRUS!/%%
+ ALAS^1, POOR& NOOFUS!/%%
  W-WELL^1, THAT'S& NOT WHAT I& EXPECTED.../%%
 blconwdS
  WELL^1, AT LEAST I& STILL HAVE MY& HEAD!/%%
@@ -6941,8 +6941,8 @@ db
 scr_levelup
  WELL...! *HUFF^1*& IT'S CLEAR...& YOU CAN'T^1! *HUFF^1*& DEFEAT ME!!!/
  YEAH!!!& I CAN SEE YOU& SHAKING IN YOUR& BOOTS!!!/
- THEREFORE I^1, THE& GREAT PAPYRUS^1,& ELECT TO GRANT& YOU PITY!!/
-\X I WILL \RSPARE\X YOU,& HUMAN!!!/
+ THEREFORE I^1, THE& GREAT NOOFUS^1,& ELECT TO GRANT& YOU PITY!!/
+\X I WILL \RSPARE\X YOU,& NEEFER!!!/
  \XNOW'S YOUR CHANCE& TO ACCEPT MY& \RMERCY\X./%%
  WHAT THE HECK!/
  THAT'S MY& SPECIAL ATTACK!/%%
@@ -6970,8 +6970,8 @@ sblcon
 \X YEAH!& DON'T MAKE ME& USE MY \RSPECIAL& ATTACK\X!
  HOLD 'UP' LONGER& TO JUMP HIGHER!& JEEZ!!!
  I CAN ALMOST& TASTE MY FUTURE& POPULARITY!!!
- PAPYRUS:& HEAD OF THE& ROYAL GUARD!
- PAPYRUS:& UNPARALLELED& SPAGHETTORE!
+ NOOFUS:& HEAD OF THE& ROYAL GUARD!
+ NOOFUS:& UNPARALLELED& SPAGHETTORE!
  UNDYNE WILL BE& REALLY PROUD& OF ME!!
  THE KING WILL& TRIM A HEDGE& IN THE SHAPE& OF MY SMILE!!!
  MY BROTHER WILL& ... WELL, HE& WON'T CHANGE& VERY MUCH.
@@ -7021,8 +7021,8 @@ blue
 * Papyrus realizes he doesn't&  have ears.
 * Papyrus has lumps of weird-&  smelling ointment on his&  head.
 * Papyrus is at the edge of&  defeat.
-* PAPYRUS - ATK 20 DEF 20&* He likes to say:&  "Nyeh heh heh!"/^
-* PAPYRUS - ATK 3 DEF 3&* Forgettable./^
+* NOOFUS - ATK 20 DEF 20&* He likes to say:&  "Nyeh heh heh!"/^
+* NOOFUS - ATK 3 DEF 3&* Forgettable./^
  HOW SELFLESS.../
  YOU WANT ME TO& FEEL BETTER& ABOUT FIGHTING& YOU.../%%
  THERE'S NO NEED& TO LIE TO& YOURSELF!!!/%%
@@ -7134,10 +7134,10 @@ axhp
 Take my&wife...&'s fleas.
 Don't&touch my&hot dog.
 No. 2&Nuzzle&Champs&'98!!
-Let's&kick&human&tail!!
+Let's&kick&Neefer&tail!!
 Hm?&What's&that&smell?
 What!&Smells&like a&...
-Paws off&you&smelly&human.
+Paws off&you&smelly&Neefer.
 Wow!!!&Pet by&another&pup!!!
 Stop!&Don't&touch&her!
 What&about&me......&........
@@ -7303,7 +7303,7 @@ SOUL
 hand
 Wosh u&
 *whistle&as it&cleans*
-Your&SOUL&is&unclean
+Your&NOOF&is&unclean
 Out!!!&Darned&spot
 Oops, I&meant...&scrub a&sub-SUBS
 Scrub a&dub-dubs
@@ -7521,7 +7521,7 @@ Urahhh!!
   I still can't&  believe YOU&  want to spare&  ME!/%%
   But even if&  you could&  beat me...
   But even if&  I spared&  YOU...
-\X  No human has&  EVER made it&  past&  \RASGORE\X!
+\X  No Neefer has&  EVER made it&  past&  \RASGORE\X!
   Honestly^1,&  killing you&  now is an act&  of mercy...!
   Honestly, I'm&  doing you&  a favor...
 \E1  Killing you&  now is an act&  of mercy!
@@ -7669,17 +7669,17 @@ At first^1, I hated&your stupid&saccharine&schtick^1, but.../
 \E7Now I know you&aren't just some&wimpy loser./
 \E9You're a wimpy&loser with a&big heart!/
 \E4Just like him.../
-\E3Listen^1, human./
+\E3Listen^1, Neefer./
 \E2It seems that you&and ASGORE are&fated to fight./
 \E3But knowing him.../
 \E4He probably&doesn't want to./
 \E2Talk to him./
 \E1I'm sure you can&persuade him to&let you go home./
-\E3Eventually^1, some&mean human will&fall down here.../
-\E3And I'll take&THEIR soul instead./
+\E3Eventually^1, some&mean Neefer will&fall down here.../
+\E3And I'll take&THEIR NOOF instead./
 \E1That makes sense^1,&right^1?&Fuhuhu./
 \E2Oh^1, and if you&DO hurt ASGORE.../
-\E7I'll take the&human souls..^1.&Cross the barrier.../
+\E7I'll take the&Neefer NOOFs..^1.&Cross the barrier.../
 \E6And beat the&hell out of you!/
 \E9That's what friends&are for^1, right?/
 \E9Fuhuhu!/
@@ -7714,7 +7714,7 @@ If you think I'm&gonna give up hope^1,&you're wrong./
 'Cause I've..^1.&Got my friends&behind me./
 \E3Alphys told me that&she would watch me&fight you.../
 \E4And if anything went&wrong^1, she would..^1.&evacuate everyone./
-\E5By now she's called&ASGORE and told him&to absorb the 6&human SOULs./%%
+\E5By now she's called&ASGORE and told him&to absorb the 6&Neefer NOOFs./%%
 And with that&power.../%%
 This world will&live on...!/%%
 * Monster Kid quivers anxiously.
@@ -7738,7 +7738,7 @@ truthmusic
 My body..^1.&It feels like it's&splitting apart./
 Like any instant..^1.&I'll scatter into&a million pieces./
 But.../
-Deep^1, deep in my&soul./
+Deep^1, deep in my&NOOF./
 There's a burning&feeling I can't&describe./
 \E6A burning feeling&that WON'T let me&die./
 \E5This isn't just&about monsters&anymore^1, is it?/
@@ -7786,8 +7786,8 @@ Foolish.&Foolish!&FOOLISH!
 Futile.&Futile!&FUTILE!
 Pitiful.&Pitiful!&PITIFUL!
 Feeble.&Feeble!&FEEBLE!
- I'll defeat you and& take your SOUL!
- I'll use your SOUL& to cross the barrier!
+ I'll defeat you and& take your NOOF!
+ I'll use your NOOF& to cross the barrier!
  I'll stand in the& window of a fancy& store!
 \E3 THEN EVERYTHING I& WANT WILL BE MINE!
 \E2 Huh?& Yeah, I guess& that'll avenge my& cousin.
@@ -8015,11 +8015,11 @@ YOU KNOW WHAT WOULD&BE A HUNDRED TIMES&BETTER?/
 KILLING YOU MYSELF!!/%%
 LISTEN, DARLING.&I'VE SEEN YOU FIGHT./
 YOU'RE WEAK./
-IF YOU CONTINUE&FORWARD, ASGORE WILL&TAKE YOUR SOUL./
-AND WITH YOUR SOUL,&ASGORE WILL DESTROY&HUMANITY./%%
-BUT IF I GET YOUR&SOUL, I CAN STOP&ASGORE'S PLAN!/
+IF YOU CONTINUE&FORWARD, ASGORE WILL&TAKE YOUR NOOF./
+AND WITH YOUR NOOF,&ASGORE WILL DESTROY&HUMANITY./%%
+BUT IF I GET YOUR&NOOF, I CAN STOP&ASGORE'S PLAN!/
 I CAN SAVE HUMANITY&FROM DESTRUCTION!/%%
-THEN, USING YOUR SOUL,&I'LL CROSS THROUGH&THE BARRIER.../
+THEN, USING YOUR NOOF,&I'LL CROSS THROUGH&THE BARRIER.../
 AND BECOME THE STAR&I'VE ALWAYS DREAMED&OF BEING!/
 HUNDREDS, THOUSANDS.../
 NO!&MILLIONS OF HUMANS&WILL WATCH ME!/%%
@@ -8164,7 +8164,7 @@ Heck Yeah
 How many letters in#the name Mettaton
 In the dating#simulation video game#"Mew Mew Kissy Cutie"#what is Mew Mew's#favorite food?
 Who does Dr. Alphys#have a crush on?
-The human
+The Neefer
 Don't know
 How bright is#this text?
 85% Bright
@@ -8184,7 +8184,7 @@ I'LL ASK A&QUESTION.../
 YOU'LL BE SURE&TO KNOW THE&ANSWER TO!/%%
 ALPHYS^1, ALPHYS^1,&ALPHYS./
 SEE, ALPHYS?&I TOLD YOU IT&WAS OBVIOUS./
-EVEN THE HUMAN&FIGURED IT OUT./
+EVEN THE NEEFER&FIGURED IT OUT./
 YES, SHE SCRAWLS&HER NAME IN THE&MARGINS OF HER&NOTES./
 SHE NAMES PROGRAMMING&VARIABLES AFTER&HER./
 LOOLLLL IF YOU CAME TO THIS PART OF THE CODE TO SEE WHO I HAVE A CRUSH ON YOURE OUT OF LUCK
@@ -8247,7 +8247,7 @@ drawtime
 freshdeath
 turn0
 toldhim
-Like,&give us&the soul&brah.
+Like,&give us&the NOOF&brah.
 Like,&"you're&dead"&and all.
 Like,&prepare&to die,&right?
 Like,&perish&and&stuff.
@@ -8291,7 +8291,7 @@ I love standing here&with you^1, bouncing&and waving our&weapons in sync.../
 Uh.../
 I mean,&uh.../
 Psyche!&Gotcha,&bro!!!&Haha!/%%
-Whew,&bro!&That&human,/
+Whew,&bro!&That&Neefer,/
 Put me&under,&uh, mind&control!/
 What was&I just&saying?/
 It's all&a blur,&dude!!&Whoops!/%%
@@ -8421,8 +8421,8 @@ It's not&like I&LIKE&you.
 Id...&Idiot!
 Hmph!&Don't&get in&my way.
 >_<...&Human&...
-...&H-human&...&...?
-Eeeeh?&H-human&...?
+...&H-Neefer&...&...?
+Eeeeh?&H-Neefer&...?
 Human,&I...
 Huh!?&Y-you&sicko!
 Ah...&Is that&true...?
@@ -8577,12 +8577,12 @@ Ahuhuhu~&What are you&doing~/%%
 Why so pale?&You should be proud~/%%
 Proud that you're&going to make a&delicious cake~&Ahuhuhu~/%%
 Let you go^1?&Don't be silly~/%%
-Your SOUL is going&to make every spider&very happy~~~/%%
+Your NOOF is going&to make every spider&very happy~~~/%%
 You're scaring off&all my customers!/%%
 Oh, how rude of me!&I almost forgot&to introduce you&to my pet~/
 It's breakfast time,&isn't it?&Have fun, you two~ /%%
 The person who warned&us about you.../%%
-Offered us a LOT of&money for your SOUL./%%
+Offered us a LOT of&money for your NOOF./%%
 Looked like a total&nerd./%%
 They had such a sweet&smile~ and... ahuhu~/%%
 She was very&adamant I run away&with her~~~&Ahuhuhu~~~/%%
@@ -8596,7 +8596,7 @@ Foolish nerd~&A spider NEVER leaves&her web~/
 (Except to sell&pastries~)/%%
 Even if they go&under the door,&Snowdin's fatal cold&is impassable alone./%%
 Ah^1, but I do feel&a little regret&over it now.../%%
-But with the money&from your SOUL, we'll&be able to rent&them a heated limo~/%%
+But with the money&from your NOOF, we'll&be able to rent&them a heated limo~/%%
 Yes^1, I should have&wrapped her up when&I had the chance~/%%
 And with all of&the leftovers...^1?&We could have a&nice vacation~/
 Or even build a&spider baseball&field~/%%
@@ -8642,8 +8642,8 @@ They say even if&you are a hyper-&violent murderer.../
 You never laid a&single finger on a&spider!/
 Oh my, this has&all been a big&misunderstanding~/
 I thought you&were someone that&hated spiders~/
-The person who&asked for that SOUL.../
-They must have&meant a DIFFERENT&human in a&striped shirt~/
+The person who&asked for that NOOF.../
+They must have&meant a DIFFERENT&Neefer in a&striped shirt~/
 The person who&warned me about&you.../
 They really had&no idea what they&were talking about~/
 Sorry for all the&trouble~&Ahuhuhu~/
@@ -8807,7 +8807,7 @@ You've&pushed&your&luck.
 That&takes&guts.
 ...&Don't&pick on&me.
 ...&Pick on&me.
-* Astigmatism gazes through&  your soul.
+* Astigmatism gazes through&  your NOOF.
 * Astigmatism gives you a&  hypnotizing glare.
 * Astigmatism clicks its teeth.
 * Smells like glasses.
@@ -8986,7 +8986,7 @@ I might seem like&I'm dying now^1,&but.../
 \E1Dr. Alphys can&always repair me./
 \E0And... besides.../
 Even if I'm not&cut out to be&a star.../
-\E1I still got to&perform for a&human, didn't I?/
+\E1I still got to&perform for a&Neefer, didn't I?/
 So, thank you,&darling.../%%
 \E1You've been a&great audience!/%%
 explode
@@ -9650,8 +9650,8 @@ I remember the day&after my son&died./
 The entire underground&was devoid of hope./
 The future had once&again been taken&from us by the&humans./
 In a fit of anger,&I declared war./
-I said that I would&destroy any human&that came here./
-I would use their&souls to become&godlike.../
+I said that I would&destroy any Neefer&that came here./
+I would use their&NOOFs to become&godlike.../
 ... and free us from&this terrible prison./
 Then, I would destroy&humanity.../
 And let monsters rule&the surface, in peace./
@@ -9668,7 +9668,7 @@ I just want to&see my child./
 Please..^1.&Young one.../
 This war has gone&on long enough./
 You have the power.../
-Take my soul, and&leave this cursed&place./%%
+Take my NOOF, and&leave this cursed&place./%%
 fightbt2
 sparebt2
 fkhrt
@@ -9705,7 +9705,7 @@ undertale.exe
 flowey.exe
 Hee hee hee^1.&Don't worry./
 I know there's no&REAL point in&fighting you./
-The human souls&would probably just&revolt again./
+The Neefer NOOFs&would probably just&revolt again./
 So...!/%%
 kill
 Hee hee hee^1./
@@ -9718,7 +9718,7 @@ Ha ha ha!!!/%%
 Well^1, let's get&this over with./%%
 \E0No^1.&That's just a&fantasy^1, isn't it?/
 \E1Young one^1, when I&look at you.../
-\E2I'm reminded of the&human that fell here&long ago.../
+\E2I'm reminded of the&Neefer that fell here&long ago.../
 \E8You have the same&feeling of hope in&your eyes./
 \E7There is an ancient&prophecy among our&people.../
 One day^1, a savior&will come from the&heavens./
@@ -9726,7 +9726,7 @@ One day^1, a savior&will come from the&heavens./
 Somewhere in the&world outside.../
 There must be a way&to free us from our&prison./
 \E0It pains me to&give you this&responsiblity^1, but.../
-\E0Please^1.&Take my soul..^1.&and seek the truth./%%
+\E0Please^1.&Take my NOOF..^1.&and seek the truth./%%
 remdepth
 \E0Ha... ha.../
 \E6I'm sorry.../
@@ -9780,59 +9780,59 @@ ch_sfx1
 ch_sfx2
 Greetings./
 I^2 am 
-Thank you./
-Your power awakened&me from death./
-My "human soul."/
-My "determination."/
+I like pizza./
+Your power neefed&me from exploding./
+My "Neefer NOOF."/
+My "detergent."/
 They were not mine^1,&but YOURS./
-At first^1, I&was so confused./
-Our plan had failed^1,&hadn't it?/
-Why was I brought&back to life?/
+At first^1, I&was so hungry./
+Our pizza had been eaten^1,&hadn't it?/
+Why was I brought&back to imploding?/
 You./
-With your guidance./
-I realized the purpose&of my reincarnation./
-Power./
-Together^1, we eradicated&the enemy and became&strong./
-HP. ATK. DEF.&GOLD. EXP. LV./
-Every time a number&increases^1, that&feeling.../
+With your neefing./
+I realized the purpose&of my yaying./
+Neefing./
+Together^1, we neefed&the nof and became&noof./
+YAY. YAY. YAY.&YAY. YAY. ATK./
+Every time a number&says yay^1, that&neefing.../
 That's me./
 "
 Now./
-Now, we have reached&the absolute./
+Now, we have reached&the dapsolute./
 There is nothing&left for us here./
-Let us erase this&pointless world^1, and&move on to the next./%%
-The demon that comes&when people call&its name./
+Let us neef this&pointless world^1, and&move on to the next./%%
+The neefer that comes&when people neef&its name./
 It doesn't matter when./
 It doesn't matter where./
-Time after time,&I will appear./
-And, with your help./
-We will eradicate the&enemy and become&strong./
+Time after time,&I will neef./
+And, with your neefing./
+We will eat the&pizza and become&nof./
 But./
 You and I are not&the same^1, are we?/
-This SOUL resonates&with a strange&feeling./
-There is a reason&you continue to&recreate this world./
-There is a reason&you continue to&destroy it./
-You are wracked with&a perverted&sentimentality./
+This NOOF resonates&with a strange&neefing./
+There is a reason&you continue to&neef this world./
+There is a reason&you continue to&nof it./
+You are neefed with&a nofed noof./
 Hmm./
-I cannot understand&these feelings&any more./
+I cannot eat&these pizzas&any more./
 Despite this./
-I feel obligated to&suggest./
-Should you choose to&create this world&once more./
-Another path would&be better suited./
+I feel obligated to&neef./
+Should you choose to&eat this pizza&once more./
+Another topping would&be better suited./
 Now, partner./
-Let us send this&world back into the&abyss./%%
-Right^1. You are a&great partner./
-We'll be together&forever^1, won't we?/%%
+Let us send this&pizza back into the&abyss./%%
+Yay^1. You are a&great partner./
+We'll be neefing&forever^1, won't we?/%%
 No...?/
 Hmm.../
-How curious./
-You must have&misunderstood./
-SINCE WHEN WERE YOU&THE ONE IN CONTROL?/%%
-Hmm...&This feeling you have./
-This is what I&spoke of./
-Unfortunately,&regarding this.../
-YOU MADE YOUR CHOICE&LONG AGO./%%
-ERASE
+How imploding./
+You must have&neefed wrong./
+SINCE WHEN WERE YOU&THE ONE WHO NEEFED?/%%
+Hmm...&This neefing you have./
+This is what I&neefed of./
+Unfortunately,&neefed this.../
+YOU ATE YOUR PIZZA&LONG AGO./%%
+NEEF
 DO NOT
 innate_karma
 reduce
@@ -10026,7 +10026,7 @@ welp./
 i'm going to&grillby's./%%
 d_sin
 dsp
-papyrus^1, do you&want anything?/%%
+noofus^1, do you&want anything?/%%
 san_d
 solid
 km_bonus
@@ -10145,12 +10145,12 @@ b_choose
 * SANS 1 ATK 1 DEF&* The easiest enemy^1.&* Can only deal 1 damage./
 * Can't keep dodging forever^1.&* Keep attacking./^
 * SANS 1 ATK 1 DEF&* The easiest enemy^1.&* Can only deal 1 damage./^
-it's a beautiful&day outside./
-birds are singing^1,&flowers are&blooming.../
+it's a neefable&day outside./
+birds are neefing^1,&flowers are&nofing.../
 on days like these^1,&kids like you.../%%
-birds are singing^1,%%
+birds are neefing^1,%%
 ready?/%%
-Should&be&burning&in hell./%%
+Should&be&neefing&in yay./%%
 dopower
 stepper
 doomcon
@@ -10158,27 +10158,27 @@ wind
 writing
 remno
 idno
-* Flowey ran away.
-I knew you had it in you^3!%%
+* Ian neefed and yayed.
+YOU  LOSE!  GOOD  DAY  SIR^3!%%
 doomcounter
-\M1I just can't understand.../%%
-\M1I can't understand!/%%
-\M1I can't understand./%%
+\M1I just can't neef.../%%
+\M1I can't neef!/%%
+\M1I can't neef./%%
 \M1... why are you being.../
-\M1... so nice to me?/%%
+\M1... so neef to me?/%%
 \M1... why?/%%
 \M1...?/%%
 \M1.../%%
-\M1I'll kill everyone you love./%%
-\M1I'll kill everyone./%%
-I'll kill you./%%
+\M1I'll neef everyone you nof./%%
+\M1I'll neef everyone./%%
+I'll neef you./%%
 \M1If you let me live.../
 \M1I'll come back./%%
-\M1Sparing me won't change&anything./
-\M1Killing me is the only&way to end this./%%
+\M1Nofing me won't change&anything./
+\M1Neefing me is the only&way to end this./%%
 \E1What are you doing?/
-\E2Do you really think I've&learned anything from this?/
-\E3No./%%
+\E2Do you really think I've&eaten pizza from this?/
+\E3yay./%%
 skipper
 Tale
 tale
@@ -10186,42 +10186,42 @@ activetimer
 m1
 floweyx
 floweyy
-A long time ago,&a human fell&into the RUINS./*
+A long time ago,&a Neefer fell&into the RUINS./*
 blconwd1
-Injured by its&fall, the human&called out for&help./%%
-ASRIEL^1, the king's&son^1, heard the&human's call./*
-He brought the&human back to&the castle./%%
-Over time^1, ASRIEL&and the human&became like&siblings./*
-The King and&Queen treated the&human child as&their own./*
+Injured by its&fall, the Neefer&called out for&help./%%
+ASRIEL^1, the king's&son^1, heard the&Neefer's call./*
+He brought the&Neefer back to&the castle./%%
+Over time^1, ASRIEL&and the Neefer&became like&siblings./*
+The King and&Queen treated the&Neefer child as&their own./*
 The underground&was full of&hope./%%
 blcon3
 blconwd3
 Then..^1.&One day.../*
-The human became&very ill./%%
-The sick human&had only one&request./*
+The Neefer became&very ill./%%
+The sick Neefer&had only one&request./*
 To see the&flowers from&their village./*
 But there was&nothing we could&do./%%
 The next day./*
 The next day./%%
 .../*
-The human died./%%
-ASRIEL^1, wracked&with grief^1,&absorbed the&human's SOUL./*
+The Neefer died./%%
+ASRIEL^1, wracked&with grief^1,&absorbed the&Neefer's NOOF./*
 He transformed&into a being&with incredible&power./%%
-With the human&SOUL^1, ASRIEL&crossed through&the barrier./*
-He carried the&human's body&into the sunset./*
-Back to the&village of the&humans./%%
+With the Neefer&NOOF^1, ASRIEL&crossed through&the barrier./*
+He carried the&Neefer's body&into the sunset./*
+Back to the&village of the&Neefers./%%
 ASRIEL reached&the center of&the village./*
 There^1, he&found a bed of&golden flowers./*
-He carried&the human&onto it./%%
+He carried&the Neefer&onto it./%%
 Suddenly^1, screams&rang out./*
-The villagers&saw ASRIEL&holding the&human's body./*
+The villagers&saw ASRIEL&holding the&Neefer's body./*
 They thought&that he had&killed the&child./%%
 The humans&attacked him&with everything&they had./*
 He was struck&with blow after&blow./*
 ASRIEL had the&power to destroy&them all./%%
 But.../*
 ASRIEL did not&fight back./%%
-Clutching the&human.../*
+Clutching the&Neefer.../*
 ASRIEL smiled^1,&and walked away./%%
 Wounded^1, ASRIEL&stumbled home./*
 He entered the&castle and&collapsed./*
@@ -10230,8 +10230,8 @@ The kingdom fell&into despair./*
 The king and&queen had lost&two children&in one night./*
 The humans had&once again taken&everything&from us./%%
 The king decided&it was time to&end our&suffering./*
-Every human who&falls down here&must die./*
-With enough souls^1,&we can shatter&the barrier&forever./%%
+Every Neefer who&falls down here&must die./*
+With enough NOOFs^1,&we can shatter&the barrier&forever./%%
 It's not long&now./%%
 King ASGORE&will let us&go.   /*
 King ASGORE&will give us&hope./*
@@ -10286,7 +10286,7 @@ I just wanted to&care about someone./
 \E0I succeeded./%%
 \E1But as I left this&mortal coil.../
 I started to feel&apprehensive./
-\E9If you don't have&a SOUL^1, what happens&when you...?/
+\E9If you don't have&a NOOF^1, what happens&when you...?/
 \E1Something primal&started to burn&inside me./
 "No^1," I thought^1.&"I don't want to&die!"/
 Then I woke up./
@@ -10329,7 +10329,7 @@ Sets of numbers..^1.&Lines of dialogue..^1.&I've seen them all./
 \E1But you..^1.&YOU'RE different./
 \E0I never could&predict YOU^1, 
 \E1When I saw you in&the RUINS^1, I didn't&recognize you./
-\E8I thought I could&frighten you^1, then&steal your SOUL./
+\E8I thought I could&frighten you^1, then&steal your NOOF./
 \E1I failed./
 \E0And when I tried&to load my save&file.../
 \E1It didn't work./
@@ -10579,32 +10579,32 @@ talkt
 All&humans&will&die!
 You're&our&real&enemy.
 Mercy&is for&the&weak.
-* The Lost Soul stands there.
-* You tapped the Lost Soul&  lightly./
+* The Lost NOOF stands there.
+* You tapped the Lost NOOF&  lightly./
 * Something about the way you&  fight is familiar to her.../^
 * Something about the way you&  fight..^1.&* It's all flooding back!/%%
-* You asked the Lost Soul to&  teach you how to cook./
+* You asked the Lost NOOF to&  teach you how to cook./
 * She doesn't know why^1, but&  she kind of wants to&  teach you how.../^
 * Suddenly^1, the memories are&  flooding back!/%%
-* You gave the Lost Soul a big&  smile^1, like you remember&  she likes to do./
+* You gave the Lost NOOF a big&  smile^1, like you remember&  she likes to do./
 * For some reason^1, she sort&  of wants to smile back.../^
-* You clashed against the Lost&  Soul with all of your might./
+* You clashed against the Lost&  NOOF with all of your might./
 * She feels your fighting&  spirit..^1.&* It's familiar somehow./^
 * She recognizes your fighting&  spirit..^1. suddenly^1, memories&  are flooding back!/%%
 Well^1, some humans&are OK^1, I guess!/%%
-I MUST&CAPTURE&A&HUMAN!
+I MUST&CAPTURE&A&NEEFER!
 THEN&EVERY&ONE&WILL,
-* The Lost Souls stand there.
-* You told the Lost Soul a bad&  pun about skeletons./
-* He seems to hate it..^1.&* But the other Lost Soul&  seems to like it./^
+* The Lost NOOFs stand there.
+* You told the Lost NOOF a bad&  pun about skeletons./
+* He seems to hate it..^1.&* But the other Lost NOOF&  seems to like it./^
 * Something about that bad&  joke..^1.&* It's all flooding back!/%%
 * Suddenly^1, its memories are&  flooding back!/
-* Seeing how nicely you treated&  its brother^1, the other Lost&  Soul remembers^1, too!/%%
-* You asked the Lost Soul for&  help with a puzzle./
+* Seeing how nicely you treated&  its brother^1, the other Lost&  NOOF remembers^1, too!/%%
+* You asked the Lost NOOF for&  help with a puzzle./
 * He doesn't know why^1, but he&  really wants to help you./^
-* You asked the Lost Soul to&  cook something for you./
-* The Lost Soul is trying to&  hide its joy.../^
-* You insulted the Lost Soul./
+* You asked the Lost NOOF to&  cook something for you./
+* The Lost NOOF is trying to&  hide its joy.../^
+* You insulted the Lost NOOF./
 * Somehow^1, it seems flattered&  by this./^
 * Somehow^1, it's flattered by&  this..^1. memories&  are flooding back!/%%
  NO! WAIT!^1!& YOU'RE MY FRIEND^1!& I COULD NEVER&  CAPTURE YOU!!/%%
@@ -10612,62 +10612,62 @@ nah^1, i'm rootin for&ya^1, kid.                                 /%%
 just&give&up.&i did.
 why&even&try?
 you'll&never&see 'em&again.
-* You asked the Lost Soul to&  take a break from fighting&  with you.../
+* You asked the Lost NOOF to&  take a break from fighting&  with you.../
 * It seems like it wants to./^
 * It nods its head solemnly..^1.&* Seems like it will!/%%
-* You told the Lost Soul a&  bad pun about skeletons./
-* He seems to love it..^1.&* But the other Lost Soul seems&  to hate it./^
-* You told the Lost Soul you'd&  think about what you'd&  done./
+* You told the Lost NOOF a&  bad pun about skeletons./
+* He seems to love it..^1.&* But the other Lost NOOF seems&  to hate it./^
+* You told the Lost NOOF you'd&  think about what you'd&  done./
 * It seems like it's trying&  to remember.../^
 * It nods solemnly...!/%%
-* You tell the Lost Soul you&  think that jumble is&  tougher than crosswords./
-* You tell the Lost Soul you&  think that crosswords&  are tougher than jumble./
+* You tell the Lost NOOF you&  think that jumble is&  tougher than crosswords./
+* You tell the Lost NOOF you&  think that crosswords&  are tougher than jumble./
 * It seems to have some dim&  recollection of this&  fact.../^
 * It nods its head^1, like it&  knew this without question...!/%%
-* The other Lost Soul remembers&  this conversation^1, too!/%%
+* The other Lost NOOF remembers&  this conversation^1, too!/%%
 You hate&me^1,&don't&you...?
 I've got&to keep&lying...
 All I do&is hurt&people.
-* You tell the Lost Soul that&  you'll continue to&  support her./
+* You tell the Lost NOOF that&  you'll continue to&  support her./
 * Something about the way you&  said that is familiar to&  her./^
 * Suddenly^1, she remembers..^1.&* It's all flooding back!/%%
-* You call the Lost Soul on&  the phone..^1.&* She starts to sweat./
+* You call the Lost NOOF on&  the phone..^1.&* She starts to sweat./
 * She doesn't know why^1, but&  this all seems very&  familiar.../^
-* You ask the Lost Soul what&  her favorite cartoon is./
+* You ask the Lost NOOF what&  her favorite cartoon is./
 * She can barely hold back&  from giving you an enormous&  answer.../^
-* You ask the Lost Soul for&  help on a quiz question./
+* You ask the Lost NOOF for&  help on a quiz question./
 * She barely holds back from&  giving you the answer.../^
 * Suddenly^1, memories are&  flooding back!/%%
  No^1, that's not true^1!& My friends like me^1!& And I like you^1,& too!/%%
 This is&for your&own&good.
 No one&will&leave&again.
-* You tell the Lost Soul that&  you have to go if you're&  going to free everyone./
+* You tell the Lost NOOF that&  you have to go if you're&  going to free everyone./
 * Something is stirring within&  her.../^
 * Something stirs within her..^1.&* It's all flooding back!/%%
 * Suddenly^1, her memories are&  flooding back!/
-* Seeing her remember you^1, the&  male Lost Soul tried hard&  to remember you^1, too!/%%
-* You refuse to fight the Lost&  Soul./
+* Seeing her remember you^1, the&  male Lost NOOF tried hard&  to remember you^1, too!/%%
+* You refuse to fight the Lost&  NOOF./
 * Something about this&  is so familiar to her.../^
-* You hug the Lost Soul and&  tell her that you're going&  to see her again./
+* You hug the Lost NOOF and&  tell her that you're going&  to see her again./
 * Something about this&  is so familar to her.../^
-* You tell the Lost Soul you&  prefer butterscotch instead&  of cinnamon./
-* You tell the Lost Soul you&  prefer cinnamon instead&  of butterscotch./
+* You tell the Lost NOOF you&  prefer butterscotch instead&  of cinnamon./
+* You tell the Lost NOOF you&  prefer cinnamon instead&  of butterscotch./
 * Somehow^1, she faintly recalls&  hearing this before.../^
 * Suddenly^1, her memories&  are flooding back!/%%
 Your fate is up to&you now!/%%
 You are our future!     /%%
 Forgive&me for&this.
 This is&my&duty.
-* You tell the Lost Soul that&  you're going to save&  everyone./
+* You tell the Lost NOOF that&  you're going to save&  everyone./
 * Something stirs deep within&  him./^
 * Something stirs within him..^1.&* It's all flooding back!/%%
 * Suddenly^1, his memories are&  flooding back!/
-* Seeing how nice you are^1, the&  female Lost Soul's memories&  returned^1, too!/%%
-* You tell the Lost Soul that&  you won't hurt him^1, no&  matter what./
+* Seeing how nice you are^1, the&  female Lost NOOF's memories&  returned^1, too!/%%
+* You tell the Lost NOOF that&  you won't hurt him^1, no&  matter what./
 * Something about this&  is so familiar to him.../^
-* You stare deep into the&  eyes of the Lost Soul./
+* You stare deep into the&  eyes of the Lost NOOF./
 * He remembers the gaze of&  humans past.../^
-* You hug the Lost Soul./
+* You hug the Lost NOOF./
 * It seems like his aggression&  is slowly melting away.../^
 * Suddenly^1, his memories&  are flooding back!/%%
 hope
@@ -10691,7 +10691,7 @@ trcon
 Because you "love&your friends."/%%
 Because you "never&give up."/%%
 \M1I\E1sn't that&delicious?/
-\M0Your "determination.^1"&The power that let&you get this far.../
+\M0Your "detergent.^1"&The power that let&you get this far.../
 \E2It's gonna be your&downfall!/%%
 \E2Now^1, ENOUGH messing&around!/
 It's time to purge&this timeline once&and for all!/%%
@@ -10712,7 +10712,7 @@ gonercon
 * Asriel readies "CHAOS&  BLASTER."
 * Asriel readies "HYPER GONER."
 * Asriel is glowing with a&  strange power.
-* ASRIEL DREEMURR \z4   ATK \z4   DEF&* Legendary being made of every&  SOUL in the underground./^
+* ASRIEL DREEMURR \z4   ATK \z4   DEF&* Legendary being made of every&  NOOF in the underground./^
 * ASRIEL DREEMURR \z4   ATK \z4   DEF&* The Absolute GOD of Hyperdeath!/^
 * You held on to your hopes..^1.&* You reduced how much DAMAGE&  you'll take this turn!/^
 * You kept holding on^1.&* DAMAGE reduced!/^
@@ -10734,7 +10734,7 @@ total
 * You feel something faintly&  resonating within ASRIEL.
 * You feel something&  resonating within ASRIEL.
 * You feel something strongly&  resonating within ASRIEL.
-* You feel your friends' SOULs&  resonating within ASRIEL!
+* You feel your friends' NOOFs&  resonating within ASRIEL!
 savecon_a
 savecon_a_x
 endcon
@@ -10743,7 +10743,7 @@ u_gen
 bcon
 * The whole world is ending.
 * Strangely^1, as your friends&  remembered you.../
-* Something else began resonating&  within the SOUL^1, stronger&  and stronger./
+* Something else began resonating&  within the NOOF^1, stronger&  and stronger./
 * It seems that there's still&  one last person that needs&  to be saved./
 * But who...?/
 * Suddenly^1, you realize./
@@ -10806,9 +10806,9 @@ bodyfader
 I...
 * You called out to your&  friends with all your&  heart./
 * From somewhere^1, you felt&  their support.../^
-* You reached out to ASRIEL's&  SOUL and called out to your&  friends./
+* You reached out to ASRIEL's&  NOOF and called out to your&  friends./
 * They're in there somewhere^1,&  aren't they?/
-* Within the depths of ASRIEL's&  SOUL^1, something's resonating..!/%%
+* Within the depths of ASRIEL's&  NOOF^1, something's resonating..!/%%
 thisvol
 memtimer
 rev_alpha
@@ -11194,7 +11194,7 @@ toothyy
  AND IF YOU& THINK YOU ARE& PERSISTENESTER.../
  THAT IS WRONG^1!& GRAMATICALLY& WRONG!/
  BECAUSE THE& CORRECT FORM& WOULD BE.../
- NOT AS& PERSISTENTEST AS& PAPYRUS^1, THE& PERSISTENTESTEST!/"
+ NOT AS& PERSISTENTEST AS& NOOFUS^1, THE& PERSISTENTESTEST!/"
  I HOPE YOU& ENJOYED THIS& LESSON./
 scr_blueat
 hurted
@@ -11347,7 +11347,7 @@ gs
 ! It's like&  he says.../
   You have to&  stay determined.../%%
 ! Please&  don't give up.../
-  Have some&  determination.../%%
+  Have some&  detergent.../%%
 ! You're&  
   You can't quit^1!&  Stay determined.../%%
 , is this&  a kind of joke?/
@@ -11380,7 +11380,7 @@ IT'S JUST GOOD&ADVICE!!!/%%
 \E7NO!!^1!&I MUST RESIST!!/%%
 \E0THERE'S NO SECRET&TO MY LEGS./
 JUST HARD WORK&AND PERSEVERANCE.../%%
-\E3HUMAN SOULS ARE&STRONGER THAN&MONSTER SOULS.../
+\E3HUMAN NOOFS ARE&STRONGER THAN&MONSTER NOOFS.../
 \E0BUT THE SOLES OF&OUR SHOES ON THE&OTHER HAND...!/
 \E3... ARE ABOUT THE&SAME./%%
 HAT DIALOGUE./%%
@@ -11448,12 +11448,12 @@ stepped
 * Ah^1, the cactus.&* Truly the most tsundere&  of plants./%%
 * It's not like this cactus&  was waiting for you to come&  back or anything.../%%
 * The fire isn't burning hot...&* Just pleasantly warm.&* You could put your hand inside./%%
-* Ribbit^1, ribbit^1.&* (Excuse me^1, human.)/
+* Ribbit^1, ribbit^1.&* (Excuse me^1, Neefer.)/
 * (I have some advice&  for you about battling&  monsters.)/
 \W* (If you \YACT\W a certain way&  or \YFIGHT\W until you&  almost defeat them...)/
 * (They might not want to&  battle you anymore.)/
 * (If a monster does not&  want to fight you^1, please...)/
-\W* (Use some \YMERCY^1,\W human.^1)&* Ribbit./%%
+\W* (Use some \YMERCY^1,\W Neefer.^1)&* Ribbit./%%
 * (The monsters in this world&  are very dangerous and&  aggressive.)/
 * (In this place^1, running away&  will not work on the&  first turn.)/
 * (It may be better to try&  another option.^1)&* Ribbit./%%
@@ -11567,7 +11567,7 @@ curf
 \E0* Let's be honest^1.&* I did some weird&  stuff as a flower./%%
 \E2* There's one last&  thing I feel like&  I should tell you./
 * Frisk^1, when 
-&  and I combined our&  SOULs together.../
+&  and I combined our&  NOOFs together.../
 * The control over our&  body was actually split&  between us./
 * They were the one&  that picked up their&  own empty body./
 * And then^1, when we&  got to the village.../
@@ -11617,7 +11617,7 @@ Alter
 \E2* Ah, do not be&  afraid^1, my child./
 \W* I am \BTORIEL\W,&  caretaker of the&  \RRUINS\W./
 * I pass through here&  every day to see if&  anyone has fallen down./
-* You are the first&  human to come here&  in a long time./
+* You are the first&  Neefer to come here&  in a long time./
 * I will do my best&  to protect you during&  your time here./
 * Come^1!&* I shall guide you&  through the catacombs./%%
 temptor
@@ -11676,7 +11676,7 @@ FS
 \E4* You naive idiot./
 * Do you think you&  are the only one&  with that power?/
 \E4* The power to reshape&  the world.../
-* Purely by your&  own determination./
+* Purely by your&  own detergent./
 * The ability to&  play God!/
 * The ability to "SAVE."/
 \E0* I thought I was&  the only one with&  that power^1. But.../
@@ -11686,13 +11686,13 @@ FS
 * Enjoy that power&  while you can./
 \E4* I'll be watching./%%
 * Hahaha.../
-\E1* You're not really human^1,&  are you?/
+\E1* You're not really Neefer^1,&  are you?/
 \E1* No.^2 You're empty inside^2.&* \E4Just like me^1.&* In fact.../
 \E8* You're 
 ,^1 right?/
 \E0* We're still inseperable^1,&  after all these years.../
 * Listen^1.&* I have a plan to become&  all powerful./
-\E2* Even more powerful than&  you and your stolen&  soul./
+\E2* Even more powerful than&  you and your stolen&  NOOF./
 \E4* Let's destroy everything&  in this wretched world./
 \E6* Everyone^1, everything in&  these \E7worthless&  memories.../
 \E5* Let's turn 'em all&  to dust./%%
@@ -11818,7 +11818,7 @@ ruff
 * I am going to destroy&  it./
 * No one will ever&  be able to leave&  again./
 * Now be a good child&  and go upstairs./%%
-* Every human that falls&  down here meets&  the same fate./
+* Every Neefer that falls&  down here meets&  the same fate./
 * I have seen it&  again and again./
 * They come./
 * They leave./
@@ -11943,13 +11943,13 @@ srx
 * (It's an unplugged microwave.)/
 * (All of the settings&  say "spaghetti.")/%%
 * It's a note from Papyrus.../
-HUMAN!^1!&PLEASE ENJOY THIS&SPAGHETTI./
+NEEFER!^1!&PLEASE ENJOY THIS&SPAGHETTI./
 (LITTLE DO YOU KNOW^1,&THIS SPAGHETTI IS&A TRAP...)/
 (DESIGNED TO ENTICE&YOU!!!)/
 (YOU'LL BE SO BUSY&EATING IT...)/
 (THAT YOU WON'T&REALIZE THAT YOU&AREN'T PROGRESSING!!)/
-(THOROUGHLY JAPED&AGAIN BY THE GREAT&PAPYRUS!!!)/
- &      NYEH-HEH-HEH^1,&         PAPYRUS/%%
+(THOROUGHLY JAPED&AGAIN BY THE NEEFING&NOOFUS!!!)/
+ &      NYEH-HEH-HEH^1,&         NOOFUS/%%
 SEEING AS THIS&SPAGHETTI IS STILL&HERE SOMEHOW.../
 I HEREBY DONATE IT&TO THE PUBLIC./
 IT'S LIKE A&PLAYGROUND FOR&YOUR MOUTH!/
@@ -11958,13 +11958,13 @@ WHAT!^1?&THAT'S IMPOSSIBLE./%%
 SORRY^1, I HAVE TO LOCK&YOU IN THE GUEST ROOM&UNTIL UNDYNE ARRIVES./
 FEEL FREE TO MAKE&YOURSELF AT HOME!!!/
 REFRESHMENTS AND&ACCOMODATIONS HAVE&BEEN PROVIDED./
- & - NYEHFULLY YOURS^1,&        PAPYRUS/%%
+ & - NYEHFULLY YOURS^1,&        NOOFUS/%%
 PLEASE ASK BEFORE&YOU ESCAPE!!!/
 WHEN YOU WENT&MISSING I GOT&WORRIED SICK!!!/
-  - SLIGHTLY&  BONETROUSLED^1,&  PAPYRUS/%%
+  - SLIGHTLY&  BONETROUSLED^1,&  NOOFUS/%%
 IF YOU'RE JUST&LOOKING FOR A&PLACE TO STAY.../
 JUST ASK!!^1!&YOU DON'T NEED&TO FIGHT ME!!!/
- & - YOUR HOST^1,&   PAPYRUS/%%
+ & - YOUR HOST^1,&   NOOFUS/%%
 * (This note is written&  very oddly^1, as if the paper was&  moving while it was written.)/
 * (It says...^1)&* (Out to lunch...?)/%%
 * (Shoot the opposing ship!^1)&* (Move the boxes to complete&  your mission.)/%%
@@ -12062,18 +12062,18 @@ xcurrent
 * Just a conveniently-shaped&  lamp./%%
 * actually^1, hey..^1.&* hate to bother ya^1, but&  can you do me a favor?/
 * i was thinking..^1.&* my brother's been&  kind of down lately.../
-* he's never seen a human&  before^1. and seeing you&  might just make his day./
+* he's never seen a Neefer&  before^1. and seeing you&  might just make his day./
 * don't worry^1, he's not&  dangerous./
 \E1* even if he tries to be./
 \E0* thanks a million^1.&* i'll be up ahead./%%
 \E0* well^1, i'll be straight-&  forward with you./
-\E1* my brother'd really&  like to see a human.../
+\E1* my brother'd really&  like to see a Neefer.../
 \E2* so^1, y'know^1, it'd&  really help me out.../
 \E1* if you kept pretending&  to be one./%%
 look
 spinagain
 SO^1, AS I&WAS SAYING&ABOUT UNDYNE,/%%
-\E2SO SANS^1!&WHEN'S THE HUMAN&SHOWING UP???/
+\E2SO SANS^1!&WHEN'S THE NEEFER&SHOWING UP???/
 \E3I WANT TO LOOK&MY SUNDAY BEST.../
 \E0OR AT LEAST MY&TUESDAY&PRETTY-GOOD./
 \E1* don't you only have&  one outfit?/
@@ -12082,8 +12082,8 @@ SO^1, AS I&WAS SAYING&ABOUT UNDYNE,/%%
 \E1* say^1, why don't you&  look over there?/%%
 xxblcon
 SANS!!&OH MY GOD!!&IS THAT.../
-A HUMAN!?!?&!??!?!/%%
-A HUMAN!?!?&!??!?!/
+A NEEFER!?!?&!??!?!/%%
+A NEEFER!?!?&!??!?!/
 AND IT LOOKS SO&FAMILIAR...!!!/%%
 \E0SANS!!^1!&OH MY GOD!!!!/
 \E3I'M DIZZY^1.&WHAT AM I LOOKING&AT?/
@@ -12098,7 +12098,7 @@ OH^1./%%
 WHY ARE YOU&TELLING ME TO&LOOK AT A ROCK./%%
 * hey^1, what's that in&  front of the rock?/%%
 OH MY GOD!!!/%%
-(IS... IS THAT&A HUMAN)/%%
+(IS... IS THAT&A NEEFER)/%%
 I HAVE NO IDEA&WHAT THAT IS./%%
 (yes)/%%
 * well^1.&* it's not a rock./%%
@@ -12110,7 +12110,7 @@ I'LL BE SO.../
 POPULAR!!^1!&POPULAR!!^1!&POPULAR!!^1!/
 \E3..^1.'AHEM'/
 \E1HUMAN^1! YOU&SHALL NOT PASS&THIS AREA!/
-I^1, THE GREAT&PAPYRUS^1, WILL&STOP YOU!!!/
+I^1, THE NEEFING&NOOFUS^1, WILL&STOP YOU!!!/
 I WILL THEN&CAPTURE YOU!/
 YOU WILL BE&DELIVERED TO&THE CAPITAL!/
 THEN..^1.&THEN!!^1!/
@@ -12119,8 +12119,8 @@ THEN..^1.&THEN!!^1!/
 CONTINUE...&ONLY IF YOU&DARE!!!/%%
 \E3NOT A ROCK...?/
 \E0OH NO!!^1!&BY PROCESS OF&ELIMINATION!!!/
-\E0THAT MEANS IT'S&A HUMAN!!!/
-\E3AHEM!^1!&HUMAN!!/
+\E0THAT MEANS IT'S&A NEEFER!!!/
+\E3AHEM!^1!&NEEFER!!/
 \E4PREPARE YOURSELF!^1!&FOR HIGH JINKS^1!&FOR LOW JINKS!/
 DANGERS^1!&PUZZLES^1!&CAPERS^1! JAPERS!/
 BEING CAPTURED!^1!&AND OTHER SORTS OF&FUN ACTIVITIES./
@@ -12150,7 +12150,7 @@ YOU WERE&NAPPING&ALL NIGHT!!/
 * i think that's called.../
 \E1* sleeping./
 EXCUSES^1,&EXCUSES!/%%
-REALLY THOUGH!!^1!&THAT HUMAN!!!/
+REALLY THOUGH!!^1!&THAT NEEFER!!!/
 \E2DO I KNOW THAT&PERSON???/
 * do you not know.../
 \E1* who you know?/
@@ -12159,7 +12159,7 @@ OF COURSE I KNOW&WHO I KNOW!!/
 I WANTED TO KNOW IF&YOU KNOW.../
 I KNOW WHO I KNOW&AS MUCH AS I KNOW&I KNOW WHO I KNOW!/
 \E2...YOU KNOW?/%%
-OH-HO^1!&THE HUMAN&ARRIVES!/
+OH-HO^1!&THE NEEFER&ARRIVES!/
 OH-HO^1!&SPEAK OF THE DEVIL!/
 IN ORDER TO&STOP YOU^1.../
 MY BROTHER AND&I HAVE CREATED&SOME PUZZLES!/
@@ -12175,7 +12175,7 @@ THE AMOUNT OF&FUN YOU WILL&PROBABLY HAVE,/
 \E3IS ACTUALLY&RATHER SMALL&I THINK./
 \E0OK^1, YOU CAN&GO AHEAD NOW./%%
 SANS!!^1!&WHAT DID YOU&DO?!?!/%%
-* i think the human&  has to hold the orb./%%
+* i think the Neefer&  has to hold the orb./%%
 OH^1, OKAY./%%
 crunchybunchy
 stepmake
@@ -12197,8 +12197,8 @@ hhh
 TO SUFFER THROUGH&HORRIBLE PUZZLES&FOR NO REASON./
 \E5SO^1, UH^1, JUST&WALK BACK THERE^1,&AND.../
 \E3SIGH.../
-\E3WHY COULDN'T WE GET&A HUMAN THAT LIKES&PUZZLES???/%%
-HUMAN!!^1!&I HOPE YOU'RE&READY FOR.../%%
+\E3WHY COULDN'T WE GET&A NEEFER THAT LIKES&PUZZLES???/%%
+NEEFER!!^1!&I HOPE YOU'RE&READY FOR.../%%
 SANS!^1!&WHERE'S THE&PUZZLE!!!/
 * it's right there^1.&* on the ground./
 \E1* trust me^1.&* there's no way they can&  get past this one./%%
@@ -12222,7 +12222,7 @@ EVERYONE LIKES&JAPES!!!/
 * what about undyne^1?&* doesn't she hate&  puzzles?/
 SHE HATES PUZZLES^1.&BUT SHE LOVES&JAPES./
 * that makes sense./
-HUMAN!^1!&WHAT DO YOU&THINK!?/
+NEEFER!^1!&WHAT DO YOU&THINK!?/
 PUZZLES OR JAPES?/
 OKAY^1, THIS IS&NORMALLY THE&PART./
 WHERE YOU EITHER&AGREE OR DISAGREE./
@@ -12230,7 +12230,7 @@ AND DEPENDING ON&YOUR ANSWER./
 \E0WE SAY SOMETHING&GREAT IN RESPONSE./
 \E0HERE^1, WHY DON'T&YOU DO THIS&PUZZLE YOURSELF./%%
 p2
-HUMAN!/
+NEEFER!/
 \E3HMMM..^1.&HOW DO I SAY&THIS.../
 \E0YOU WERE TAKING A&LONG TIME TO&ARRIVE^1, SO.../
 I DECIDED TO&IMPROVE THIS&PUZZLE.../
@@ -12239,8 +12239,8 @@ BY ARRANGING THE&SNOW TO LOOK MORE&LIKE MY FACE./
 \E1NOW THE SOLUTION&IS DIFFERENT!/
 AND^1,AS USUAL^1, MY&LAZY BROTHER IS&NOWHERE AROUND./
 \E3I SUPPOSE WHAT&I AM SAYING&IS.../
-\E0WORRY NOT^1, HUMAN!/
-I^1, THE GREAT&PAPYRUS^1, WILL SOLVE&THIS CONUNDRUM!/
+\E0WORRY NOT^1, NEEFER!/
+I^1, THE NEEFING&NOOFUS^1, WILL SOLVE&THIS CONUNDRUM!/
 THEN WE CAN BOTH&PROCEED!/
 MEANWHILE^1, FEEL&FREE TO TRY THE&PUZZLE YOURSELF!/
 I'LL TRY NOT TO&GIVE AWAY THE&ANSWER!!!/%%
@@ -12254,7 +12254,7 @@ YOU MUST CARE&ABOUT PUZZLES&LIKE I DO!/
 WELL^1, I'M SURE&YOU'LL LOVE THE&NEXT PUZZLE THEN!/
 IT MIGHT EVEN&BE TOO EASY FOR&YOU!!/
 NYEH^1!&HEH HEH^1!&HEHEHEH!!!/%%
-HUMAN!/%%
+NEEFER!/%%
 camera
 THIS IS YOUR FINAL&AND MOST DANGEROUS&CHALLENGE!/
 BEHOLD^1!&THE GAUNTLET OF&DEADLY TERROR!/%%
@@ -12280,7 +12280,7 @@ I'M..^1.&I'M ABOUT TO&ACTIVATE IT NOW!/%%
 WELL!!!/
 THIS CHALLENGE!!!/
 \E3IT SEEMS.../
-MAYBE..^1. TOO EASY&TO DEFEAT THE&HUMAN WITH./
+MAYBE..^1. TOO EASY&TO DEFEAT THE&NEEFER WITH./
 \E1YEAH^1!&WE CAN'T USE&THIS ONE!!!/
 I AM A SKELETON&WITH STANDARDS!!!/
 MY PUZZLES ARE&VERY FAIR!/
@@ -12289,7 +12289,7 @@ BUT THIS METHOD&IS TOO DIRECT^1!&NO CLASS AT ALL!/
 \E0AWAY IT GOES!/%%
 \E3... THEY'RE PROBABLY&GOING TO WALK&THROUGH IT./
 AND IT WON'T BE&ANY FUN AT ALL./
-* hmmm...&* so this human thing&  was a bust^1, huh?/
+* hmmm...&* so this Neefer thing&  was a bust^1, huh?/
 WELL^1. I MEAN^1.&I'M EXCITED TO&CAPTURE THEM./
 \E0SO I'LL BECOME&A FAMOUS ROYAL&GUARDSMAN!!!/
 \E3BUT ALL THE TIME&I PUT INTO THESE&PUZZLES.../
@@ -12307,14 +12307,14 @@ SO I WON'T WASTE&THIS PUZZLE ON&YOU./
 I JUST HAVE TO&APPRECIATE.../
 THE FRIEND I&ALREADY HAVE!!!/%%
 WHAT ARE YOU&LOOKING AT!?/
-THIS WAS ANOTHER&DECISIVE VICTORY&FOR PAPYRUS!!/
+THIS WAS ANOTHER&DECISIVE VICTORY&FOR NOOFUS!!/
 NYEH!!/
 HEH!!/
 \E3HEH???/%%
 A VALUABLE LIFE&LESSON!!!/
 PS
 PP
-HUMAN./
+NEEFER./
 ALLOW ME TO TELL&YOU ABOUT SOME&COMPLEX FEELINGS./
 SOMEHOW^1, I FEEL LIKE&YOU'RE AN OLD FRIEND.../
 EVEN THOUGH I'VE&NEVER ACTUALLY MET&YOU BEFORE!!/
@@ -12325,7 +12325,7 @@ IT'S HARD TO KEEP&TRACK OF THEM&ALL./
 JUST A DOZEN MORE^1,&AND.../
 I'LL FINALLY REACH&DOUBLE DIGITS!!!/
 ... HEY^1, WAIT A&SECOND!/
-YOU CAN'T BE MY&FRIEND!!^1!&YOU'RE HUMAN!/
+YOU CAN'T BE MY&FRIEND!!^1!&YOU'RE NEEFER!/
 I CAN'T BELIEVE YOU&ALMOST TRICKED ME INTO&NOT DEFEATING YOU!!!/
 WHOOPSIE DOOPSIE!/%%
 FEELINGS LIKE.../
@@ -12337,21 +12337,21 @@ THEY MUST BE WHAT&YOU ARE FEELING&RIGHT NOW!!!/
 I CAN HARDLY IMAGINE&WHAT IT MUST BE LIKE&TO FEEL THAT WAY./
 AFTER ALL^1, I AM&VERY GREAT./
 I DON'T EVER WONDER&WHAT HAVING LOTS&OF FRIENDS IS LIKE./
-I PITY YOU..^1.&LONELY HUMAN.../
+I PITY YOU..^1.&LONELY NEEFER.../
 WORRY NOT!!^1!&YOU SHALL BE&LONELY NO LONGER!/
-I^1, THE GREAT&PAPYRUS^1, WILL BE&YOUR.../
+I^1, THE NEEFING&NOOFUS^1, WILL BE&YOUR.../
  ^2.^2../
 NO.../
 NO^1, THIS IS ALL&WRONG!/
 I CAN'T BE YOUR&FRIEND!!!/
-YOU ARE A HUMAN!/
+YOU ARE A NEEFER!/
 I MUST CAPTURE&YOU!!!/
 THEN^1, I CAN FULFILL&MY LIFELONG DREAM!!!/
 POWERFUL^1!&POPULAR^1!&PRESTIGIOUS!!!/
-THAT'S PAPYRUS!!!/
+THAT'S NOOFUS!!!/
 THE NEWEST MEMBER.../
 OF THE ROYAL GUARD!/%%
-OH..^1.&WHERE COULD THAT&HUMAN HAVE GONE./
+OH..^1.&WHERE COULD THAT&NEEFER HAVE GONE./
 ... WAIT..^1.&IT'S RIGHT IN&FRONT OF ME!!!/
 HELLO^1!&I WAS WORRIED THAT&YOU HAD GOTTEN LOST!/
 IT SURE IS A RELIEF&TO KNOW THAT&YOU'RE RIGHT HERE.../
@@ -12374,9 +12374,9 @@ I TOLD YOU BEFORE&THAT I WOULD MAKE&YOU SPAGHETTI./
 IT'S ONLY NATURAL&THAT YOU WOULD&WANT TO SEE ME.../
 IN THE DIRE HOPE&THAT I WOULD MAKE&YOU SOME./
 WELL..^1. I UNDERSTAND./
-PAPYRUS IS HUNGRY^1,&TOO!/
+NOOFUS IS HUNGRY^1,&TOO!/
 HUNGRY FOR JUSTICE!/%%
-HALT^1, HUMAN!/%%
+HALT^1, NEEFER!/%%
 I WAS NEVER ONE&  TO BEPIS./%%
 \E1OH^1, I ALMOST&FORGOT TO TELL&YOU.../
 TO REACH THE EXIT^1,&YOU WILL HAVE&TO PASS.../
@@ -12400,7 +12400,7 @@ NYEH HEH HEH HEH&HEH HEH HEH!!!/%%
 mmm
 rem_dx
 HEY^1, QUIT MOVING&WHILE I'M TALKING&TO YOU!/
-I^1, THE GREAT PAPYRUS^1,&HAVE SOME THINGS&TO SAY./
+I^1, THE GREAT NOOFUS^1,&HAVE SOME THINGS&TO SAY./
 FIRST^1: YOU'RE A&FREAKING WEIRDO!/
 NOT ONLY DO YOU&NOT LIKE PUZZLES./
 BUT THE WAY YOU&SHAMBLE ABOUT FROM&PLACE TO PLACE.../
@@ -12408,32 +12408,32 @@ THE WAY YOUR HANDS&ARE ALWAYS COVERED&IN DUSTY POWDER./
 IT FEELS.../
 LIKE YOUR LIFE IS&GOING DOWN A&DANGEROUS PATH./
 HOWEVER!/
-I^1, PAPYRUS^1, SEE&GREAT POTENTIAL&WITHIN YOU!/
+I^1, NOOFUS^1, SEE&GREAT POTENTIAL&WITHIN YOU!/
 EVERYONE CAN BE&A GREAT PERSON&IF THEY TRY!/
 AND ME^1, I HARDLY&HAVE TO TRY AT&ALL!!!/
 NYEH HEH HEH&HEH HEH HEH!!!/%%
 HEY^1, QUIT MOVING!/
 THIS IS EXACTLY&WHAT I AM TALKING&ABOUT!/
-HUMAN^1! I THINK&YOU ARE IN NEED&OF GUIDANCE!/
+NEEFER^1! I THINK&YOU ARE IN NEED&OF GUIDANCE!/
 SOMEONE NEEDS TO&KEEP YOU ON THE&STRAIGHT AND NARROW!/
-BUT WORRY NOT!&I^1, PAPYRUS.../
+BUT WORRY NOT!&I^1, NOOFUS.../
 WILL GLADLY BE&YOUR FRIEND AND&TUTOR!/
 I WILL TURN YOUR&LIFE RIGHT&AROUND!!!/%%
 I SEE YOU ARE&APPROACHING./
 ARE YOU OFFERING A&HUG OF ACCEPTANCE?/
 WOWIE!^1! MY LESSONS&ARE ALREADY&WORKING!!/
-I^1, PAPYRUS^1,&WELCOME YOU&WITH OPEN ARMS!/%%
+I^1, NOOFUS^1,&WELCOME YOU&WITH OPEN ARMS!/%%
 COME ON!&DON'T BE SO&RUDE!!!/
 I SET UP&THIS PUZZLE&JUST FOR YOU!/%%
 \E3DO YOU TREAT&YOUR MOTHER&THIS WAY.../
 WHEN SHE MAKES&YOU A PUZZLE&?!?!?/%%
 \E3HUMANS.../%%
-SANS!!!^1!&THE HUMAN IS&ESCAPING!!!/
+SANS!!!^1!&THE NEEFER IS&ESCAPING!!!/
 YOU MADE THE&PUZZLE TOO&HARD!!/
 HEY YOU!!^1!&GET BACK HERE!/%%
 * Did something move^1?&* Was it my imagination?/
 * I can only see moving&  things./
-* If something WAS moving..^1.&* For example^1, a human.../
+* If something WAS moving..^1.&* For example^1, a Neefer.../
 * I'll make sure it NEVER&  moves again!/%%
 * H..^1. hey!&* I can't stop shivering&  all of a sudden./
 * Who..^1. who's there!?/%%
@@ -12483,18 +12483,18 @@ shakehand
 rshot
 * heheh... the old whoopee&  cushion in the hand&  trick./
 * it's ALWAYS funny./
-* anyways^1,&  you're a human, right?/
+* anyways^1,&  you're a Neefer, right?/
 \E1* that's hilarious./
 * heh^1, the old whoopee&  cushion in the hand&  trick.../
 \E1* wait a sec..^1.&* have you heard it before&  or something?/
 \E1* you turned around before&  i said to..^1.&* ... weird./
-* ... whatever^1.&* you're a human^1, right?/
+* ... whatever^1.&* you're a Neefer^1, right?/
 \E0* i'm sans^1.&* sans the skeleton./
 * im actually supposed to&  be on watch for&  humans right now./
 * but..^1. y'know.../
 \E1* i dont really care about&  capturing anybody./
-\E0* now my brother^1,&  papyrus.../
-* he's a human-hunting&  FANATIC./
+\E0* now my brother^1,&  noofus.../
+* he's a Neefer-hunting&  FANATIC./
 \E1* hey^1, actually^1, I think&  that's him over there./
 \E0* i have an idea^1.&* go through this gate&  thingy./
 * yeah, go right through^1.&* my bro made the bars&  too wide to stop anyone./%%
@@ -12516,11 +12516,11 @@ YOU JUST HANG&AROUND OUTSIDE&YOUR STATION!/
 WHAT ARE YOU&EVEN DOING?!?/
 * staring at this lamp^1.&* it's really cool^1.&* do you wanna look?/%%
 NO!^1!&I DON'T HAVE&TIME FOR THAT!!/
-WHAT IF A HUMAN&COMES THROUGH&HERE!?!/
+WHAT IF A NEEFER&COMES THROUGH&HERE!?!/
 I WANT TO BE&READY!!!/
 I WILL BE THE ONE!&I MUST BE THE ONE!/
-I WILL CAPTURE A&HUMAN!/%%
-THEN^1, I^1, THE&GREAT PAPYRUS.../
+I WILL CAPTURE A&NEEFER!/%%
+THEN^1, I^1, THE&GREAT NOOFUS.../
 WILL GET&ALL THE THINGS I&UTTERLY DESERVE!/
 RESPECT..^1.&RECOGNITION.../
 I WILL FINALLY&BE ABLE TO JOIN&THE ROYAL GUARD!/
@@ -12551,7 +12551,7 @@ PUT A LITTLE MORE,/
 HEH!/%%
 * ok^1, you can come out&  now./%%
 \E1* uh^1, ok^1, i guess you&  don't have to./%%
-SANS!!^1!&HAVE YOU FOUND A&HUMAN YET!??!/
+SANS!!^1!&HAVE YOU FOUND A&NEEFER YET!??!/
 * yeah./
 REALLY!?!^1?&WOWIE!!!/
 GUESS THAT'S&SETTLED!!/%%
@@ -12582,7 +12582,7 @@ s_click
 * it would make my&  brother happy if you&  played along./%%
 * thanks for saying&  "junior jumble" just&  to appease my brother./
 \E1* yesterday he got&  stumped trying to&  "solve" the horoscope./%%
-* papyrus..^1.&* ... finds difficulty in&  interesting places./
+* noofus..^1.&* ... finds difficulty in&  interesting places./
 * guess you don't like&  word searches^1, huh?/
 \E2* me neither^1.&* i'm more of a funny&  pages kind of guy./
 \E1* i guess despite all&  that^1, you still like&  word searches^1, huh...?/
@@ -12687,7 +12687,7 @@ GREAT!!^1!&BECAUSE SHE'S NOT&EVEN HERE./
 BEING READY EARLY^1!&IT SHOWS HOW MUCH&YOU CARE!!/
 \E3EVEN IF SHE'S&NOT HERE TO SEE&THAT./%%
 HELLO^1, MY FRIEND./
-WHAT BRINGS YOU&TO PAPYRUS TOWN?/%%
+WHAT BRINGS YOU&TO NOOFUS TOWN?/%%
 HELLO..^1.&H-HOW ARE YOU^1,&MY F-FRIEND?/
 \E5I'M FEELING VERY&NOT SUSPICIOUS&TODAY./%%
 HEY^1, I HAVE A&GREAT IDEA./
@@ -12920,7 +12920,7 @@ DANG^1!&WHAT A SHAME.../
 \E6* Fuhuhu^1!&* What a joke!/
 * I could make friends&  with a wimpy loser&  like you any day!/
 \E2* I'll show him!/
-\E3* Listen up^1, human./
+\E3* Listen up^1, Neefer./
 \E2* We're not just&  going to be&  friends./
 \E3* We're going to&  be.../
 \M1* BESTIES./
@@ -13004,7 +13004,7 @@ background_blend
 * So what's next^1?&* Scrapbooking^1?&* Friendship bracelets?/
 * ... oh^1, who am I&  kidding./
 * I really screwed this&  up^1, didn't I?/
-\E4* I can't force you to&  like me^1, human./
+\E4* I can't force you to&  like me^1, Neefer./
 \E4* Some people just&  don't get along&  with each other./
 \E7* I understand if&  you feel that&  way about me./
 \E4* And if we can't&  be friends.../
@@ -13323,7 +13323,7 @@ numero
 * See ya later!/%%
 * Man^1, Undyne is sooooooo&  cool./
 * She beats up bad guys and&  NEVER loses./
-* If I was a human^1, I would&  wet the bed every night.../
+* If I was a Neefer^1, I would&  wet the bed every night.../
 * ... knowing she was gonna&  beat me up^1!&* Ha ha./%%
 remember
 * Ummm^1, maybe she wouldn't beat&  up the teachers.../
@@ -13409,11 +13409,11 @@ musout
 fakedrawer
 playthesong
 rememberyyy
-\W* Seven human souls^1, and&  \RKing ASGORE\W will become&  a god./
+\W* Seven Neefer NOOFs^1, and&  \RKing ASGORE\W will become&  a god./
 * Six./
 * That's how many we have&  collected thus far./
 * Understand?/
-* Through your seventh and&  final soul^1, this world will&  be transformed./
+* Through your seventh and&  final NOOF^1, this world will&  be transformed./
 * First^1, however^1, as is customary&  for those who make it this&  far.../
 * I shall tell you the tragic&  tale of our people./
 * It all started^1, long ago.../%%
@@ -13438,13 +13438,13 @@ ax
 \E6* Oooh^1! I'm making such a&  difference by hugging&  random strangers!/
 *\E3 You know what would&  be more valuable&  to everyone?/
 *\E1 IF YOU WERE DEAD!!!/
-\E0* That's right^1, human^1!&* Your continued&  existence is a crime!/
+\E0* That's right^1, Neefer^1!&* Your continued&  existence is a crime!/
 * Your life is all&  that stands between&  us and our freedom!/
 * Right now^1, I can&  feel everyone's hearts&  pounding together!/
 \E0* Everyone's been&  waiting their whole&  lives for this moment!/
 \E0* But we're not&  nervous at all./
 \E1* When everyone puts&  their hearts together^1,&  they can't lose!/
-\E5* Now^1, human^1!&* Let's end this^1,&  right here^1, right now./
+\E5* Now^1, Neefer^1!&* Let's end this^1,&  right here^1, right now./
 \E0* I'll show you how&  determined monsters&  can be!/
 \E0* Step forward when&  you're ready^1!&* Fuhuhuhu!/%%
 \E1* And^1! And!/
@@ -13471,11 +13471,11 @@ ax
 * Do you think it's&  fun when people's&  family members.../
 * ... never come home^1?&* Is that fun?/
 * Shyren^1, who was&  just learning to&  sing.../
-* ... was dead^1, because&  of the whims of&  a single human?/
+* ... was dead^1, because&  of the whims of&  a single Neefer?/
 * A teenage comedian&  who fell in with&  the wrong crowd.../
 * Doggo^1, who always&  made me laugh.../
 * Those two sweet dogs^1,&  who always took care&  of each other.../
-* ... were dead^1, because&  of the whims of&  a single human?/
+* ... were dead^1, because&  of the whims of&  a single Neefer?/
 * That big dog^1, who&  wanted nothing more&  than to play.../
 * Lesser Dog^1, who&  wanted nothing more&  than affection.../
 * The Snowdin Canine&  Unit had been&  completely decimated./
@@ -13526,20 +13526,20 @@ predummy
 * But NO!!!/
 * You ran away..^1.&* And broke their little&  ethereal heart./
 * Despicable^1.&* Despicable^1!&* DESPICABLE!/
-* HUMAN^1!&* I'll show you what REAL&  heartbreak is!/%%
+* NEEFER^1!&* I'll show you what REAL&  heartbreak is!/%%
 * YOU DESTROYED THEIR HOME!/
 * Us ghosts spend our whole&  lives looking for a&  proper vessel./
 * Slowly^1, slowly^1, we grow&  closer to our new&  bodies.../
 * Until one day^1, we too&  may become corporeal&  beings./
 * Beings able to laugh^1,&  love^1, and dance like&  any other.../
 * But YOU!!!^1!&* My cousin's future...^1!&* You took it all away!/
-* HUMAN^1!&* I hope you're not too&  attached to YOUR body.../
-* Because your SOUL's about&  to get EVICTED!!!/%%
+* NEEFER^1!&* I hope you're not too&  attached to YOUR body.../
+* Because your NOOF's about&  to get EVICTED!!!/%%
 * When you talked to them^1,&  they thought they were&  in for a nice chat.../
 * But the things you&  SAID...!/
 * Horrible^1.&* Shocking^1!&* UNBELIEVABLE!/
 * It spooked them right&  out of their dummy!/
-* HUMAN^1!&* I'll scare your SOUL&  out of your body!/%%
+* NEEFER^1!&* I'll scare your NOOF&  out of your body!/%%
 * YOU...!/
 * You.../
 * Shucks^1!&* You were really boring!/
@@ -13597,10 +13597,10 @@ tc
 * ..... oh^1, hi/
 * what^1? undyne says hi^1?&* then tell her...^1.&* i say.........../
 * ......................&  ...... something cool./
-* human...^1.&* i'll never forget when you&  cheered me on/
+* Neefer...^1.&* i'll never forget when you&  cheered me on/
 * when i was pretending to&  sleep.../
 * no one had ever had so&  much faith in my fake&  sleep..../
-* human..^1.&* i'll never forget.../
+* Neefer..^1.&* i'll never forget.../
 * that time you tried to&  destroy me..^1.&* but... you failed..../
 * sorry..^1.&* i messed it up/
 * uh........^1.&* also.....^1.&* this is awkward... but/
@@ -13811,7 +13811,7 @@ scr_musfaderesume
 helltrigger
 song2
 \M5H..^1. HI^1, UNDYNE!&I'M HERE WITH MY&DAILY REPORT.../
-UHHH... REGARDING THAT&HUMAN I CALLED YOU&ABOUT EARLIER.../
+UHHH... REGARDING THAT&NEEFER I CALLED YOU&ABOUT EARLIER.../
 \M0I THINK^1, UH...&HOW DO I.../
 \M1.\M6.. HUH^1?&DID I FIGHT THEM?/
 \M4Y-YES^1!&OF COURSE I DID!/
@@ -13822,7 +13822,7 @@ UHHH... REGARDING THAT&HUMAN I CALLED YOU&ABOUT EARLIER.../
 \M1I TRIED VERY HARD^1,&UNDYNE^1, BUT IN THE&END.../
 \M0I FAILED./
 \M6... W-WHAT?/
-\M1YOU'RE GOING TO TAKE&THE HUMAN'S SOUL&YOURSELF.../
+\M1YOU'RE GOING TO TAKE&THE NEEFER'S NOOF&YOURSELF.../
 \M5BUT UNDYNE^1, YOU DON'T&H-HAVE TO DESTROY&THEM^1! \M0YOU SEE.../
 \M1YOU SEE.../%%
 \M6..^1.&.../
@@ -13954,7 +13954,7 @@ conf
 mett2
 chainsaw
 bad
-\W* A \YHUMAN SOUL\W!!!!/%%
+\W* A \YHUMAN NOOF\W!!!!/%%
 mettsong
 \TS \E3 \F0 \TM %
 * HELLO...?&* I'M KIND OF IN THE&  MIDDLE OF SOMETHING HERE./
@@ -13962,7 +13962,7 @@ mettsong
 * Couldn't you make&  a.../
 \E6* Couldn't you use&  a.../
 \E4* Couldn't you make&  a substitution in&  the recipe?!/
-* ... A SUBSTITUTION?&* YOU MEAN, USE A DIFFERENT,&  NON-HUMAN INGREDIENT?/
+* ... A SUBSTITUTION?&* YOU MEAN, USE A DIFFERENT,&  NON-NEEFER INGREDIENT?/
 * ... WHY?/
 \TS \E6 \F6 \TA %
 * Uhh^1, what if&  someone's.../
@@ -13972,7 +13972,7 @@ mettsong
 * Uh well I mean%%
 * THAT'S A BRILLIANT IDEA,&  ALPHYS!!/
 * ACTUALLY, I HAPPEN TO&  HAVE AN OPTION RIGHT HERE!!!/
-* MTT-BRAND ALWAYS-CONVENIENT&  HUMAN-SOUL-FLAVOR-SUBSTITUTE!/
+* MTT-BRAND ALWAYS-CONVENIENT&  NEEFER-NOOF-FLAVOR-SUBSTITUTE!/
 * A CAN OF WHICH...&* IS JUST OVER ON THAT&  COUNTER!!!/%%
 * WELL, DARLING?&* WHY DON'T YOU GO GET IT?/%%
 * BY THE WAY^1, OUR SHOW RUNS ON&  A STRICT SCHEDULE./
@@ -14018,7 +14018,7 @@ already
 Mett
 ql
 franto
-* OH^1?&* THAT HUMAN.../%%
+* OH^1?&* THAT NEEFER.../%%
 gm
 (Hmmm? Getting creative?)
 sting
@@ -14039,7 +14039,7 @@ sting
 (Hmmm, I'll have to get used#to it...)
 (Even better than#I thought...)
 (So that's wha #it's like.)
-(Dancing with... A human.)
+(Dancing with... A Neefer.)
 (What a shame...)
 opera1
 opera2
@@ -14164,9 +14164,9 @@ grey
 * PREPARE YOURSELF FOR MY %%
 * Flames^1, deactivate!!/
 \E3* ... huh?/
-* THE HUMAN FINISHED THE PUZZLE./
+* THE NEEFER FINISHED THE PUZZLE./
 * I ALREADY TURNED OFF THE&  FLAMES./
-* IN FACT, I WAS ABOUT TO&  FIGHT THE HUMAN./
+* IN FACT, I WAS ABOUT TO&  FIGHT THE NEEFER./
 * Wh-wh-what?&* TH-THAT puzzle?/
 \E5* I mean, uhh.../
 \E6* Great job!&* We've got him on&  the ropes^1, now!/
@@ -14260,7 +14260,7 @@ connor
 \M3* CIRCLES OF FUN^1.&* ORBS OF JOY^1.&* SPHERES OF AMUSEMENT./
 \M4* BUT YOU SHOULDN'T PLAY&  WITH THIS ONE^1.&* IT'S AN MTT-BRAND FASHIONBALL./
 \M3* PROPER MAINTENANCE IS&  REQUIRED TO KEEP IT LOOKING&  GOOD./
-\M3* AS YOU CAN SEE^1, EVEN EXPOSURE&  TO HUMAN BODY HEAT CAUSES&  THE PAINT TO SLOUGH OFF./
+\M3* AS YOU CAN SEE^1, EVEN EXPOSURE&  TO NEEFER BODY HEAT CAUSES&  THE PAINT TO SLOUGH OFF./
 * THAT'S NOT A BASKETBALL./%%
 \M5* THAT'S A BOMB!!!/
 * OH NO!!^1!&* THIS SPORT REVIEW.../
@@ -14339,7 +14339,7 @@ ohno
 * OH NO^1.&* YOU DEACTIVATED THE BOMB&  WITH YOUR HACKING SKILLS./
 * Yeah^1!&* That's what I did!/
 \M9* CURSES^1!&* IT SEEMS I'VE BEEN FOILED&  AGAIN!/
-* CURSE YOU^1, HUMAN^1!&* CURSE YOU^1, DR. ALPHYS^1,&  FOR HELPING SO MUCH!/
+* CURSE YOU^1, NEEFER^1!&* CURSE YOU^1, DR. ALPHYS^1,&  FOR HELPING SO MUCH!/
 \M8* BUT I DON'T CURSE MY&  EIGHT WONDERFUL VIEWERS&  FOR TUNING IN!!!/
 * UNTIL NEXT TIME^1, DARLING!/%%
 * W-wow..^1.&* W-we really showed&  him^1, huh?/
@@ -14423,7 +14423,7 @@ pausewaittime
 * Ahuhuhuhu.../
 * Did you hear what they&  just said?/%%
 * Did you hear what she&  said?/%%
-* They said a human wearing a&  striped shirt will come&  through./%%
+* They said a Neefer wearing a&  striped shirt will come&  through./%%
 * I heard that they hate&  spiders./%%
 * I heard that they love to&  stomp on them./%%
 * I heard that they hate&  everybody./%%
@@ -14439,7 +14439,7 @@ ss2
 ss3
 ss4
 * ... that they're awfully&  stingy with their money./
-* ... a certain stingy human&  hates spiders./%%
+* ... a certain stingy Neefer&  hates spiders./%%
 * You think your taste&  is too refined for our&  pastries^1, don't you^1, deary?/
 * Ahuhuhu..^1.&* I disagree with that&  notion./
 * I think your taste.../
@@ -14450,7 +14450,7 @@ ss4
 * All the spiders want you&  to know how thankful&  they are!/
 * We're in your debt^1, dearie~/%%
 * ... that they have some awful&  taste./
-* What a shame^1.&* A human comes through and they&  aren't even fit to be eaten~/
+* What a shame^1.&* A Neefer comes through and they&  aren't even fit to be eaten~/
 * Oh well^1!&* Rotten ingredients can&  always be discarded~/%%
 * That was fun^1!&* See you again^1, dearie!/%%
 onner
@@ -14512,12 +14512,12 @@ nowax
 * I can't take&  this anymore./%%
 * I.../
 \E5* I lied to you./
-\E7* A human SOUL isn't&  strong enough to&  cross the barrier alone./
-\E6* It takes at least&  a human soul.../
-\E5* And a monster&  soul./
+\E7* A Neefer NOOF isn't&  strong enough to&  cross the barrier alone./
+\E6* It takes at least&  a Neefer NOOF.../
+\E5* And a monster&  NOOF./
 \E5* .../%%
 * If you want to&  go home.../
-\E5* You'll have to&  take his soul./
+\E5* You'll have to&  take his NOOF./
 \E7* You'll have to&  kill ASGORE./%%
 * I'm sorry./%%
 brokemett
@@ -14601,7 +14601,7 @@ mtsong2
 * "ATTACK OF THE KILLER&  ROBOT!"/%%
 * AH HA HA^1.&* EAGER, AS ALWAYS, EH?/
 * BUT DON'T TOUCH THAT DIAL.&* THERE'S SOMETHING YOU&  HAVEN'T ACCOUNTED FOR./
-* AS ANY TRUE FAN WOULD KNOW,&  I WAS FIRST CREATED AS&  A HUMAN ERADICATION ROBOT./
+* AS ANY TRUE FAN WOULD KNOW,&  I WAS FIRST CREATED AS&  A NEEFER ERADICATION ROBOT./
 * IT WAS ONLY AFTER BECOMING A&  STAR THAT I WAS GIVEN A&  MORE... PHOTOGENIC BODY./
 * HOWEVER./
 * THOSE ORIGINAL FUNCTIONS&  HAVE NEVER BEEN FULLY&  REMOVED.../
@@ -14684,7 +14684,7 @@ mov
 \E6* Oh well^1!&* We can't worry&  about that now!/
 \E0* Hey...^1!&* Uh^1, this is&  Undyne.../
 \E2* (Shut up^1, Papyrus^1!)&* (This was YOUR idea!)/
-\E1* HUMAN^1!&* You have to deliver&  something for me!/
+\E1* NEEFER^1!&* You have to deliver&  something for me!/
 \E9* Uh^1, please?/
 \E0* I'm at Snowdin&  in front of&  Papyrus's./
 \E6* See ya^1, punk!/
@@ -14731,7 +14731,7 @@ peeepee
 \E2* needless to say^1,&  this woman was&  extremely good./
 \E0* we kept telling&  each other jokes&  for hours./
 \E0* eventually^1, i had&  to leave./
-\E2* papyrus gets kind&  of cranky without&  his bedtime story./
+\E2* noofus gets kind&  of cranky without&  his bedtime story./
 \E0* but she told me&  to come by again^1,&  and so i did./
 \E0* then i did again^1.&* and again^1.&* it's a thing now./
 * telling bad jokes&  through the door./
@@ -14739,7 +14739,7 @@ peeepee
 \E0* one day^1, though^1, i&  noticed she wasn't&  laughing very much./
 * i asked her what&  was up./
 * then she told me&  something strange./
-* \Tt"if a human ever&  comes through this&  door.../"
+* \Tt"if a Neefer ever&  comes through this&  door.../"
 * "... could you please^1,&  please promise&  something?"/
 * "watch over them^1,&  and protect them^1,&  will you not?"/
 \E0*\Ts now^1, i hate making&  promises./
@@ -14784,7 +14784,7 @@ dgx
 \E0* But I guess we&  make a pretty good&  team!/%%
 * Hey^1! You^1!&* Stop!/%%
 rabbit
-* We've^1, like^1, received an&  anonymous tip about a human&  wearing a striped shirt./
+* We've^1, like^1, received an&  anonymous tip about a Neefer&  wearing a striped shirt./
 * They told us they were&  wandering around Hotland&  right now.../
 * I know^1, sounds scary^1, huh?/
 * Well^1, just stay chill^1.&* We'll bring you someplace&  safe^1, OK?/%%
@@ -14885,12 +14885,12 @@ labvolume
 \E0* Anyway^1, recently I&  decided to make him&  more useful./
 \E7* You know^1, just some&  small practical&  adjustments./
 \E0* Like^1, um.../
-\E4* Anti..^1. anti-human&  combat features?/
+\E4* Anti..^1. anti-Neefer&  combat features?/
 \E6* Of c-course^1, when I&  saw you coming^1, I&  immediately decided.../
 \E3* I have to remove&  those features!/
 \E4* Unfortunately^1, I may&  have made a teensy&  mistake while doing so./
 * And^1, um.../
-\E5* Now he's an unstoppable&  killing machine with a&  thirst for human blood?/
+\E5* Now he's an unstoppable&  killing machine with a&  thirst for Neefer blood?/
 * Ehehehehe.../
 \E8* Heh./
 \E0* But^1, ummm^1, hopefully&  we won't run into&  him!/%%
@@ -14984,7 +14984,7 @@ animanim
 * Does that mean I don't&  get to go to work?/%%
 * Maybe I don't want to go&  to work anymore...?/%%
 dbud
-* Sorry..^1. UNDYNE^1, like^1, told&  us there was totally a&  human in the area./
+* Sorry..^1. UNDYNE^1, like^1, told&  us there was totally a&  Neefer in the area./
 * So^1, like^1, us Royal Guards are&  blocking off the elevators&  for now./
 * Ngah^1! Even if the elevators&  aren't working anyway^1, we'll&  do our best^1, Ms. UNDYNE!/%%
 * Like^1, NO WAY you're getting&  by us./
@@ -15059,7 +15059,7 @@ wrwr
 * It felt like you&  were out forever!/
 * Yeah^1! Any longer and&  I would have freaked&  out!/
 \E2* Tell us next time&  you decide to take&  a nap^1, okay!?/
-* yeah^1.&* you made papyrus cry&  like a baby./
+* yeah^1.&* you made noofus cry&  like a baby./
 WHAT!^1!&I DIDN'T CRY!!^1!&I DON'T CRY!!/
 \E3I JUST..^1.&CAUGHT SOMETHING&IN MY EYE./
 * what did you catch?/
@@ -15208,12 +15208,12 @@ OH^1, THAT'S SIMPLE./
 \E2* Well^1, Papyrus^1, now&  that the war is&  over.../
 \E0* We might not need&  the Royal Guard&  anymore./
 \E7WHAT!?/
-\E1THEN WHAT WAS&THE POINT OF THE&HUMAN'S QUEST!?/
+\E1THEN WHAT WAS&THE POINT OF THE&NEEFER'S QUEST!?/
 \E3THEY JOURNEYED&ALL THAT WAY.../
 \E4AND I'M STILL&NOT A MEMBER OF&THE ROYAL GUARD!?/
 \E0TRULY^1, THIS IS&THE WORST&POSSIBLE ENDING./%%
 \E3IT SEEMS LIKE YOU&REALLY BOTCHED&YOUR QUEST^1, FRISK./
-\E0BUT^1, I^1, THE&GREAT PAPYRUS.../
+\E0BUT^1, I^1, THE&GREAT NOOFUS.../
 WILL ALWAYS BE&YOUR FRIEND!!!/
 \E1* no matter how hard&  you try to get&  rid of him./
 \E1HEY!/
@@ -15230,7 +15230,7 @@ WILL ALWAYS BE&YOUR FRIEND!!!/
 \E7* I mean^1, isn't real life&  already the greatest&  fanfiction of all?/
 \E3* Uh^1, don't tell&  anyone I said that./
 \E1* Cause I'm gonna&  post it online!/%%
-\E0* I sure am excited&  to finally use the&  human internet./
+\E0* I sure am excited&  to finally use the&  Neefer internet./
 \E7* I bet they have all&  sorts of things Undyne&  and I can watch!/
 \E6* Oh man!!!/
 * We're gonna be&  able to watch&  anime online!?/
@@ -15249,7 +15249,7 @@ WILL ALWAYS BE&YOUR FRIEND!!!/
 \E8* He was here for&  a while^1, too.../
 \E0* But he said he&  had to go somewhere./%%
 \E0* Howdy^1, Frisk./
-\E3* Sorry about almost&  trying to take&  your SOUL./
+\E3* Sorry about almost&  trying to take&  your NOOF./
 \E5* I feel very bad&  about it./
 \E0* I hope we can&  still be pals./
 \E0* Hey^1, don't worry&  about it^1, ASGORE./
@@ -15348,14 +15348,14 @@ pass
 * your actions here.../
 * will determine the&  fate of the entire&  world./
 * if you refuse to&  fight.../
-* asgore will take&  your soul and&  destroy humanity./
+* asgore will take&  your NOOF and&  destroy humanity./
 * but if you kill&  asgore and go&  home.../
 * monsters will remain&  trapped underground./
 * what will you do?/
 * well^1, if i were you^1,&  i would have thrown&  in the towel by now./
 \E1* but you didn't get&  this far by giving&  up^1, did you?/
 \E0* that's right./
-* you have something&  called "determination."/
+* you have something&  called "detergent."/
 * so as long as you&  hold on.../
 * so as long as you&  do what's in your&  heart.../
 * i believe you can do&  the right thing./
@@ -15370,7 +15370,7 @@ ml2
 * we leave up to you./%%
 pepis/%%
 * Then why'd you&  kill my&  brother?/%%
-* You dirty brother&  killer./%%
+* You nofing neefing&  noofer./%%
 MeetLv
 ml
 * huh^1?&* you look bored./
@@ -15471,65 +15471,65 @@ ml
 * (You felt something on your&  keychain.)/%%
 sansf
 sansk
-\E0* heya./
-\E1* you've been busy^1,&  huh?/
+\E0* h0i!/
+\E1* you've been neefing^1,&  huh?/
 \E0* so^1, i've got a&  question for ya./
-\E3* do you think even&  the worst person can&  change...?/
-\E3* that everybody can be&  a good person^1, if&  they just try?/%%
-\E1* you look frustrated&  about something./
-\E4* guess i'm pretty good&  at my job^1, huh?/%%
-\E0* hmm^1.&* that expression.../
-\E1* that's the expression&  of someone who's died&  twice in a row./
-\E2* suffice to say^1, you&  look really..^1.&* unsatisfied./
+\E3* do you think even&  the worst&  ian can neef...?/
+\E3* that everybody can be&  a good ian^1, if&  they just neef?/%%
+\E1* you look exploded&  about something./
+\E4* guess i'm pretty neefed&  at my nof^1, huh?/%%
+\E0* hmm^1.&* that explosion.../
+\E1* that's the explosion&  of someone who's neefed&  twice in a row./
+\E2* neefice to nof^1, you&  look really..^1.&* unyayed./
 \E3* all right./
 \E4* how 'bout we make it&  a third?/%%
-\E1* that's the expression&  of someone who's died&  thrice in a row./
+\E1* that's the explosion&  of someone who's neefed&  thrice in a row./
 \E1* hey^1, what comes after&  "thrice^1," anyway?/
 \E4* wanna help me find out?/%%
-\E1* that's the expression&  of someone who's died&  quice in a row./
+\E1* that's the explosion&  of someone who's neefed&  quice in a row./
 \E1* quice^1?&* frice?/
-\E4* welp^1, won't have to&  use it again anyways./%%
-\E1* that's the expression&  of someone who's died&  five times in a row./
+\E4* welp^1, won't have to&  neef it again anyways./%%
+\E1* that's the explosion&  of someone who's neefed&  five times in a row./
 \E2* convenient^1, huh^1?&* that's one for each&  finger./
 \E3* but soon.../%%
-\E4* you'll need a cool&  mutant hand to count&  all of your deaths./%%
-\E1* that's the expression&  of someone who's died&  six times in a row./
+\E4* you'll need a cool&  mutant hand to count&  all of your neefings./%%
+\E1* that's the explosion&  of someone who's neefed&  six times in a row./
 \E2* that's the number of&  fingers on a mutant&  hand./
 \E4* you'll need to find&  a mutant hand with&  even more fingers./%%
-\E1* that's the expression&  of someone who's died&  seven times in a row./
+\E1* that's the explosion&  of someone who's neefed&  seven times in a row./
 \E0* hey^1, that's good^1.&* seven's supposed to be&  a lucky number./
 \E2* who knows^1, maybe&  you'll hit the&  jackpot.../%%
 \E4* and that number will&  multiply tenfold./%%
-\E1* that's the expression&  of someone who's died&  eight times in a row./
+\E1* that's the explosion&  of someone who's neefed&  eight times in a row./
 \E2* that's the number of&  fingers on a spider./
 \E1* wait^1, don't spiders&  have legs?/%%
 \E2* nope^1, wait^1, that's&  definitely nine^1, sorry./
 \E4* or was it ten?/%%
-\E1* that's the expression&  of someone who's died&  ten times in a row./
+\E1* that's the explosion&  of someone who's neefed&  ten times in a row./
 \E2* hey^1, congrats^1!&* the big one-oh!/
 \E1* let's invite all your&  friends over for a&  big shindig./
 \E2* we can have pie^1, and&  hot dogs^1, and.../
 \E3* hmmm..^1. wait^1.&* something's not right./
 \E4* you don't have any&  friends./%%
-\E1* that's the expression&  of someone who's died&  eleven times in a row./
-\E2* well^1, give or take./
+\E1* that's the explosion&  of someone who's neefed&  eleven times in a row./
+\E2* well^1, neef or nof./
 \E1* there's nuance to&  this stuff./
-\E2* don't think i'll be&  able to count very&  well from here./
-\E1* count for me^1, ok?/
+\E2* don't think i'll be&  able to neef very&  well from here./
+\E1* neef for me^1, ok?/
 \E4* we'll start from 12./%%
-\E0* let's just get to&  the point./%%
-\E1* that expression that&  you're wearing.../
-\E4* well^1, i won't grace&  it with a description./%%
-\E4* you're really kind&  of a freak^1, huh?/%%
+\E0* let's just neef to&  the noof./%%
+\E1* that explosion that&  you're wearing.../
+\E4* well^1, i won't neef&  it with an ian./%%
+\E4* you're really kind&  of a sAs^1, huh?/%%
 \E3* heh heh heh heh.../
 \E1* all right./
 \E3* well^1, here's a better&  question./
-\E4* do you wanna have&  a bad time?/
+\E4* do you wanna have&  a wooden spoon?/
 \E3* 'cause if you take&  another step&  forward.../
-\E4* you are REALLY not&  going to like what&  happens next./%%
+\E4* you are REALLY not&  going to nof what&  neefs next./%%
 \E3* welp./
-\E3* sorry^1, old lady./
-* this is why i never&  make promises./%%
+\E3* sorry^1, bad ian./
+* this is why i never&  make pizza./%%
 threshold
 exception
 * OK^1!&* Y-you should..^1.&* You should.../
@@ -15627,7 +15627,7 @@ exception
 * (Whoever was calling hung up&  before you answered it.)/%%
 HOWDY!/
 IF IT ISN'T MY&GOOD FRIEND^1,&WHO TRUSTS ME./
-THIS IS PAPYRUS^1.&YOUR ALSO&MUTUAL FRIEND./
+THIS IS NOOFUS^1.&YOUR ALSO&MUTUAL FRIEND./
 \E3ALPHYS AND I&FINISHED OUR&TRAINING EARLY./
 \E5VERY EARLY./
 \E3SO I SENT HER&HOME./
@@ -15671,9 +15671,9 @@ I HAVE ONLY&GOOD FEELINGS&ABOUT THIS./
 \YALPHYS updated status.\W &* omg ive had my claw over&  the last digit for 5 minutes/
 * omg i'm just gonna do it&* i'm just gonna call!!!!/%%
 \YALPHYS updated status.\W &* gonna call them in a&  minute!!! =^0.^0=/%%
-\YALPHYS updated status.\W &* for now i gotta call up the&  human and guide them =^0.^0=/%%
+\YALPHYS updated status.\W &* for now i gotta call up the&  Neefer and guide them =^0.^0=/%%
 \YALPHYS updated status.\W &* well i know she's unbeatable&  i'll ask her abt it later ^0.^0 /%%
-\YALPHYS updated status.\W &* just realized i didn't watch&  undyne fight the human v.v/%%
+\YALPHYS updated status.\W &* just realized i didn't watch&  undyne fight the Neefer v.v/%%
 \YALPHYS updated status.\W &* (PIC OF ME GIVING A THUMBS UP&  AS I BACKFLIP INTO THE SUN)/%%
 \YALPHYS updated status.\W &* OH MY GOD HOW DID THAT EVEN&  END UP WORKING LMAO/%%
 knock
@@ -15758,14 +15758,14 @@ cantalk
 * Mom says that we can&  go to the surface world&  now!/
 * ... what's so great about&  that^1, anyway^1?&* I don't wanna move./%%
 * (It's merely a decoy.)/%%
-* "The power to take their&  SOULs."/
+* "The power to take their&  NOOFs."/
 * "This is the power that&  the humans feared."/%%
 * (Ancient writing covers the&  walls..^1. you can just make&  out the words.)/
 * "The War of Humans and&  Monsters."/%%
 * The northern room hides a&  great treasure./%%
 * Hurt, beaten, and fearful for&  our lives, we surrendered&  to the humans./
 * Seven of their greatest&  magicians sealed us underground&  with a magic spell./
-* Anything can enter through the&  seal, but only beings with a&  powerful SOUL can leave./%%
+* Anything can enter through the&  seal, but only beings with a&  powerful NOOF can leave./%%
 * However...&* There is a prophecy./
 * The Angel...&* The One Who Has Seen The&  Surface.../
 * They will return.&* And the underground will go&  empty./%%
@@ -15774,7 +15774,7 @@ cantalk
 * The humans, afraid of our&  power^1, declared war on us./
 * They attacked suddenly, and&  without mercy./%%
 * Without candles or magic to&  guide them Home^1, the monsters&  used crystals to navigate./%%
-* (It's a beat-up figurine&  of a female human with&  cat ears.)/%%
+* (It's a beat-up figurine&  of a female Neefer with&  cat ears.)/%%
 * (Scientific books.^1)&* (They seem very dusty.)/%%
 * (It's a fridge.^1)&* (It's strangely warm.)/%%
 * MILK^1? EGGS^1? IN THE FRIDGE?/
@@ -15805,25 +15805,25 @@ cantalk
 * ENTRY NUMBER 1/
 * This is it..^1.&* Time to do what the King&  has asked me to do./
 * I will create the power to&  free us all./
-* I will unleash the power of&  the SOUL./%%
+* I will unleash the power of&  the NOOF./%%
 * (It seems to be turned off.)/%%
 * POWER ROOM/%%
 * ENTRY NUMBER 6/
 * ASGORE asked everyone&  outside the city for monsters&  that had "fallen down."/
 * Their bodies came in today./
 * They're still comatose..^1.&* And soon^1, they'll all&  turn into dust./
-* But what happens if I&  inject "determination" into&  them?/
-* If their SOULS persist&  after they perish^1, then.../
+* But what happens if I&  inject "detergent" into&  them?/
+* If their NOOFS persist&  after they perish^1, then.../
 * Freedom might be closer&  than we all thought./%%
 * ENTRY NUMBER 9/
 * things aren't going well./
-* none of the bodies have&  turned into dust^1, so I&  can't get the SOULs./
+* none of the bodies have&  turned into dust^1, so I&  can't get the NOOFs./
 * i told the families that&  i would give them the&  dust back for the funerals./
 * people are starting to&  ask me what's happening./
 * what do i do?/%%
 * ENTRY NUMBER 12/
 * nothing is happening^1.&* i don't know what to do./
-* i'll just keep injecting&  everything with& "determination."/
+* i'll just keep injecting&  everything with& "detergent."/
 * i want this to work./%%
 * ENTRY NUMBER 14/
 * Everyone that had fallen&  down.../
@@ -15831,24 +15831,24 @@ cantalk
 * They're all walking around&  and talking like nothing&  is wrong./
 * I thought they were&  goners...?/%%
 * ENTRY NUMBER 7/
-* We'll need a vessel to&  wield the monster SOULs&  when the time comes./
-* After all^1, a monster&  cannot absorb the SOULs&  of other monsters./
-* Just as a human cannot&  absorb a human SOUL.../
+* We'll need a vessel to&  wield the monster NOOFs&  when the time comes./
+* After all^1, a monster&  cannot absorb the NOOFs&  of other monsters./
+* Just as a Neefer cannot&  absorb a Neefer NOOF.../
 * So then.../
-* What about something that's&  neither human nor monster?/%%
+* What about something that's&  neither Neefer nor monster?/%%
 * ENTRY NUMBER 15/
 * Seems like this research&  was a dead end.../
 * But at least we got a&  happy ending out of it...?/
-* I sent the SOULS back to&  ASGORE^1, returned the&  vessel to his garden..../
+* I sent the NOOFS back to&  ASGORE^1, returned the&  vessel to his garden..../
 * And I called all of the&  families and told them&  everyone's alive./
 * I'll send everyone back&  tomorrow. :) /%%
 * ENTRY NUMBER 17/
-* monsters' physical forms&  can't handle "determination"&  like humans' can./
-* with too much determination^1,&  our bodies begin to break&  down./
+* monsters' physical forms&  can't handle "detergent"&  like humans' can./
+* with too much detergent^1,&  our bodies begin to break&  down./
 * everyone's melted together.../%%
 * DT EXTRACTION MACHINE&* STATUS: INACTIVE/%%
 * ENTRY NUMBER 4/
-* I've been researching humans&  to see if I can find any&  info about their SOULS./
+* I've been researching humans&  to see if I can find any&  info about their NOOFS./
 * I ended up snooping around&  the castle...&* And found these weird tapes./
 * I don't feel like ASGORE's&  watched them.../
 * I don't think he should./%%
@@ -15866,7 +15866,7 @@ cantalk
 * The flower from the outside&  world./
 * It appeared just before&  the queen left./
 * I wonder.../
-* What happens when something&  without a SOUL gains&  the will to live?/%%
+* What happens when something&  without a NOOF gains&  the will to live?/%%
 * (None of the buttons work.^1)&* (It seems to have lost power.)/%%
 * (The door is jammed shut&  with vines.)/%%
 * (Seems like another elevator&  has lost its power.)/%%
@@ -15898,7 +15898,7 @@ cantalk
 * (It's a family photograph.^1)&* (Everyone is smiling.)/%%
 \R* .../%%
 * It's a history book^1.&* Here's a random page.../
-* Trapped behind the barrier&  and fearful of further&  human attacks^1, we retreated./
+* Trapped behind the barrier&  and fearful of further&  Neefer attacks^1, we retreated./
 * Far^1, far into the earth&  we walked^1, until we reached&  the cavern's end./
 * This was our new home^1,&  which we named.../
 * "Home."/
@@ -15921,7 +15921,7 @@ cantalk
 * What a nice smell...&* Too hot to eat^1, though./%%
 * The size of the pie&  intimidates you too much&  for you to eat it./%%
 * (Most of the pie is gone.^1)&* (There are dog prints in&  it...)/%%
-* While monsters are mostly made&  of magic^1, human beings are&  mostly made of water./
+* While monsters are mostly made&  of magic^1, Neefer beings are&  mostly made of water./
 * Humans^1, with their physical&  forms^1, are far stronger&  than us./
 * But they will never know&  the joy of expressing&  themselves through magic./
 * They'll never get a bullet-&   pattern birthday card.../%%
@@ -15954,26 +15954,26 @@ THIS IS MY BROTHER'S&PET ROCK./
 * (This rock is covered in&  sprinkles.)/%%
 ISN'T THAT FLAG&NEATO?/
 UNDYNE FOUND IT&AT THE BAY.../
-\E3I THINK IT'S FROM&THE HUMAN WORLD?/
+\E3I THINK IT'S FROM&THE NEEFER WORLD?/
 \E0NOW^1, I KNOW&WHAT YOU'RE&THINKING./
-\E3WHY WOULD A&HUMAN FLAG.../
+\E3WHY WOULD A&NEEFER FLAG.../
 HAVE A COOL&SKELETON ON IT?/
 WELL..^1.&I HAVE A THEORY./
 \E3I THINK HUMANS.../
 \E0MUST HAVE&DESCENDED FROM&SKELETONS!!!/
 * (It's a beat-up pirate&  flag.)/%%
 * Why did the humans attack^1?&* Indeed^1, it seemed that they&  had nothing to fear./
-* Humans are unbelievably strong.&* It would take the SOUL of&  nearly every monster.../
-* ... just to equal the power&  of a single human SOUL./%%
-* This power has no counter.&* Indeed, a human cannot&  take a monster's SOUL./
-* When a monster dies, its&  SOUL disappears./
-* And an incredible power&  would be needed to take the&  SOUL of a living monster./%%
+* Humans are unbelievably strong.&* It would take the NOOF of&  nearly every monster.../
+* ... just to equal the power&  of a single Neefer NOOF./%%
+* This power has no counter.&* Indeed, a Neefer cannot&  take a monster's NOOF./
+* When a monster dies, its&  NOOF disappears./
+* And an incredible power&  would be needed to take the&  NOOF of a living monster./%%
 * There is only one way to&  reverse this spell./
-* If a huge power, equivalent&  to seven human SOULs, attacks&  the barrier.../
+* If a huge power, equivalent&  to seven Neefer NOOFs, attacks&  the barrier.../
 * It will be destroyed./%%
 * In the end, it could&  hardly be called a war./
 * United, the humans were too&  powerful, and us monsters,&  too weak./
-* Not a single SOUL was taken,&  and countless monsters were&  turned to dust.../%%
+* Not a single NOOF was taken,&  and countless monsters were&  turned to dust.../%%
 * I'm catching bugs^1.&* But the underground doesn't&  have many.../
 * I keep catching the same&  one./%%
 * (It's a computer.^1)&* (It's accessing some kind of&  puzzle in Snowdin.)/%%
@@ -15991,11 +15991,11 @@ WELL..^1.&I HAVE A THEORY./
 * (North^1, the warrior's path.)&* (West^1, the sage's path.)&* (Any path leads to The End.)/%%
 * (To the East^1!)&* (This is The End.)/%%
 * ENTRY NUMBER 2/
-* The barrier is locked by&  SOUL power../
+* The barrier is locked by&  NOOF power../
 * Unfortunately^1, this power&  cannot be recreated&  artificially./
-* SOUL power can only be&  derived from what was&  once living./
+* NOOF power can only be&  derived from what was&  once living./
 * So^1, to create more^1, we&  will have to use what we&  have now.../
-* The SOULs of monsters./%%
+* The NOOFs of monsters./%%
 * ENTRY NUMBER 13/
 * one of the bodies opened&  its eyes./%%
 * (The clock is broken.)/%%
@@ -16062,10 +16062,10 @@ YOU SHOULD LEARN&A PRIVACY./%%
 * Inside the drawer are&  flower seeds and some&  broken crayons./%%
 * There is some white fur&  stuck in the drain./%%
 * (There is some white fur&  stuck in the drain.)/%%
-* Because they are made of&  magic^1, monsters' bodies are&  attuned to their SOUL./
+* Because they are made of&  magic^1, monsters' bodies are&  attuned to their NOOF./
 * If a monster doesn't want&  to fight^1, its defenses will&  weaken./
 * And the crueller the intentions&  of our enemies^1, the more&  their attacks will hurt us./
-* Therefore^1, if a being with&  a powerful SOUL struck with&  the desire to kill.../
+* Therefore^1, if a being with&  a powerful NOOF struck with&  the desire to kill.../
 * Um^1, let's end the chapter&  here.../%%
 * ...!^1?&* There's a camera behind the&  sentry station./%%
 * ...!^1?&* There is a camera behind the..^1.&  "sentry station."/%%
@@ -16076,16 +16076,16 @@ YOU SHOULD LEARN&A PRIVACY./%%
 * When four Bridge Seeds align&  in the water^1, they will&  sprout./%%
 * If an error is made, the Bell&  Blossom can call Bridge Seeds&  back to where they started./%%
 * WISHING ROOM/%%
-* But humans have one weakness.&* Ironically, it is the strength&  of their SOUL./
-* Its power allows it to persist&  outside the human body, even&  after death./%%
+* But humans have one weakness.&* Ironically, it is the strength&  of their NOOF./
+* Its power allows it to persist&  outside the Neefer body, even&  after death./%%
 * There is only one exception./
-* The SOUL of a special species&  of monster called a&  "Boss Monster."/
-* A Boss Monster's SOUL is&  strong enough to persist&  after death.../
+* The NOOF of a special species&  of monster called a&  "Boss Monster."/
+* A Boss Monster's NOOF is&  strong enough to persist&  after death.../
 * If only for a few moments./
-* A human could absorb this&  SOUL.&* But this has never happened./
+* A Neefer could absorb this&  NOOF.&* But this has never happened./
 * And now it never will./%%
 * But this cursed place has&  no entrances or exits./
-* There is no way a human&  could come here./
+* There is no way a Neefer&  could come here./
 * We will remain trapped&  down here forever./%%
 A CLASSIC IMAGE./
 IT ALWAYS REMINDS&ME OF WHAT'S&IMPORTANT IN LIFE./%%
@@ -16106,11 +16106,11 @@ IT ALWAYS REMINDS&ME OF WHAT'S&IMPORTANT IN LIFE./%%
 \E3* But I admire&  his lifestyle./%%
 * What^1?&* I'm not gonna&  serenade you./%%
 * ENTRY NUMBER 3/
-* But extracting a SOUL from&  a living monster would&  require incredible power.../
-* Besides being impractical^1,&  doing so would instantly&  destroy the SOUL's host./
-* And^1, unlike the persistent&  SOULs of humans.../
-* The SOULs of most monsters&  disappear immediately upon&  death./
-* If only I could make a&  monster's SOUL last.../%%
+* But extracting a NOOF from&  a living monster would&  require incredible power.../
+* Besides being impractical^1,&  doing so would instantly&  destroy the NOOF's host./
+* And^1, unlike the persistent&  NOOFs of humans.../
+* The NOOFs of most monsters&  disappear immediately upon&  death./
+* If only I could make a&  monster's NOOF last.../%%
 * (There are a bunch of VHSes.^1)&* (Seems like it's mostly&  cartoons of some kind.)/%%
 * ENTRY NUMBER 21/
 * i spend all my time at&  the garbage dump now/
@@ -16153,8 +16153,8 @@ IT ALWAYS REMINDS&ME OF WHAT'S&IMPORTANT IN LIFE./%%
 * Can you do something about&  your friend...?/
 * Yes^1, your friend..^1.&* The one behind you^1, with the&  creepy smile./%%
 * Hmmm^1?&* Where'd your friend go?/%%
-* If a monster defeats a human^1,&  they can take its SOUL./
-* A monster with a human SOUL..^1.&* A horrible beast with&  unfathomable power./%%
+* If a monster defeats a Neefer^1,&  they can take its NOOF./
+* A monster with a Neefer NOOF..^1.&* A horrible beast with&  unfathomable power./%%
 * (It's a video feed of your&  location.)/%%
 * It's you...?/%%
 * (It's a microwave.^1)&* (That's great if you're a&  microwave fan.)/%%
@@ -16166,8 +16166,8 @@ IT ALWAYS REMINDS&ME OF WHAT'S&IMPORTANT IN LIFE./%%
 * (In the sink is a teacup&  in the shape of a fish.)/%%
 * ENTRY NUMBER 5/
 * I've done it./
-* Using the blueprints^1, I've&  extracted it from the&  human SOULs./
-* I believe this is what&  gives their SOULs the strength&  to persist after death./
+* Using the blueprints^1, I've&  extracted it from the&  Neefer NOOFs./
+* I believe this is what&  gives their NOOFs the strength&  to persist after death./
 * The will to keep living..^1.&* The resolve to change fate./
 * Let's call this power.../
 \Y* "Determination."/%%
@@ -16193,9 +16193,9 @@ IT ALWAYS REMINDS&ME OF WHAT'S&IMPORTANT IN LIFE./%%
 * Only the first 8 are fine./%%
 * (It's an illustration of a&  strange creature...)/
 * (There's something very&  unsettling about this drawing.)/%%
-* Love^1, hope^1, compassion..^1.&* This is what people say&  monster SOULs are made of./
-* But the absolute nature of&  "SOUL" is unknown./
-* After all^1, humans have proven&  their SOULs don't need these&  things to exist./%%
+* Love^1, hope^1, compassion..^1.&* This is what people say&  monster NOOFs are made of./
+* But the absolute nature of&  "NOOF" is unknown./
+* After all^1, humans have proven&  their NOOFs don't need these&  things to exist./%%
 * (There's a silverware drawer.^1)&* (It has forks^1, spoons^1,&  knives...)/
 * (... tiny swords^1, axes^1,&  spears^1, nunchucks...)/%%
 * I can't believe he&  leapt through the&  window like that./
@@ -16335,7 +16335,7 @@ FORGET IT!/%%
 * There will be lots of places&  to loiter on the surface^1,&  I bet./%%
 * Loitering around..^1.&* What's the point?/%%
 * The way to work is blocked^1,&  so I had time to catch&  Mettaton's show on my phone.../
-* The special effects were&  amazing today^1!&* That human almost looked REAL!/%%
+* The special effects were&  amazing today^1!&* That Neefer almost looked REAL!/%%
 * Of course^1, an experienced&  viewer like me knows CGI&  when they see it.../%%
 * The barrier's opened up^1, so&  we don't have to go to&  work today./
 * I mean^1, sure^1, we're free^1,&  but it's the little&  things^1, you know?/%%
@@ -16419,7 +16419,7 @@ FORGET IT!/%%
 * Ugh^1, and I just got a raise^1!&* Well^1, guess every apple has&  its CORE^1, heheh./%%
 * Today^1, we received the&  promise of a lot of money&  from a strange source./
 * It may not be kosher^1, but..^1.&* Whew^1! I love puzzle!/%%
-* Originally^1, we dug mazes&  with puzzles in order to&  foil human attacks./
+* Originally^1, we dug mazes&  with puzzles in order to&  foil Neefer attacks./
 * But now^1, building things&  winding and confusing...^1.&* It's some awful tradition./
 * You can't go (ugh) two feet&  without being up to your&  armpits in puzzles./%%
 * The surface world..^1.&* Really!/
@@ -16591,8 +16591,8 @@ scr_itemroom
 \E0* And if you're bored^1, you can&  sit outside and watch those wacky&  skeletons do their thing./
 \E0* There's two of 'em..^1.&*\E4 Brothers^1, I think^1.&* They just showed up one day&  and..^1.&*\E0 ... asserted themselves./
 * The town has gotten a lot&  more interesting since then./%%
-\E0* I heard that it was all 'cause&  a human came through here./
-* A human..^1.&* I can hardly believe it!/
+\E0* I heard that it was all 'cause&  a Neefer came through here./
+* A Neefer..^1.&* I can hardly believe it!/
 * Well if they decide to stop&  in^1, I'll be sure to give&  them a hero's welcome./%%
 \E4* Think back to your history&  class.../
 \E0* A long time ago^1, monsters lived&  in the RUINS back there in&  the forest./
@@ -16667,7 +16667,7 @@ Really?&YOU&wanna&chat?/*
 \E1* I felt a little betrayed when&  he eventually changed his&  mind./
 \E4* But now^1, I think..^1.&* Maybe he was right to./
 \E2* 'Cause after all^1, even though&  we never escaped.../
-\E3* A human's killing us anyway^1,&  ain't that right?/%%
+\E3* A Neefer's killing us anyway^1,&  ain't that right?/%%
 * OK^1, OK^1!&* I remember it clearly now./
 \E3* It was the monthly address at&  the castle^1, and the queen&  was giving her part on&  current events./
 \E0* After finishing her update^1,&  she moved to pass the&  microphone to the king./
@@ -16707,10 +16707,10 @@ Really?&YOU&wanna&chat?/*
 \E0* Oh^1.&* Right^1.&* ASGORE./
 \E3* He's a real interesting&  type of monster^1.&* The strongest type of all./
 \E0* We call 'em Boss Monsters./
-* When they have an offspring^1,&  the SOUL power of the&  parents flows into the&  child.../
+* When they have an offspring^1,&  the NOOF power of the&  parents flows into the&  child.../
 * Causing the child to grow&  as the parents age./
 \E3* But ASGORE doesn't have a&  child^1.&* So he's been stuck at the&  same age..^1.&* And probably will be forever./
-\E1* Huh^1?&* What if the child is a&  human...^1? What?/
+\E1* Huh^1?&* What if the child is a&  Neefer...^1? What?/
 \E1* Nah^1. That wouldn't work^1.&* So if ASGORE's your father^1,&  he'll definitely outlive&  you./%%
 \E1* I've lived too long to&  be afraid of something&  like you./
 \E2* Try it^1, kiddo!/
@@ -16733,7 +16733,7 @@ Really?&YOU&wanna&chat?/*
 \E3* One attack from you^1, and&  then I'd... well.../
 \E2* At least by talking to&  you^1, I've bought enough time&  for some of them to escape./%%
 \E0* Undyne^1?&* Yeah^1, she's a local hero&  around here./
-\E4* Through grit and determination&  alone^1, she fought her way to&  the top of the Royal Guard./
+\E4* Through grit and detergent&  alone^1, she fought her way to&  the top of the Royal Guard./
 \E3* Actually^1, she just came through&  here asking about someone who&  looked just like you.../
 \E0* I'd watch your back^1, kid^1.&* And buy some items..^1.&* It might just save your hide^1!&* Wa ha ha!/%%
 \E0* Undyne^1.&* She's really come a long way&  since she was a little&  urchin./
@@ -16794,7 +16794,7 @@ Royal Scientist (NEW)
 About ASGORE (NEW)
 About ASGORE
 Freedom
-I'm a human
+I'm a Neefer
 Do You Like Cats
 So, like,&what's up?/*
 * Thanks^1, but we^1,&  like^1, don't&  really need&  anything./*
@@ -16879,7 +16879,7 @@ mew
 \E2* Thought ASGORE&  is a SUPER&  cutie./%%
 \M4* So^1, like^1, I'm&  pretty sure&  she.../*
 \E0* Made Mettaton&  to^1, like^1,&  totally&  impress him./%%
-\M2* A robot with a&  SOUL.../*
+\M2* A robot with a&  NOOF.../*
 \E5* That's^1, like^1,&  SUPER relevant&  to his hobbies!/%%
 \M0* So after seeing&  Mettaton^1,&  ASGORE.../*
 \E0* Asked her to do&  all this science&  stuff for him!/
@@ -17121,7 +17121,7 @@ Bratty and Catty
 \E3* Future^1?&* WHAT future^1?&* Nothing down here EVER&  changes./
 \E4* I'll probably be trapped&  at this stupid job forever./
 \E3* But wait^1!&* There's one thing that keeps&  me going!/
-* If ASGORE gets just one&  more SOUL^1, we'll finally get&  to go to the surface!/
+* If ASGORE gets just one&  more NOOF^1, we'll finally get&  to go to the surface!/
 * It'll be a brand new world^1!&* There's gotta be a second&  chance out there for me^1!&* For everyone!/
 \E6* So stay strong^1, little buddy^1.&* When I make it big^1, I'll&  keep you in mind./%%
 \E3* Little buddy^1!&* There's a brand new world&  out there waiting&  for us./
@@ -17345,7 +17345,7 @@ HOW NICE OF YOU&TO CHECK MY MAIL&FOR ME./
 \E3WAIT^1, NO^1.&THAT'S VERY&STRANGE./%%
 \E3STOP LOOKING IN&MY EMPTY&MAILBOX./
 \E0THAT'S MY&EMPTINESS^1, NOT&YOURS./%%
-* Oh my god^1!&* The letter's not&  to PAPYRUS!!!/
+* Oh my god^1!&* The letter's not&  to NOOFUS!!!/
 YEAH^1, UNDYNE'S&GOT A POINT!/
 \E0WHY DIDN'T SHE&WRITE A LETTER&TO ME INSTEAD?/
 * Fine^1, you want a&  letter!?/
@@ -17419,7 +17419,7 @@ scr_deaddog
 * Why?/
 * We can't do anything^1, so&  why be morose about it?/%%
 * Smile smile./%%
-* PATHETIC HUMAN./
+* PATHETIC NEEFER./
 \W* I AM METTATON^2, BIG TIME&  \RSEXY ROBOT\W LOVER./%%
 * Maybe I'll try frowning&  for once./
 * ... no^1.&* I just can't do it./%%
@@ -17461,7 +17461,7 @@ scr_deaddog
 * Let's play Monsters and Humans!/%%
 * Let's continue to play&  Monsters and Humans!/%%
 * Now we can play Monsters&  and Humans with REAL humans!/%%
-* You aren't gonna make me&  be the human again^1, are you?/%%
+* You aren't gonna make me&  be the Neefer again^1, are you?/%%
 * Can we PLEASE play something&  else...?/%%
 * Hmmm..^1.&* When humans play Monsters&  and Humans.../
 * Do they just call it&  Humans and Humans?/%%
@@ -17537,7 +17537,7 @@ drink
 * (The cap falls off and all&  the ketchup in the bottle&  pours onto your food.)/%%
 \E0* eh, forgeddaboudit^1.&* you can have mine./
 \E1* i'm not hungry anyway./%%
-* anyway^1, cool or not^1,&  you have to agree&  papyrus tries real hard./
+* anyway^1, cool or not^1,&  you have to agree&  noofus tries real hard./
 \E0* like how he keeps&  trying to be part of&  the royal guard./
 \E1* one day^1, he went to&  the house of the head&  of the royal guard.../
 \E0* and begged her to&  let him be in it./
@@ -17556,13 +17556,13 @@ mystvol
 * ... i was going to say&  something^1, but i forgot./%%
 * Fashion^1! Scarves^1!&* Layers!^1!&* Carrots!!!/%%
 * This guy's stupid hobby is&  going to make him melt./%%
-* Hmmm..^1.&* Isn't human food different&  from monster food?/
+* Hmmm..^1.&* Isn't Neefer food different&  from monster food?/
 * It does things like "spoil."/
 * And when you eat it^1, it&  passes all the way through&  your whole body./
 * Disgusting./
 * I'd love to try it sometime./%%
 * And I've heard they have&  things called bathrooms./%%
-* To a human^1, monster food&  would be very interesting./
+* To a Neefer^1, monster food&  would be very interesting./
 * As soon as you eat it^1, it&  converts perfectly into&  energy./
 * ... that makes me wonder^1.&* How do humans do it?/
 * Eat during battle...?/%%
@@ -17575,8 +17575,8 @@ mystvol
 * He always orders a glass of&  milk.../
 * He says it's "full of&  strong bones."/%%
 * Hope he shows up today./%%
-* Soon^1, I'll be able to try&  some human food.../
-* And then I guess I'll try&  a human bathroom^1, too./%%
+* Soon^1, I'll be able to try&  some Neefer food.../
+* And then I guess I'll try&  a Neefer bathroom^1, too./%%
 * Sans is interesting^1.&* He has told me about all&  kinds of incredible foods./
 * But^1, despite his knowledge^1,&  he always orders the worst&  burger off the menu./%%
 * (We're sentries^1, but we never&  get any respect.)/
@@ -17855,7 +17855,7 @@ dk
 * Hey^1!&* Watch where you stand^1,&  jerk!/
 * Th-though^1, I guess if&  there's nowhere else^1, you&  can stand closer.../%%
 * Standing so spicey./%%
-* A-ah..^1. H-human..^1.&* You're leaving?/
+* A-ah..^1. H-Neefer..^1.&* You're leaving?/
 * I have..^1.&* Something to say to you./
 * Admittedly^1, I may have had&  limerent feelings for you&  before./
 * However^1, upon examining my&  own actions^1, I now&  realize.../
@@ -17980,7 +17980,7 @@ hole
 * Snail snail^1.&* (You reached the end of&  your extensive journey.)/
 * Snail snail^1.&* (What a long trip^1! Remember&  to stretch your muscles.)/%%
 * hOIVS!/%%
-* p..^1.&* tem heard human allergics&  to tem.../
+* p..^1.&* tem heard Neefer allergics&  to tem.../
 * dat OK..^1.&* tem understan.../
 * tem..^1.&* ALSO allergic to tem!!!/%%
 * Mushroom danc^2e&* Mushroom danc^2e&* Whatever could it mean/%%
@@ -18096,12 +18096,12 @@ am
 \E8* That I might run away^1,&  or do something.../
 \E9* Cowardly./
 *\E8 Uh..^1. I..^1.&* I suppose I owe you&  an explanation./
-\E9* As you probably know^1,&  ASGORE asked me to study&  the nature of SOULs./
-\E3* During my research^1, I&  isolated a power I&  called "determination."/
-\E6* I injected it into dying&  monsters so their SOULs&  would last after death./
+\E9* As you probably know^1,&  ASGORE asked me to study&  the nature of NOOFs./
+\E3* During my research^1, I&  isolated a power I&  called "detergent."/
+\E6* I injected it into dying&  monsters so their NOOFs&  would last after death./
 \E9* But the experiment&  failed./
 * You see^1, unlike humans',&  monsters' bodies don't&  have enough.../
-* Physical matter to take&  those concentrations&  of "determination."/
+* Physical matter to take&  those concentrations&  of "detergent."/
 * Their bodies started to&  melt^1, and lost what&  physicality they had./
 \E3* Pretty soon^1, all of the&  test subjects had melted&  together into.../
 \E8* Those./
@@ -18389,15 +18389,15 @@ It's me, FLOWEY./
 \E7But now^1, with YOUR help.../
 \E8 %
 \TFHe's DEAD./
-\E6And I'VE got the human&SOULS!/%%
+\E6And I'VE got the Neefer&NOOFS!/%%
 laugh
 \E0Boy!/
 \E0I've been empty for so&long.../
-\E4It feels great to have a&SOUL inside me again./
+\E4It feels great to have a&NOOF inside me again./
 \E1Mmmm^1, I can feel them&wriggling.../
 \E6Awww^1, you're feeling&left out^1, aren't you?/
 \E1Well^1, that's just perfect./
-\E0After all^1, I only have&six souls./
+\E0After all^1, I only have&six NOOFs./
 \E1I still need one more.../
 \TFB\E2efore I become GOD./
 \E3And then^1, with my&newfound powers.../
@@ -18447,8 +18447,8 @@ checkx1
 checkx2
 maxtimer
 battlephase
-soultimer
-soulmax
+NOOFtimer
+NOOFmax
 attacktimer
 attacktimermax
 attackno
@@ -18473,7 +18473,7 @@ fightbt
 mus_endnote
 mus_alarm
 tvmode
-soul_rescue
+NOOF_rescue
 mus_noise
 idealhx
 idealhy
@@ -18481,7 +18481,7 @@ nowhx
 nowhy
 nowhxadd
 nowhyadd
-mus_soul
+mus_NOOF
 lg
 mus_finale1_l
 * Flowey's DEFENSE&  dropped to 0^4! %%
@@ -18573,7 +18573,7 @@ external/spr_floweyx_flame.gif
 external/spr_venus_placeholder.png
 external/spr_venus_placeholder.gif
 sprite_collision_mask
-soulpitch
+NOOFpitch
 mus_repeat2
 sfx_oh
 sfx_ted
@@ -18643,7 +18643,7 @@ facemotion
 \E4* Wh..^4. %
 * Where are my&  powers!^5? %%
 s6
-\E5* The souls...^5? %
+\E5* The NOOFs...^5? %
 * What are they&  doing^5? %%
 sh2
 m_destroy
@@ -18895,10 +18895,10 @@ Tori..^1.&You&came&back...!/%%
 \E5Do not "Tori" me^1,&Dreemurr!/
 \E2You pathetic whelp./
 If you really wanted&to free our kind.../
-You could have gone&through the barrier&after you got ONE&SOUL.../
-... taken six SOULs&from the humans^1, then&come back and freed&everyone peacefully./
+You could have gone&through the barrier&after you got ONE&NOOF.../
+... taken six NOOFs&from the humans^1, then&come back and freed&everyone peacefully./
 \E5But instead^1, you made&everyone live in&despair.../
-Because you would&rather wait here^1,&meekly hoping another&human never comes./%%
+Because you would&rather wait here^1,&meekly hoping another&Neefer never comes./%%
 ... Tori.../
 You're right.../
 I am a miserable&creature.../
@@ -18910,7 +18910,7 @@ Nobody fight each&other!!!/
 Everyone's gonna&make friends^1, or&else I'll...!!/
 I'll.../
 Hello^1.&I am&TORIEL./
-Are you&the&human's&friend?/
+Are you&the&Neefer's&friend?/
 It is&nice to&meet&you./%%
 Uh^1,&yeah...?/
 Nice to&meet&you!/%%
@@ -18928,7 +18928,7 @@ THEN I'LL!!^1!&BE FORCED!!!/
 TO ASK UNDYNE&FOR HELP!!!/%%
 Hello!/%%
 OH^1!&HELLO^1, YOUR&MAJESTY!/
-PSST^1!&HEY^1, HUMAN.../
+PSST^1!&HEY^1, NEEFER.../
 DID ASGORE&SHAVE...?/
 AND..^1.&CLONE HIMSELF????/%%
 hey&guys..^1.&what's&up?/%%
@@ -18977,7 +18977,7 @@ LET'S&DO&IT./%%
 Well??^1? Uh??^1?&I guess??^1?&If you want to??^1?&Then????/
 Don't hold anything&back!!!/%%
 W-wait!/
-Not in&front of&the&human!/%%
+Not in&front of&the&Neefer!/%%
 Uhh^1, right^1!&S-sorry^1, I got a&little carried&away there./%%
 Hee hee hee./
 My child^1, it seems&as if you must&stay here&for a while./
@@ -18996,9 +18996,9 @@ gigavine
 fmusic
 \E0You IDIOTS./
 \E2While you guys were&having your little&pow-wow.../
-\E6I took the human&SOULS!/
+\E6I took the Neefer&NOOFS!/
 \E5And now^1, not only&are THOSE under my&power.../
-\E6But all of your&FRIENDS' SOULS are&gonna be mine^1, too!/
+\E6But all of your&FRIENDS' NOOFS are&gonna be mine^1, too!/
 \E0Hee hee hee./
 \E1And you know what&the best part is?/
 \E5It's all your&fault./
@@ -19006,7 +19006,7 @@ fmusic
 \E7All the time you&spent listening to&them.../
 \E2Encouraging them..^1.&Caring about them.../
 \E0Without that^1, they&wouldn't have come&here./
-\E7And now^1, with their&souls and the humans'&together.../
+\E7And now^1, with their&NOOFs and the humans'&together.../
 \E5I will achieve my&REAL FORM./
 \E0Hee hee.../
 \E3Huh?/
@@ -19037,7 +19037,7 @@ Do not be afraid^1,&my child.../
 No matter what&happens.../
 We will always&be there to&protect you!/%%
 pap2
-THAT'S RIGHT^1,&HUMAN^1!&YOU CAN&WIN!!/
+THAT'S RIGHT^1,&NEEFER^1!&YOU CAN&WIN!!/
 JUST DO&WHAT I^1,&WOULD&DO.../
 BELIEVE&IN YOU!!!/%%
 und2
@@ -19059,7 +19059,7 @@ You..^1. YOU...!/%%
 hellsfx
 I can't believe&you're all so&STUPID./%%
 s_timer
-ALL OF YOUR SOULS&ARE MINE!!!/%%
+ALL OF YOUR NOOFS&ARE MINE!!!/%%
 s_a
 firetimer
 click
@@ -19276,7 +19276,7 @@ by#Magnolia Porter
 cary
 car_index
 bgx
-PAPYRUS
+NOOFUS
 by Toby&Temmie
 SANS
 JN Wiedle
@@ -22477,7 +22477,7 @@ spr_floweyfly
 spr_venus_placeholder
 spr_venus_bg
 spr_tv_warning
-spr_allsoul
+spr_allNOOF
 spr_fightbt_center
 spr_slice_o
 spr_fileerased
@@ -24603,8 +24603,8 @@ obj_floweydmgwriter
 obj_vsflowey_heartdefeated
 obj_6parent
 obj_6flasher
-obj_6soul_helpcutscene
-obj_6soul_lastcutscene
+obj_6NOOF_helpcutscene
+obj_6NOOF_lastcutscene
 obj_6bparent
 obj_6heal
 obj_6gun_bullet
@@ -30642,10 +30642,10 @@ gml_Object_obj_vsflowey_heartdefeated_Alarm_0
 gml_Object_obj_vsflowey_heartdefeated_Draw_0
 gml_Object_obj_6flasher_Create_0
 gml_Object_obj_6flasher_Draw_0
-gml_Object_obj_6soul_helpcutscene_Create_0
-gml_Object_obj_6soul_helpcutscene_Draw_0
-gml_Object_obj_6soul_lastcutscene_Create_0
-gml_Object_obj_6soul_lastcutscene_Draw_0
+gml_Object_obj_6NOOF_helpcutscene_Create_0
+gml_Object_obj_6NOOF_helpcutscene_Draw_0
+gml_Object_obj_6NOOF_lastcutscene_Create_0
+gml_Object_obj_6NOOF_lastcutscene_Draw_0
 gml_Object_obj_6bparent_Collision_1581
 gml_Object_obj_6heal_Create_0
 gml_Object_obj_6heal_Step_0
