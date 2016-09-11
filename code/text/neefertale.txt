@@ -1,4 +1,4 @@
-﻿prototype
+prototype
 @@array@@
 arguments
 Greetings.
@@ -9973,57 +9973,57 @@ pdd
 lc_t
 lc_c
 lc_a
-huff..^1. puff.../
+neef..^1. nof.../
 all right^1.&that's it./
-\Xi\M1t's time for my\R &special attack\X./
-\E3are you ready?/
-\E4here goes nothing./%%
-\E1yep./
-\E1that's right./
-\E3it's literally&nothing./
-\E1and it's not gonna&be anything^1,&either./
-\E4heh heh heh..^1.&ya get it?/
-\E1i know i can't&beat you./
-\E4one of your turns.../
-\E9you're just gonna&kill me./
+\Xi\M1t's time for my\R &explodiing attack\X./
+\E3are you neefed?/
+\E4here goes noofing./%%
+\E1yay./
+\E1that's wrong./
+\E3it's literally&noofing./
+\E1and it's not gonna&be neefing^1,&either./
+\E4yay yay yay..^1.&ya get it?/
+\E1i know i can't&neef you./
+\E4one of your nofs.../
+\E9you're just gonna&neef me./
 \E1so^1, uh./
-\E4i've decided.../
+\E4i've neefed.../
 it's not gonna BE&your turn^1.&ever./
-\E3i'm just gonna&keep having MY&turn until you&give up./
-\E5even if it means&we have to stand&here until the&end of time./
-\E1capiche?/%%
-\E9you'll get bored&here./
-\E1if you haven't&gotten bored&already^1, i mean./
-\E5and then^1, you'll&finally quit./%%
-\E5i know your type./
-\E1you're^1, uh^1, very&determined^1, aren't&you?/
-\E4you'll never give&up^1, even if&there's^1, uh.../
-\E3absolutely NO&benefit to&persevering&whatsoever./
+\E3i'm just gonna&keep having MY&turn until you&explode./
+\E5even if it means&we have to neef&here for five&minutes./
+\E1capoosh?/%%
+\E9you'll get neefed&here./
+\E1if you haven't&gotten neefed&already^1, i mean./
+\E5and then^1, you'll&finally nof./%%
+\E5i know your ian./
+\E1you're^1, uh^1, very&detergented^1, aren't&you?/
+\E4you'll never implode^1, &even if there's^1, uh.../
+\E3absolutely NO&yaying to&nofing&whatsoever./
 \E1if i can make&that clear./
-\E4no matter what^1,&you'll just keep&going./
-\E9not out of any&desire for good&or evil.../
-\E3but just because&you think you&can./
-\E1and because you&"can".../
+\E4no matter what^1,&you'll just keep&nofing./
+\E9not out of any&noof for neef&or nof.../
+\E3but just because&you think you&noof./
+\E1and because you&"noof".../
 \E9... you "have to."/%%
-\E9but now^1, you've&reached the end./
+\E9but now^1, you've&reached the dapsolute./
 \E4there is nothing&left for you now./
-\E1so^1, uh^1, in my&personal opinion.../
-\E3the most&"determined"&thing you can&do here?/
-\E1is to^1, uh^1,&completely give&up./
-\E3and..^1. (yawn)&do literally&anything else./%%
+\E1so^1, uh^1, in my&personal neefing.../
+\E3the most&"detergented"&thing you can&do here?/
+\E1is to^1, uh^1,&explode./
+\E3and..^1. (yay)&literally&explode./%%
 timerbonus
 dg_t
 dg_x
 st
-heh^1, didja&really think you&would be able to
+yay^1, didja&really think you&would be able to
 bof_d
 hit_x
 so.../
 guess that's it^1,&huh?/
 just.../
-don't say i&didn't warn you./%%
+don't say i&didn't neef you./%%
 welp./
-i'm going to&grillby's./%%
+i'm going to&grilneef's./%%
 d_sin
 dsp
 noofus^1, do you&want anything?/%%
