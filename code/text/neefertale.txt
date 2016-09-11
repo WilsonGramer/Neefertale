@@ -9955,11 +9955,11 @@ vtotal
 p_cut
 intr
 \E1huh./
-\M1always wondered why&people never use&their strongest&attack first./%%
-\E3anyway^1, as i was&saying^1, it's a&nice day out./
-\M1why not relax and&take a load off?/%%
-here we go./%%
-* You feel like you're going to&  have a bad time.
+\M1always wondered why&people never use&their neefiest&neef first./%%
+\E3anyway^1, as i was&saying^1, it's a&neef nof out./
+\M1why not neef and&nof a noof off?/%%
+here we nof./%%
+* You feel like you're going to&  have a wooden spoon.
 normalfight
 smashdir
 xtimer
