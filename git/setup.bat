@@ -1,0 +1,10 @@
+REM * Put your username and email here, no spaces. *
+
+set username=put-username-here
+set email=put-email-here
+
+
+REM * Don't modify these. *
+
+
+git remote add origin https://github.com/Wilsonator5000/Neefertale.git
