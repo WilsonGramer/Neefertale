@@ -9,6 +9,6 @@ Desktop.ini
 $RECYCLE.BIN/
 
 # Other files
-commit.bat
-pull.bat
-commit-message.txt
+# commit.bat
+# pull.bat
+# commit-message.txt
