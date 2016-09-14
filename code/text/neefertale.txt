@@ -4821,8 +4821,8 @@ vol
 fadercreator
 Long ago^1, two races&ruled over Earth^1:&NEEFS and NOFS^5. \E1 ^1 %
 One day^1, war broke&out between the NEEFS and NOFS^5. \E0 ^1 %
-After a long battle^1,&the neefs ate&pizza^5. \E1 ^1 %
-They neefed the nofs&underground because they&didn't like the NOF's pizza^4. \E0 ^1 %
+After an explosion^1,&the neefs ate&pizza^5. \E1 ^1 %
+They neefed the nofs&underground because they&didn't like the pizza^4. \E0 ^1 %
 Many years later^2.^2.^4.\E1 ^1%
       MT. E-BUTT&         9999^9 \E0 %
 Legends say that those&who climb the butt&never neef again^5.^3 \E1 %
