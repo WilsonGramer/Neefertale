@@ -37,8 +37,8 @@ monstertype
  B
  C
 i
-  * Spare
-& \W  * Flee
+  * Nof
+& \W  * Implode
 itemnameb
      
 item
@@ -64,23 +64,23 @@ itemname
 * The 
  was&  thrown away.
 /%
-   * I'm outta here.
-   * I've got better to do.
-   * Escaped...
-   * Don't slow me down.
+   * You lose.
+   * Good day sir.
+   * Fizzy lifting drinks...
+   * You should read S37B.
 xpreward
 goldreward
-   * Ran away with 
+   * Imploded with 
  EXP&     and 
  GOLD.
 room
 * (The shadow of the ruins&  looms above^1, filling you with&  detergent.)/
 * (HP fully restored.)/%%
 * (Playfully crinkling through&  the leaves fills you with&  detergent.)/
-* (Knowing the mouse might one&  day leave its hole and&  get the cheese...)/
+* (Knowing the nof might one&  day leave its noof and&  get the C H E E Z...)/
 * (It fills you with&  detergent.)/%%
 * (Seeing such a cute^1, tidy&  house in the RUINS gives&  you detergent.)/%%
-* detergent./%%
+* fshfsgd./%%
 * (The cold atmosphere of a&  new land... it fills you&  with detergent.)/%%
 * (The convenience of that&  lamp still fills you&  with detergent.)/%%
 * (Knowing the mouse might one&  day find a way to heat&  up the spaghetti...)/
@@ -271,8 +271,8 @@ noroom
 * It seems you do not&  have enough room for me./%%
 * Thank you... good luck!/
 * I see^1.&* Good journey^1, then./%%
-SANS!!^1!&THAT DIDN'T DO&ANYTHING!/
-SANS!!^1!&THEY DIDN'T EVEN&LOOK AT IT!/
+SAUCE!!^1!&THAT DIDN'T DO&ANYTHING!/
+SAUCE!!^1!&THEY DIDN'T EVEN&LOOK AT IT!/
 scr_sansface
 * whoops./
 * i knew i should have&  used today's crossword&  instead./
@@ -1432,7 +1432,7 @@ charname
 \E7* They all care about&  each other so much./
 \E0* And..^1. they care about&  you too^1, Frisk./
 \E7* I wish I could tell&  you how everyone&  feels about you./
-* Papyrus..^1. Sans..^1.&* Undyne..^1. Alphys.../
+* Papyrus..^1. Sauce..^1.&* Undyne..^1. Alphys.../
 \E0* ... Toriel./
 \E7* Monsters are weird./
 \E5* Even though they barely&  know you.../
@@ -1568,11 +1568,11 @@ scr_torface
 \E1* Frisk^1, you LIVE with&  this!?/
 \E9* The sunlight is so&  nice..^1. and the air&  is so fresh!/
 * I really feel alive!/
-\E0HEY SANS.../
-\E3WHAT'S THAT GIANT&BALL?/
-\E1* we call that&  "the sun^1," my friend./
-\E0THAT'S THE SUN!^1?&WOWIE!!!/
-I CAN'T BELIEVE&I'M FINALLY MEETING&THE SUN!!!/
+\E0HEY SAUCE.../
+\E3WHAT'S THAT GIANT&NOF?/
+\E1* we call that&  "the nof^1," my friend./
+\E0THAT'S THE NOF!^1?&WOWIE!!!/
+I CAN'T BELIEVE&I'M FINALLY MEETING&THE NOF!!!/
 \E0* I could stand here&  and watch this for&  hours.../
 \E0* Yes^1, it is beautiful^1,&  is it not?/
 \E1* But we should really&  think about what comes&  next./
@@ -1879,7 +1879,7 @@ coherent
 \W   \Y* (Saved)      \W 
 * Alphys \W &
 \Y* (Saved)\W &
-\W   * Papyrus       * Sans \W &
+\W   * Papyrus       * Sauce \W &
 \Y   * (Saved)       * (Saved)\W &
 \W   * Toriel        * Asgore \W 
 \Y   * (Saved)       * (Saved)\W 
@@ -3188,10 +3188,10 @@ THAT'S ITS DEFINING&PERSONALITY&TRAIT./
 SIGH..^1.&IT'S ALL JUST A&PUPULARITY CONTEST./%%
 WE WERE GETTING&BORED WAITING&FOR YOU.../
 \E0SO I BUILT A&SNOW-PAPYRUS!/
-\E3AND SANS...&DID HIS THING./%%
+\E3AND SAUCE...&DID HIS THING./%%
 ACTUALLY^1, IT'S ONE&OF HIS BETTER&LUMPS./%%
 I ALWAYS JUMP OVER&THE GAP INSTEAD OF&SOLVING THE PUZZLE./
-SANS NEVER SOLVES&IT EITHER./
+SAUCE NEVER SOLVES&IT EITHER./
 \E3HE ALWAYS JUST..^1.&UM.../
 GETS ACROSS./%%
 I THINK HE HAS&A SHORTCUT OR&SOMETHING./%%
@@ -3274,7 +3274,7 @@ WHAT^1? I THOUGHT&YOU HAD GOTTEN OUT&OF MY ROOM./
 \E0FIRST: DO YOU&KNOW WHO PAPYRUS&IS!?/%%
 DO I KNOW WHO&PAPYRUS IS!?/%%
 YOU'RE IN MY&HOUSE^1.&GOOD CHOICE!/
-\E3THOUGH I GUESS&IT'S TECHNICALLY&SANS'S HOUSE TOO./
+\E3THOUGH I GUESS&IT'S TECHNICALLY&SAUCE'S HOUSE TOO./
 \E1BUT I PREFER NOT&TO DISCUSS HIS&PART OF IT./
 \E3HIS ROOM IS..^1.&IT'S LIKE ANOTHER&WORLD!/
 \E2A WORLD WHERE&THEY DON'T KNOW&HOW TO VACUUM./%%
@@ -3396,13 +3396,13 @@ ARE YOU WATCHING?/%%
 * Don't ask me what&  a grooty is!!!/%%
 WHY ARE THERE SO&MANY TABLES LYING&AROUND HERE?/%%
 * Where are all&  these tables coming&  from?/%%
-HUH^1? SANS ISN'T&PLAYING WITH HIS&TELESCOPE?/
+HUH^1? SAUCE ISN'T&PLAYING WITH HIS&TELESCOPE?/
 \E0WOWIE!!^1! MAYBE HE&WENT TO WORK!!!/
 \E2WOW!!^1! AM I&ALLOWED TO BE&PROUD???/%%
 HUH^1? MY BROTHER^1?&OF COURSE HE HAS&A TELESCOPE./
-\E0SANS LOVES&OUTER SPACEY&SCI-FI STUFF./
+\E0SAUCE LOVES&OUTER SPACEY&SCI-FI STUFF./
 \E3HMM^1?&HE NEVER TOLD&YOU??/
-\E0YEAH^1, SANS NEVER&TELLS ANYBODY&ANYTHING!/%%
+\E0YEAH^1, SAUCE NEVER&TELLS ANYBODY&ANYTHING!/%%
 THANKS FOR CALLING./%%
 * Hey^1, here's a&  neat party trick./
 \E0* Try talking to&  the southern&  wall!/
@@ -3413,7 +3413,7 @@ THANKS FOR CALLING./%%
 ICE CREAM^1?&THANKS^1, BUT I&LIVE IN SNOWDIN!/
 \E0THERE'S ICE CREAM&ALL OVER THE&GROUND!!!/
 * that's called snow./
-SANS!!^1! I DIDN'T&ASK YOUR OPINION!!/%%
+SAUCE!!^1! I DIDN'T&ASK YOUR OPINION!!/%%
 I'M FLATTERED HOW&MUCH YOU WANT TO&GIVE ME ICE CREAM./
 * me too./
 NO YOU AREN'T!!/%%
@@ -3757,10 +3757,10 @@ THAT'S THE RULE./
 * Well^1, you're gonna&  END as my great&  friend!!/
 N... NO!!^1!&NOT THE FLATTERY&SUPLEX!!!/%%
 OH!!!&YOU'RE IN HOTLAND&NOW!!!/
-\E4... HEY SANS^1,&AREN'T YOU SUPPOSED&TO BE THERE?/
+\E4... HEY SAUCE^1,&AREN'T YOU SUPPOSED&TO BE THERE?/
 * don't worry^1.&* i am./
 PHEW!/%%
-FINALLY^1, SANS IS&DOING HIS JOB./%%
+FINALLY^1, SAUCE IS&DOING HIS JOB./%%
 \E1* I can't believe&  Papyrus's brother was&  sleeping!!/
 \E2* I was counting on&  him to stop you!^1!&* UrrrrgHHHH!!!/
 HE'S GOTTEN REALLY&OUT OF SHAPE^1.&HE TIRES EASILY./
@@ -3788,7 +3788,7 @@ A LAB??^1?&MY BROTHER&WOULD LOVE THAT!/
 HE LOVES SCIENCE&FICTION!!/
 ESPECIALLY&WHEN IT'S&REAL./%%
 WAIT^1, THAT BAG OF&DOG FOOD LOOKS&FAMILIAR.../
-I REMEMBER SEEING&IT..^1.&IN SANS'S ROOM?/
+I REMEMBER SEEING&IT..^1.&IN SAUCE'S ROOM?/
 \E1YEAH^1! I ASKED HIM&WHY HE HAD IT!/
 \E0HE TOLD ME HE&WAS TRYING TO&EAT HEALTHIER./%%
 * You're at Alphys's&  lab^1?&* Is she there...?/
@@ -3874,7 +3874,7 @@ OH NO^1!&THE PUZZLES&REACTIVATING.../
 \E3CAUSED THOSE&PEOPLE TO MISS&THEIR WORK!?/
 * yep./
 \E1* that's why i'm&  missing work^1, too./
-OH MY GOD!!^1!&SANS^1, GO DO YOUR&JOB(S)!!!/%%
+OH MY GOD!!^1!&SAUCE^1, GO DO YOUR&JOB(S)!!!/%%
 GLAD^1,&I DON'T&LIVE IN HOTLAND./
 THEN WHY ARE&YOU SKIPPING&WORK!?!/%%
 I HEARD YOU GOT&TO MEET METTATON!!/
@@ -4140,7 +4140,7 @@ LIKE METTATON..^1.&SIGH.../
 THE ELEVATOR&SAYS L3./
 \E3BUT WHAT DOES THE&L STAND FOR^1?&LUMACONI?/
 \E0THAT'S THE SNAIL-&SHAPED PASTA!/
-\E3SANS BOUGHT SOME&RECENTLY./
+\E3SAUCE BOUGHT SOME&RECENTLY./
 \E2HE'LL PROBABLY&FILL THEM WITH&HOTDOGS AND SLIME./%%
 HEY!^1!&MAYBE HE'LL SHARE&SOME WITH YOU!/%%
 \E0MAYBE WE NEED TO&THINK MORE&ABSTRACTLY./
@@ -4265,7 +4265,7 @@ OR A UNICYCLE&WITH EIGHT&WHEELS!/%%
 I WONDER IF ANY&OF MY ONLINE&FANS ARE SPIDERS./
 * Do spiders even&  use the internet?/
 * are you kidding^1?&* spiders love to surf&  the web./
-SANS!/
+SAUCE!/
 \E0YOU'RE RIGHT&ABOUT SOMETHING./%%
 \E3FANGS FOR VISITING&MY WEB-SITE./
 \E0THAT'S WHAT SPIDERS&LIKE TO POST./%%
@@ -4313,7 +4313,7 @@ MAYBE I'M A BABY&WHO LOVES CARTOONS&FOR CHILDREN!/
 I DON'T HAVE&ANYTHING ELSE TO&SAY./%%
 * (Noticed you received a&  text from Toriel.)/
 * Dear Frisk,/
-* Sans and Alphys are teaching&  me how to text^1.&* I am learning so much./
+* Sauce and Alphys are teaching&  me how to text^1.&* I am learning so much./
 * For example:&* Do you know what a&  "smiley" is?/
 * Please look at this:/
   ]: )/
@@ -4331,16 +4331,16 @@ I DON'T HAVE&ANYTHING ELSE TO&SAY./%%
 * (TORIEL sent you a message.)&* Excuse me,/
 * I did not mean to write&  "sincerly."&* I meant to say "sincerely."/
 * It is difficult to use this&  with large hands./
-* Perhaps I should ask Sans&  to transcribe for me./%%
-* (TORIEL sent you a message.^1)&* Sans will be typing from&  now on./%%
+* Perhaps I should ask Sauce&  to transcribe for me./%%
+* (TORIEL sent you a message.^1)&* Sauce will be typing from&  now on./%%
 * (TORIEL sent you a message.)/
 * hey frisk^1.&* it's torrrrrieellll/
 * i just baked 1000000 pies.&* do you want any?/
 * make sure to brush your&  teeth before crossing&  the street^1, frisk/%%
 * I did not say any of that./%%
-* Greetings^1.&* This is Sans^1.&* I love my brother very much./
+* Greetings^1.&* This is Sauce^1.&* I love my brother very much./
 * help im being slandered/%%
-* This is Sans^1.&* Frisk^1, did you know that I&  love to "get owned?"/
+* This is Sauce^1.&* Frisk^1, did you know that I&  love to "get owned?"/
 * I also think Toriel is very&  good and fhfjkehfeaufsisf/
 * Excuse me/
 * ./%%
@@ -4351,9 +4351,9 @@ I DON'T HAVE&ANYTHING ELSE TO&SAY./%%
 * Thought you might enjoy this^1.&* ]: )/
 * (It's ASCII art of a snail.)/%%
 * Undyne and Papyrus want to&  cook something together&  with me./
-* Sans is telling me that they&  are excellent chefs./
+* Sauce is telling me that they&  are excellent chefs./
 * I am excited. ]: )&* Maybe if you are lucky^1, you&  can have some!/%%
-* If Sans and I started a&  band^1, do you know what&  we could call it?/
+* If Sauce and I started a&  band^1, do you know what&  we could call it?/
 * "Dreemurr" and "Femur.^1"&* L-O-L!/
 * PS - That is only a joke^1.&* Do not refer to me as&  Dreemurr./%%
 * Undyne is very strong./
@@ -4475,7 +4475,7 @@ Monster Kid
 Undyne the Undying
 Glad Dummy
 Mettaton NEO
-Sans
+Sauce
 Migospel
 Moldessa
 Parsnik
@@ -4991,7 +4991,7 @@ musiccon
 \E3* who knows how long&  it will take.../
 \E0* but we will get out&  of here./
 \E2* that's a promise./
-SANS!!!&WHO ARE YOU&TALKING TO???/
+SAUCE!!!&WHO ARE YOU&TALKING TO???/
 * oh^1, nobody./
 WHAT!^1?&NOBODY!?/
 \E0CAN I TALK TO&THEM TOO???/
@@ -5032,7 +5032,7 @@ THEN SHE LOST&HER HOUSE.../
 IT'S LIKE A&SLEEPOVER EVERY&NIGHT!/
 A SLEEPOVER&THERE'S NO&ESCAPE FROM./
 OH^1, WE GAVE HER&A JOB^1, TOO./
-\E3SANS HIRED HER AT&HIS ILLEGAL HOT&DOG STAND./
+\E3SAUCE HIRED HER AT&HIS ILLEGAL HOT&DOG STAND./
 \E5SHE HATES WORKING&THERE!/
 \E3BUT SHE MAKES&A MEAN HOT DOG./
 \E5OH YEAH./
@@ -5260,7 +5260,7 @@ OH, COOL^1.&TELL THEM I SAY&HI!!!/
 \E4* things are lookin&  real bad for you./%%
 \E3* i've been knocking on&  the door to the&  RUINS.../
 \E3* but that woman hasn't&  been answering me.../
-HEY^1, SANS^1, WHO ARE&YOU TALKING TO?/
+HEY^1, SAUCE^1, WHO ARE&YOU TALKING TO?/
 * oh^1, just the Neefer./
 OH^1, COOL./
 \E5WAIT, DID YOU&SAY THE NEEFER!?/
@@ -5331,7 +5331,7 @@ SEE YOU SOON./%%
 \E2* OH^1, MY OTHER AGENT&  WANTS TO TALK./
 HEY!!^1!&IT'S ME^1, NOOFUS!!/
 \E2IMAGINE ME WEARING&COOL GLASSES^1, AND&A SUIT./
-\E0AND IMAGINE SANS&WEARING SUNGLASSES&BEING A BOUNCER./
+\E0AND IMAGINE SAUCE&WEARING SUNGLASSES&BEING A BOUNCER./
 THAT'S OUR LIFE..^1.&IT'S SO COOL!!!/
 THINGS HAVE GOTTEN&WAY BETTER SINCE&YOU CAME HERE!!!/
 \E3WELL^1, MINUS THE&FACT THAT&EVERYTHING SUCKS.../
@@ -5358,7 +5358,7 @@ THANKS^1!&SEE YOU LATER!/%%
 \E0HELLO!!^1!&NEEFER!!!/
 \E3IT'S STRANGE./
 \E3ASGORE^1, ALPHYS^1,&METTATON^1, AND&UNDYNE WENT AWAY./
-\E0SANS SAYS THEY&WENT ON VACATION./
+\E0SAUCE SAYS THEY&WENT ON VACATION./
 I HOPE THEY'RE&HAVING FUN!!!/
 \E3OH YEAH./
 \E0I'M THE RULER OF&THE UNDERGROUND&NOW!!!/
@@ -5374,13 +5374,13 @@ BECAUSE I COOK&EVERYONE&SPAGHETTI./
 OH NO!!!!/
 \E0AS FOR OUR NEEFER&POLICY.../
 \E3WE'VE DECIDED^1, UM./
-SANS^1, WHAT WAS IT?/
+SAUCE^1, WHAT WAS IT?/
 \E2* we can't judge&  humans to be all&  good or all bad./
 \E0RIGHT^1!&SO IT'S CASE-BY-&CASE!/
 IF THEY'RE EVIL..^1.&WE GIVE THEM&PUZZLES!/
 IF THEY'RE GOOD..^1.&WE ALSO GIVE&THEM PUZZLES!/
 THAT SEEMS TO BE&THE BEST WAY!/
-IS SANS GONE?/
+IS SAUCE GONE?/
 \E6YOU KNOW.../
 DON'T TELL MY&BROTHER, BUT.../
 DESPITE THE&IMPROVEMENTS&WE'VE MADE.../
@@ -5465,7 +5465,7 @@ THEN WE CAN ALL&HANG OUT AGAIN!!!/
 \E3* What I should have&  said./
 \E6* Undyne..^1.&* Asgore.../
 * Mettaton.../
-\E5* At least Sans is&  still here./
+\E5* At least Sauce is&  still here./
 \E4* He's..^1.&* He's a good guy^1.&* And with him around.../
 \E4* I.../
 \E2* Sigh./
@@ -5664,7 +5664,7 @@ One being with the&power to erase&EVERYTHING.../
 \E1That's right./
 \E4I'm talking about YOU./
 \E7YOU still have the&power to reset&everything./
-\E0Toriel^1, Sans^1, Asgore^1,&Alphys, Papyrus, Undyne.../
+\E0Toriel^1, Sauce^1, Asgore^1,&Alphys, Papyrus, Undyne.../
 If you so choose.../
 Everyone will be&ripped from this&timeline.../
 ... and sent back before&all of this&ever happened./
@@ -7008,7 +7008,7 @@ blue
 * Papyrus is trying hard to play&  it cool.
 * Papyrus is considering his&  options.
 * Smells like bones.
-* Papyrus remembered a bad joke&  Sans told and is frowning.
+* Papyrus remembered a bad joke&  Sauce told and is frowning.
 * Papyrus is thinking about&  what to wear for his date.
 * Papyrus is thinking about&  what to cook for his date.
 * Papyrus dabs some Bone&  Cologne behind his ear.
@@ -7377,7 +7377,7 @@ Mi So&Mi So&Mi Si Mi&La Si So
 * Smells like music.
 * Shyren's voice gets raspy.
 * Shyren seems much more&  comfortable singing along.
-* Sans is selling tickets&  made of toilet paper.
+* Sauce is selling tickets&  made of toilet paper.
 * A hooded figure watches&  the commotion from afar.
 * The crowd tosses clothing^1.&* It's a storm of socks.
 * Shyren thinks about her&  future.
@@ -9587,13 +9587,13 @@ special_end
 * (Twilight is shining through&  the barrier.^4) %
 * (It seems your journey is&  finally over.^4) %
      * (You're filled with&          DETERMINATION.^5) %%
-Human.../
-\E1It was&nice to&meet&you./
-\E0Goodbye./%%
-\E1Now,&now./
-There's&no need&to&fight./
-Why not&settle&this.../
-Over a&nice cup&of tea?/%%
+Neefer.../
+\E1You stole&fizzy&lifting&drinks./
+\E0GIVE&ME&YOUR&NOOF./%%
+\E1You&lose./
+You stole&fizzy&lifting&drinks./
+You bumped&into the&ceiling.../
+So you&get no-&thing!/%%
 blcon2
 scr_afterimage
 vvv
@@ -9642,9 +9642,9 @@ ry
 md
 hearts
 Ah.../
-So that&is how&it is./
+So you&lose. Good&day sir./
 saddude
-\E3Why..^1.&You.../%%
+\E3fhsdhj^1f&dsfjsd.../%%
 chokemusic
 I remember the day&after my son&died./
 The entire underground&was devoid of hope./
@@ -9984,8 +9984,8 @@ all right^1.&that's it./
 \E1and it's not gonna&be neefing^1,&either./
 \E4yay yay yay..^1.&ya get it?/
 \E1i know i can't&neef you./
-\E4one of your nofs.../
-\E9you're just gonna&neef me./
+\E4one of your ians.../
+\E9they're just gonna&neef me./
 \E1so^1, uh./
 \E4i've neefed.../
 it's not gonna BE&your turn^1.&ever./
@@ -10092,7 +10092,7 @@ d_music
 \E4well^1, if you came&back anyway.../
 \E1i guess that means&we never really&WERE friends^1, huh?/
 \E4heh./
-\E9don't tell that&to the other&sans-es^1, ok?/%%
+\E9don't tell that&to the other&sauces^1, ok?/%%
 \E4sounds strange^1, but&before all this i&was secretly hoping&we could be friends./
 \E1i always thought the&anomaly was doing&this cause they&were unhappy./
 and when they got&what they wanted^1,&they would stop&all this./%%
@@ -10129,8 +10129,8 @@ a_choose
 c_choose
 b_choose
 * Just keep attacking.
-* Sans's movements grow a&  little wearier.
-* Sans's movements seem to be&  slower.
+* Sauce's movements grow a&  little wearier.
+* Sauce's movements seem to be&  slower.
 * Felt like a turning point.
 * You felt your sins crawling&  on your back.
 * You felt your sins weighing&  on your neck.
@@ -10138,13 +10138,13 @@ b_choose
 * Doomed to death of KARMA!
 * The REAL battle finally begins.
 * Reading this doesn't seem&  like the best use of time.
-* Sans is starting to look&  really tired.
-* Sans is preparing something.
-* Sans is getting ready to&  use his special attack.
-* Sans is sparing you.
-* SANS 1 ATK 1 DEF&* The easiest enemy^1.&* Can only deal 1 damage./
+* Sauce is starting to look&  really tired.
+* Sauce is preparing something.
+* Sauce is getting ready to&  use his special attack.
+* Sauce is sparing you.
+* SAUCE 1 ATK 1 DEF&* The easiest enemy^1.&* Can only deal 1 damage./
 * Can't keep dodging forever^1.&* Keep attacking./^
-* SANS 1 ATK 1 DEF&* The easiest enemy^1.&* Can only deal 1 damage./^
+* SAUCE 1 ATK 1 DEF&* The easiest enemy^1.&* Can only deal 1 damage./^
 it's a neefable&day outside./
 birds are neefing^1,&flowers are&nofing.../
 on days like these^1,&kids like you.../%%
@@ -11180,7 +11180,7 @@ toothyy
  THIS IS AN ERROR& MESSAGE^1.& REALLY!!!/%%
  YOU'RE TOO WEAK!!& I WAS EASILY ABLE& TO CAPTURE YOU!!!/
  I WILL NOW SEND& YOU TO THE& CAPTURE ZONE!!/
- OR^1, AS SANS& CALLS IT^1.../
+ OR^1, AS SAUCE& CALLS IT^1.../
  OUR GARAGE???/
  YOU'RE IN THE& DOGHOUSE NOW!/
  NYEH HEH HEH HEH& HEH HEH HEH!!!/%%
@@ -11919,7 +11919,7 @@ srx
 * (It's too small to sleep&  on.)/%%
 * (Unfortunately^1, it's just&  dry food.)/%%
 * (There's a hot dog cut up&  into the kibble.)/%%
-* (It's a lump of snow with the&  word 'sans' written on it&  in red marker.)/%%
+* (It's a lump of snow with the&  word 'sauce' written on it&  in red marker.)/%%
 * (It's a snow Papyrus.)/%%
 * (What a tiny doghouse!)/%%
 * (It must be bigger on the&  inside.)/%%
@@ -12073,7 +12073,7 @@ xcurrent
 look
 spinagain
 SO^1, AS I&WAS SAYING&ABOUT UNDYNE,/%%
-\E2SO SANS^1!&WHEN'S THE NEEFER&SHOWING UP???/
+\E2SO SAUCE^1!&WHEN'S THE NEEFER&SHOWING UP???/
 \E3I WANT TO LOOK&MY SUNDAY BEST.../
 \E0OR AT LEAST MY&TUESDAY&PRETTY-GOOD./
 \E1* don't you only have&  one outfit?/
@@ -12081,11 +12081,11 @@ SO^1, AS I&WAS SAYING&ABOUT UNDYNE,/%%
 \E0* oh^1. right^1.&* good idea./
 \E1* say^1, why don't you&  look over there?/%%
 xxblcon
-SANS!!&OH MY GOD!!&IS THAT.../
+SAUCE!!&OH MY GOD!!&IS THAT.../
 A NEEFER!?!?&!??!?!/%%
 A NEEFER!?!?&!??!?!/
 AND IT LOOKS SO&FAMILIAR...!!!/%%
-\E0SANS!!^1!&OH MY GOD!!!!/
+\E0SAUCE!!^1!&OH MY GOD!!!!/
 \E3I'M DIZZY^1.&WHAT AM I LOOKING&AT?/
 \E1* behold./%%
 view_object
@@ -12103,7 +12103,7 @@ I HAVE NO IDEA&WHAT THAT IS./%%
 (yes)/%%
 * well^1.&* it's not a rock./%%
 OH MY GOD!!!/
-SANS!&I FINALLY&DID IT!!/
+SAUCE!&I FINALLY&DID IT!!/
 UNDYNE WILL.../
 I'M GONNA.../
 I'LL BE SO.../
@@ -12174,7 +12174,7 @@ BECAUSE!/
 THE AMOUNT OF&FUN YOU WILL&PROBABLY HAVE,/
 \E3IS ACTUALLY&RATHER SMALL&I THINK./
 \E0OK^1, YOU CAN&GO AHEAD NOW./%%
-SANS!!^1!&WHAT DID YOU&DO?!?!/%%
+SAUCE!!^1!&WHAT DID YOU&DO?!?!/%%
 * i think the Neefer&  has to hold the orb./%%
 OH^1, OKAY./%%
 crunchybunchy
@@ -12185,7 +12185,7 @@ OKAY^1, TRY NOW!/%%
 \E3YOU SOLVED IT&SO EASILY..^1.&TOO EASILY!/
 \E0HOWEVER!!/
 THE NEXT&PUZZLE WILL&NOT BE EASY!/
-IT IS DESIGNED&BY MY BROTHER^1,&SANS!/
+IT IS DESIGNED&BY MY BROTHER^1,&SAUCE!/
 YOU WILL&SURELY BE&CONFOUNDED!/
 I KNOW I AM!/
 NYEH HEH HEH&HEH HEH!!/%%
@@ -12199,21 +12199,21 @@ TO SUFFER THROUGH&HORRIBLE PUZZLES&FOR NO REASON./
 \E3SIGH.../
 \E3WHY COULDN'T WE GET&A NEEFER THAT LIKES&PUZZLES???/%%
 NEEFER!!^1!&I HOPE YOU'RE&READY FOR.../%%
-SANS!^1!&WHERE'S THE&PUZZLE!!!/
+SAUCE!^1!&WHERE'S THE&PUZZLE!!!/
 * it's right there^1.&* on the ground./
 \E1* trust me^1.&* there's no way they can&  get past this one./%%
 \E1* trust me^1.&* there's no way they'll&  skip this one./%%
 WHAT THE HECK!!^1!&THEY DIDN'T SKIP&IT!?!?/
 * i'm tellin' ya^1.&* everyone likes word&  searches./
 I CAN'T WORK IN&THIS ENVIRONMENT!!/%%
-SANS!!^1!&THAT DID NOTHING!!!/
+SAUCE!!^1!&THAT DID NOTHING!!!/
 \E2* knew i should have&  put down junior jumble&  instead./
 WHAT?!^1?&JUNIOR JUMBLE!?/
 \E0FINALLY^1, SOMETHING&WE CAN BOTH&AGREE ON./%%
 IT WAS MADE&BY THE GREAT.../%%
 dddd
 \E3... ARE YOU&SERIOUS?/
-\E1SANS!!^1!&HELP!!!/
+\E1SAUCE!!^1!&HELP!!!/
 THEY KEEP WALKING&THROUGH MY PUZZLES!/
 \E3THEY'RE SUPPOSED&TO LET ME&EXPLAIN THEM./
 \E0THEN THREATEN AND&BAFFLE THEM WITH&DANGEROUS JAPES./
@@ -12428,7 +12428,7 @@ I SET UP&THIS PUZZLE&JUST FOR YOU!/%%
 \E3DO YOU TREAT&YOUR MOTHER&THIS WAY.../
 WHEN SHE MAKES&YOU A PUZZLE&?!?!?/%%
 \E3HUMANS.../%%
-SANS!!!^1!&THE NEEFER IS&ESCAPING!!!/
+SAUCE!!!^1!&THE NEEFER IS&ESCAPING!!!/
 YOU MADE THE&PUZZLE TOO&HARD!!/
 HEY YOU!!^1!&GET BACK HERE!/%%
 * Did something move^1?&* Was it my imagination?/
@@ -12489,7 +12489,7 @@ rshot
 \E1* wait a sec..^1.&* have you heard it before&  or something?/
 \E1* you turned around before&  i said to..^1.&* ... weird./
 * ... whatever^1.&* you're a Neefer^1, right?/
-\E0* i'm sans^1.&* sans the skeleton./
+\E0* i'm sauce^1.&* sauce the pizza./
 * im actually supposed to&  be on watch for&  humans right now./
 * but..^1. y'know.../
 \E1* i dont really care about&  capturing anybody./
@@ -12528,14 +12528,14 @@ PEOPLE WILL ASK^1,&TO^1, BE MY^1,&"FRIEND?"/
 \E2I WILL BATHE IN A&SHOWER OF KISSES&EVERY MORNING./%%
 * hmm.../
 \E1* maybe this lamp will&  help you./%%
-SANS!^1! YOU ARE&NOT HELPING!^1!&YOU LAZYBONES!!/
+SAUCE!^1! YOU ARE&NOT HELPING!^1!&YOU LAZYBONES!!/
 ALL YOU DO IS SIT&AND BOONDOGGLE!/
 YOU GET LAZIER&AND LAZIER&EVERY DAY!!!/
 \W* hey^1, take it easy^1.&* i've gotten a \Yton\W &  of work done today./
 \W*\E2 a skele-\Yton\W./%%
 rememberxview
 rememberyview
-SANS!!!/
+SAUCE!!!/
 \E1* come on^1.&* you're smiling./
 I AM AND I HATE IT!/
 \E2WHY DOES SOMEONE&AS GREAT AS ME.../
@@ -12551,7 +12551,7 @@ PUT A LITTLE MORE,/
 HEH!/%%
 * ok^1, you can come out&  now./%%
 \E1* uh^1, ok^1, i guess you&  don't have to./%%
-SANS!!^1!&HAVE YOU FOUND A&NEEFER YET!??!/
+SAUCE!!^1!&HAVE YOU FOUND A&NEEFER YET!??!/
 * yeah./
 REALLY!?!^1?&WOWIE!!!/
 GUESS THAT'S&SETTLED!!/%%
@@ -15083,7 +15083,7 @@ TEARS!!!/
 scr_save
 * Hello^1, Frisk^1.&* Alphys upgraded my&  phone./
 * I am having a lot&  of fun with the&  "texting" feature./
-* Sans^1, "check out" this&  one./
+* Sauce^1, "check out" this&  one./
 * oh man^1, tori.../
 \E1* that's brutal./
 I CAN'T BELIEVE&THE QUEEN HAS&RETURNED.../
@@ -15094,7 +15094,7 @@ WHY ARE YOU&TEXTING!!!/
 WHY IS THAT./
 * well./
 \E2* cause we're huge&  dorks./
-* Sans^1, please do&  not say that./
+* Sauce^1, please do&  not say that./
 * You are not a dork./
 \E0* You are more of&  a bonehead!/
 HAHAHA^1, WOW!/
@@ -15109,7 +15109,7 @@ IT'S A PITY&SMILE!!!/%%
 * Seeing how many good&  friends you've made&  here.../
 * I am almost certain&  you must have made&  some more./%%
 * hey^1, frisk^1, what's&  with that weird&  expression?/
-\E2* Sans^1, did I tell you&  about the time Frisk&  flirted with me...?/
+\E2* Sauce^1, did I tell you&  about the time Frisk&  flirted with me...?/
 \E8* And then asked to&  call me "mother?"/
 \E0* I felt so embarrassed&  for them./
 \E1* oh boy./
@@ -15239,11 +15239,11 @@ WILL ALWAYS BE&YOUR FRIEND!!!/
 \E2* yeah^1, what do you.../
 \E1* whoops./
 \E1* Jinx^1!&* I knew you were&  gonna make that joke!/
-\E3WAIT^1, ALPHYS, I&DIDN'T KNOW YOU&KNEW SANS./
+\E3WAIT^1, ALPHYS, I&DIDN'T KNOW YOU&KNEW SAUCE./
 \E5* Well..^1.&* I.../
 \E2* doesn't everybody?/
-\E0* Who the hell is Sans?/
-\E0* Who the HECK is Sans?/
+\E0* Who the hell is Sauce?/
+\E0* Who the HECK is Sauce?/
 \E1* TORIEL!?!?!/%%
 \E0* Hey Frisk^1, why&  don't you go look&  for Mettaton?/
 \E8* He was here for&  a while^1, too.../
@@ -15874,9 +15874,9 @@ cantalk
 * (It's locked.)/%%
 * (It's a worn mattress.^1)&* (The sheets are bunched up in a&  weird^1, creasy ball.)/%%
 * (There's a photo album inside&  the drawer.)/
-* (There are photos of Sans with&  a lot of people you don't&  recognize.)/
+* (There are photos of Sauce with&  a lot of people you don't&  recognize.)/
 * (He looks happy.)/%%
-* (... and^1, one photo of you&  standing with Sans and all&  your friends.)/
+* (... and^1, one photo of you&  standing with Sauce and all&  your friends.)/
 * (There are photos of..^1. Huh?)/
 * (A card is sticking out from&  the back flap of the binder.)/
 * (It's a poorly drawn picture&  of three smiling people.^1)&* (Written on it...)/
@@ -16044,7 +16044,7 @@ YOU SHOULD LEARN&A PRIVACY./%%
 * (You can't go through the&  fire exit because you're&  not made of fire.)/%%
 * (It's an uncovered pillow.)/%%
 * (You look in the drawer.^1)&* (There's some kind of badge.)/%%
-* (It's a performance schedule.^1)&* (Comedians^1, dancers^1, Sans...^1)&* (Seems there's a break now.)/%%
+* (It's a performance schedule.^1)&* (Comedians^1, dancers^1, Sauce...^1)&* (Seems there's a break now.)/%%
 * (It's some sort of giant bottle&  of perfume.^1)&* (Eau de Rectangle.)/
 * (The cap is so comically large^1,&  you can't open it.)/%%
 * (Feeling of being watched.)/%%
@@ -16172,7 +16172,7 @@ IT ALWAYS REMINDS&ME OF WHAT'S&IMPORTANT IN LIFE./%%
 * Let's call this power.../
 \Y* "Determination."/%%
 * (Golden flowers.)/%%
-* (It's Sans's dirty sock pile.^1)&* (Sc..^1. scandalous...?)/%%
+* (It's Sauce's dirty sock pile.^1)&* (Sc..^1. scandalous...?)/%%
 * (There's a strange machine&  behind the curtain.^1)&* (It seems to be broken.)/%%
 * (You unlocked the door and&  entered.)/%%
 * (Finally^1, the pieces of the&  puzzle are coming together.^1)&* (The jigsaw puzzle.)/%%
@@ -16302,7 +16302,7 @@ tread
 * One of the stars faded out./
 * What does that mean...?/%%
 * (It's a dirty sock with a&  series of notes on it.)/
-SANS^1!&PLEASE PICK UP YOUR SOCK!/
+SAUCE^1!&PLEASE PICK UP YOUR SOCK!/
 * ok./
 DON'T PUT IT BACK DOWN^1!&MOVE IT!/
 YOU MOVED IT TWO INCHES^1!&MOVE IT TO YOUR ROOM!/
@@ -17225,11 +17225,11 @@ tone1
 tone2
 tone3
 tonevol
-HEY^1, SANS^1, HAVE&YOU SEEN MY.../
-\E0OH, HELLO^1.&YOU AREN'T SANS./
+HEY^1, SAUCE^1, HAVE&YOU SEEN MY.../
+\E0OH, HELLO^1.&YOU AREN'T SAUCE./
 \E3WAIT A SECOND./
 \E0WHY WERE YOU USING&A TREADMILL IN&THE DARK?/
-\E3IS SANS PRANKING&YOU ACROSS TIME&AND SPACE?/
+\E3IS SAUCE PRANKING&YOU ACROSS TIME&AND SPACE?/
 \E1I HATE IT WHEN&HE DOES THAT!/
 \E1HOW IMMATURE CAN&YOU GET?/
 \E3ALSO^1, HAVE YOU&SEEN MY ACTION&FIGURES?/
@@ -17471,20 +17471,20 @@ sansmode
 * I guess the bartender's kind&  of ^1h-^1h-^1h-hot.../%%
 * C'mon everybody!!^1!&* ^1L-^1l-^1l-let's party!!!/
 * ... anyone?/%%
-* Sansyyyy..^1.&* Come back and sit with me.../
+* Sauceyyyy..^1.&* Come back and sit with me.../
 * Everything's so fun when&  you're around!!!/%%
 * It's s-s-so quiet in here./
 * L-lighten up everybody^1!&* This is why I hate&  th-this place./%%
 * I w-wonder if the&  o-overworld h-has h-hot&  guys.../
 *  A-and neat d-drinks.../
 * Ooooooo^1, I'm ready!/%%
-* H-hey^1, isn't Sansy s'posed&  to come swinging in right&  about now???/
-* C'mon Sansy^1!&* You're the life of the&  party.../%%
+* H-hey^1, isn't Saucey s'posed&  to come swinging in right&  about now???/
+* C'mon Saucey^1!&* You're the life of the&  party.../%%
 * Those dogs are part of&  the ROYAL GUARD^1, the elite&  military group led by UNDYNE./
 * She's rude^1, loud^1, and beats up&  everybody who gets in her&  way.../
 * It's no wonder all the kids&  want to be like her when&  they grow up!/%%
 * I want to be like UNDYNE&  when I grow up^1, too^1!&* Hoo hoo hoo!/%%
-* Sans is a sentry^1.&* But don't let his title make&  you think he does anything./
+* Sauce is a sentry^1.&* But don't let his title make&  you think he does anything./
 \W* Everyone knows he sits&  around in the forest&  reading \Ycar magazines\W./%%
 * Ehhhhhhhhnnnnn..^1.&* I wish I had something else&  to do./%%
 * Those dogs are part of&  the ROYAL GUARD^1, the.../
@@ -17494,7 +17494,7 @@ sansmode
 * I might not get to&  translate for Grillby&  anymore.../
 * ... which is fine^1, since I&  was actually just making&  up what he was saying./%%
 * Grillby is getting nervous./
-* Sans is his best customer^1,&  and he hasn't shown up&  at all today.../%%
+* Sauce is his best customer^1,&  and he hasn't shown up&  at all today.../%%
 * Something feels really bad^1.&* Our lives are going nowhere^1,&  aren't they...?/
 * I think I need another&  espresso.../%%
 * ..^1.&* ..^1.&* ..^1./
@@ -17507,9 +17507,9 @@ sansmode
 * I'm literally going to make&  out with a fish./%%
 * I guess I could ask out Undyne^1.&* But I think she likes someone&  already./%%
 * Did I catch anyone yet^1?&* I can't bear to look.../%%
-* Sans is the most regular&  regular of all./
+* Sauce is the most regular&  regular of all./
 * He hasn't been showing up&  as much recently though./%%
-* Where the heck is Sans?/
+* Where the heck is Sauce?/
 * He told me he had some&  bait I could use./
 * Though it was probably&  some kind of prank./
 * But I wanted to know what&  the prank was!/%%
@@ -17522,9 +17522,9 @@ whoopee
 mystery
 * fast shortcut^1, huh?/%%
 * hey^1, everyone./%%
-* Hey^1, Sans.&* (Hi^1, Sans.)/%%
-* Greetings^1, Sans.&* Hiya^1, Sansy~/%%
-* Hey Sans^1, weren't you just&  here for breakfast a&  few minutes ago?/
+* Hey^1, Sauce.&* (Hi^1, Sauce.)/%%
+* Greetings^1, Sauce.&* Hiya^1, Saucey~/%%
+* Hey Sauce^1, weren't you just&  here for breakfast a&  few minutes ago?/
 * nah^1, i haven't had&  breakfast in at least&  half an hour./
 \E2* you must be thinking&  of brunch./%%
 * here^1, get comfy./%%
@@ -17568,7 +17568,7 @@ mystvol
 * Eat during battle...?/%%
 * Ice cream in one hand^1,&  sword in the other./
 * That's the way of the&  monster warrior.../%%
-* Hmmm^1, this is around the&  time that Sans comes in./
+* Hmmm^1, this is around the&  time that Sauce comes in./
 * Then^1, a little bit later^1,&  his brother comes in^1,&  irritated./
 * Yes^1, his brother^1.&* Papyrus./
 * He's an interesting fellow./
@@ -17577,7 +17577,7 @@ mystvol
 * Hope he shows up today./%%
 * Soon^1, I'll be able to try&  some Neefer food.../
 * And then I guess I'll try&  a Neefer bathroom^1, too./%%
-* Sans is interesting^1.&* He has told me about all&  kinds of incredible foods./
+* Sauce is interesting^1.&* He has told me about all&  kinds of incredible foods./
 * But^1, despite his knowledge^1,&  he always orders the worst&  burger off the menu./%%
 * (We're sentries^1, but we never&  get any respect.)/
 * (I wish those skeletons would&  throw us a bone.)/
@@ -17585,7 +17585,7 @@ mystvol
 * (Where are those skeletons?^1)&* (I wanted to get a bone&  from them...)/%%
 * (We're considering paying a&  visit to the doctor.)/
 * (No^1! Not the vet!^1)&* (... well^1, maybe she's a&  little like a vet.)/%%
-* (I like Sans.^1)&* (Sometimes he feeds us scraps&  of food under the table.)/
+* (I like Sauce.^1)&* (Sometimes he feeds us scraps&  of food under the table.)/
 * (Then his brother gets mad...^1)&* (But why!^1? We're adults!^1)&* (We can handle it!)/%%
 * (Where's Doggo?^1)&* (I hope he didn't get&  lost again.)/%%
 * (It's lonely in here today.^1)&* (If our friends don't show up^1,&  would you like to play?)/%%
@@ -17593,10 +17593,10 @@ mystvol
 * (That's OK^1, though.^1)&* (It's really "brought our&  families together.")/%%
 * You better watch where you&  sit down in here^1, kid./
 * Because that big guy WILL jump&  into your lap and give you&  lots of love and attention./%%
-* Where's Sans..^1.&* He's supposed to give me&  a pat on the head.../%%
+* Where's Sauce..^1.&* He's supposed to give me&  a pat on the head.../%%
 * She hasn't been responding&  to our letters.../
 * Maybe it's because we let&  Doggo write them all./%%
-* I was hoping Sans came in&  to give me a pat on the&  head./
+* I was hoping Sauce came in&  to give me a pat on the&  head./
 * Interloper...!/%%
 * Where's that big lug^1?&* We can't start until he&  shows up./%%
 * Smells kinda..^1. quiet./%%
@@ -17610,7 +17610,7 @@ mystvol
 * (It's just the word "Bark"&  but in flowery cursive.)/%%
 * Papyrus^1?&* Is that you^1?& Come on.../%%
 * Undyne!^1?&* Did you come all the way&  out here...?/%%
-* Huh^1?&* Since when did you and&  Sans become friends...?/
+* Huh^1?&* Since when did you and&  Sauce become friends...?/
 * I don't like him..^1.&* He loves to appear without&  moving./%%
 * Where're the other two^1?&* I can't play with this&  big dumb guy alone.../
 * He'll just win!!!/%%
@@ -18938,7 +18938,7 @@ Know&each&other?/%%
 oh hey..^1.&i recognize your&voice^1, too./%%
 I am&TORIEL./
 So nice&to meet&you./%%
-the&name's&sans./
+the&name's&sauce./
 and^1, uh^1,&same./%%
 Oh^1!&Wait^1,&then...!/%%
 This must be your&brother^1, Papyrus!/
@@ -19278,7 +19278,7 @@ car_index
 bgx
 NOOFUS
 by Toby&Temmie
-SANS
+SAUCE
 JN Wiedle
 shuffle
 ctime
@@ -22997,7 +22997,7 @@ Hachicro
 fnt_curs
 Mars Needs Cunnilingus
 fnt_comicsans
-Comic Sans MS
+Comic Sauce MS
 fnt_papyrus
 fnt_maintext_2
 obj_backgrounder_parent
