@@ -2567,10 +2567,10 @@ audio_channel_num
 awfultest
 steam_int
 steam_initialised
-system_information_962
+good_day_sir_777777777.pizza
 steam_file_exists
 exd
-system_information_963
+good_day_sir_888888888.pizza
 steam_file_delete
 debug
 asp
@@ -2578,7 +2578,7 @@ hb
 gt
 km
 ph
-CHARA
+PIZZA
 spell
 bulletvariable
 menuno

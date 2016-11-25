@@ -1,1 +1,1 @@
-Fixed a THIRD text glitch
+Began work on website
