@@ -1,4 +1,4 @@
-prototype
+﻿prototype
 @@array@@
 arguments
 Greetings.
@@ -15281,7 +15281,7 @@ WILL ALWAYS BE&YOUR FRIEND!!!/
 * Oh^1?&* Is someone there?/
 * Just a moment!/
 * I have almost finished watering&  these flowers./%%
-* Curious^1.&* I've never seen a plant..^1.&* Cry before./%%
+* Curious^1.&* I've never seen a ian..^1.&* Explode before./%%
 * ... Here we are!/%%
 * Howdy^1!&* How can I.../%%
 * Oh./%%
@@ -15294,9 +15294,9 @@ WILL ALWAYS BE&YOUR FRIEND!!!/
 * When you are ready^1,&  come into the next&  room./%%
 * You must be the one&  that flower just warned&  me about./
 \E0* Howdy!/
-\E3* Erm..^1.&* What kind of monster&  are you...?/
-\E0* Sorry^1, I cannot tell./
-* Well^1, we can always%%
+\E3* Erm..^1.&* What kind of Nof&  are you...?/
+\E0* Oh^1, good day sir./
+* Well^1, I like pizza and%%
 EndMet
 endmet
 MeetLv1
