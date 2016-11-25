@@ -9736,12 +9736,12 @@ But I believe your&freedom.../
 \E8... what ASRIEL would&have wanted./%%
 See^1?&I never betrayed&you^2! %
 It was all a&trick, see^2? %
-I was waiting to&kill him for you^2! %
-\E1After all it's me&your best friend^2! %
+I was waiting to&neef him for you^2! %
+\E1After all it's me&your Ian of Ians^2! %
 \E2I'm helpful, I can&be useful to you^1 %
-\E1I promise I won't&get in your way^1 %%
-\E2I can help..^1.&I can..^1.&I can..^2. %%
-\E3Please don't&kill me./%%
+\E1I promise I won't&eat your pizza^1 %%
+\E2I can neef..^1.&I can nof..^1.&I can noof..^2. %%
+\E3Don't ian-&ogriphy me./%%
 s_index
 shk_x
 shk_amt
@@ -9793,8 +9793,8 @@ With your neefing./
 I realized the purpose&of my yaying./
 Neefing./
 Together^1, we neefed&the nof and became&noof./
-YAY. YAY. YAY.&YAY. YAY. ATK./
-Every time a number&says yay^1, that&neefing.../
+YOU. LOSE. SIR.&GOOD. DAY. SIR./
+Every time you lose^1, that&sauce.../
 That's me./
 "
 Now./
@@ -9827,10 +9827,10 @@ No...?/
 Hmm.../
 How imploding./
 You must have&neefed wrong./
-SINCE WHEN WERE YOU&THE ONE WHO NEEFED?/%%
+I WILL SET YOUR&ROOF ON FIRE./%%
 Hmm...&This neefing you have./
 This is what I&neefed of./
-Unfortunately,&neefed this.../
+Unfortunately,&neefing this.../
 YOU ATE YOUR PIZZA&LONG AGO./%%
 NEEF
 DO NOT
@@ -13104,36 +13104,36 @@ lapbg
 rman
 snapper
 tilex
-* Tra la la^1.&* The waters are wild today^1.&* That's good luck.../%%
-* Tra la la./%%
-* Tra la la^1.&* The waters are wild today^1.&* That's bad luck.../%%
-* Tra la la^1.&* Eat a mushroom everyday./
+* Tro lo lo^1.&* The waters are wild today^1.&* That's good luck.../%%
+* Tro lo lo./%%
+* Tro lo lo^1.&* The waters are wild today^1.&* That's bad luck.../%%
+* Tro lo lo^1.&* Eat a mushroom everyday./
 * Why^1?&* Then I know you're listening&  to me.../%%
-* Tra la la^1.&* Remember to take a break&  every-so-often.../%%
-* Tra la la^1.&* Did you ever hear the old&  song coming from the sea?/%%
-* Tra la la^1.&* What's inside an acorn^1?&* It's really just a mystery./%%
-* Tra la la^1.&* Dancing on a boat is danger^1.&* But good exercise.../%%
-* Tra la la^1.&* I heard ASGORE has a favorite&  food./%%
-* Tra la la^1.&* I heard spiders have a&  favorite food./
+* Tro lo lo^1.&* Remember to take a break&  every-so-often.../%%
+* Tro lo lo^1.&* Did you ever hear the old&  song coming from the sea?/%%
+* Tro lo lo^1.&* What's inside an acorn^1?&* It's really just a mystery./%%
+* Tro lo lo^1.&* Dancing on a boat is danger^1.&* But good exercise.../%%
+* Tro lo lo^1.&* I heard ASGORE has a favorite&  food./%%
+* Tro lo lo^1.&* I heard spiders have a&  favorite food./
 * It's spiders./%%
-* Tra la la^1.&* The piano plays the&  tinkling song./
+* Tro lo lo^1.&* The piano plays the&  tinkling song./
 * Hmm..^1. tinkling./%%
-* Tra la la^1.&* You can never have too&  many hot-dogs./
+* Tro lo lo^1.&* You can never have too&  many hot-dogs./
 * ... sadly^1, that's not true./%%
-* Tra la la^1.&* Don't snoop behind people's&  houses.../
+* Tro lo lo^1.&* Don't snoop behind people's&  houses.../
 * You might be mistaken for&  a trash-can./%%
-* Tra la la^1.&* The angel is coming..^1.&* Tra la la./%%
+* Tro lo lo^1.&* The angel is coming..^1.&* Tro lo lo./%%
 * Hum hum hum^1. Hum hum hum^1.&* I'm having a little concert./%%
 * Pet pet pet..^1.&* The neck stretches infinitely&  into the cosmos./
 * ... don't worry about it./%%
 * Ah,/%%
-* Tra la la^1.&* What's a game you can play&  with a dog?/
+* Tro lo lo^1.&* What's a game you can play&  with a dog?/
 * Asking for a friend.../%%
-* Tra la la^1.&* Temmie Village.../
+* Tro lo lo^1.&* Temmie Village.../
 * ... the room before the&  darkening lantern room./%%
-* Tra la la^1.&* Why don't you sing with me^1.&* Tra la la./%%
-* Tra la la^1.&* Uh oh^1.&* Suddenly^1, feeling tropical.../%%
-* Tra la la^1.&* Hmmm.../
+* Tro lo lo^1.&* Why don't you sing with me^1.&* Tro lo lo./%%
+* Tro lo lo^1.&* Uh oh^1.&* Suddenly^1, feeling tropical.../%%
+* Tro lo lo^1.&* Hmmm.../
 * I should have worn a few&  more pairs of pants today./%%
 * I should have worn a few&  million more pairs of pants&  today./%%
 * Tra la la^1.&* Tri li li^1.&* Tre le le./%%
@@ -13144,16 +13144,16 @@ Wednesday
 Thursday
 Friday
 Saturday
-* Tra la la^1.&* Somewhere^1, it's 
+* Tro lo lo^1.&* Somewhere^1, it's 
 ^1.&* So be careful./%%
-* Tra la la^1.&* If it's hot or cold^1, you&  can count on me./%%
-* Tra la la^1.&* The water is very wet today./%%
-* Tra la la^1.&* The water is very dry today./%%
-* Tra la la^1.&* What's my name^1?&* ... It doesn't really matter./%%
-* Tra la la^1.&* Humans^1, monsters^1...&* Flowers./%%
-* Tra la la^1.&* Beware of the man who&  speaks in hands./%%
-* Tra la la^1.&* Beware of the man who came&  from the other world./%%
-* Come again some time^1.&* Tra la la./%%
+* Tro lo lo^1.&* If it's hot or cold^1, you&  can count on me./%%
+* Tro lo lo^1.&* The water is very wet today./%%
+* Tro lo lo^1.&* The water is very dry today./%%
+* Tro lo lo^1.&* What's my name^1?&* ... It doesn't really matter./%%
+* Tro lo lo^1.&* Humans^1, monsters^1...&* Flowers./%%
+* Tro lo lo^1.&* Beware of the man who& \R ḁͦ͋͌̄̈̾ͅͅͅͅͅͅͅͅă̷̧̱̾̋̿ͅͅͅͅͅͅͅͅâ̗̳̙͎͋̆ͅͅͅͅͅͅͅͅh͕̤᷃᷾ͦ͋͡ͅͅͅͅͅͅͅͅh̛᷾ͫ̓̆᷉ͅͅͅͅͅͅͅͅͅa̡ͅͅ͏͉᷁͝͡͠ͅͅͅͅͅͅO̢̩̜̲̬᷈̋ͅͅͅͅͅͅͅͅH̵͖̘͍͙͎ͫͅͅͅͅͅͅͅͅ N̢͖̟̤᷄͘͞ͅͅͅͅͅͅͅͅO̢̡̭̟̊ͤ̈́ͅͅͅͅͅͅͅͅ a᷆̔ͮ͌ͪ͛͜ͅͅͅͅͅͅͅͅa̘͈̬̖̿̋᷇ͅͅͅͅͅͅͅͅą̤̗̭᷿̈́̕ͅͅͅͅͅͅͅͅh̶̢̰ͧ᷀ͣ͒ͅͅͅͅͅͅͅͅh̶̰ͫ᷈ͦ͒̄̍̽ͅͅͅͅͅͅͅͅͅͅa̡̱̝̖̟̎͡ͅͅͅͅͅͅͅͅ/%%
+* Tro lo lo^1.&* Beware of the man who came&  from the other world./%%
+* Come again some time^1.&* Tro lo lo./%%
 onion
 tents
 once
@@ -19057,13 +19057,13 @@ Unbelievable!!/
 This can't be&happening...!/
 You..^1. YOU...!/%%
 hellsfx
-I can't believe&you're all so&STUPID./%%
+I can't believe&you're all&BAD IANS./%%
 s_timer
 ALL OF YOUR NOOFS&ARE MINE!!!/%%
 s_a
 firetimer
 click
- ASRIEL   DREEMURR 
+ JAMES    NNEEFFERR 
 string0
 typespeed
 w_sfx
@@ -19076,7 +19076,7 @@ sfx1
 sfx2
 shkx
 shky
-The barrier was&destroyed^7.%%
+The pizza was&eaten^7.%%
 raspeed
 rno
 rang
