@@ -11573,13 +11573,13 @@ curf
 * And then^1, when we saw&  the word of the day.../
 \E2* It was.../
 \E1* ...well.../
-\E2* Neef nof noof nof neef nof noof&  nof neef nof noof nof neef nof&  noof nof neef nof noof nof./
+\E2* Neef nof noof nof neef&  nof noof nof neef nof&  noof nof neef nof noof./
 \E7* And then^1, because of&  me^1, well.../
 \E1* Well^1, that's why I&  ended up an ian./
 * This whole time^1, I've&  blamed myself for&  that website./
 * That's why I adopted&  that neefical definition&  of the world./
-* \R"\YN\Ge\Be\Pf\R (\Yn\Ge\Be\Pf\Re\Yr\G,\B \Pn\Ro\Yf\G, \Bo\Pr \Rn\Yo\Go\Bf\P,& \Ri\Ys\G a \Bw\Po\Rr\Yd\G t\Bh\Pa\Rt \Yc\Ga\Bn\P b\Re\Y u\Gs\Be\Pd \Ra\Yt& \Ga\Bn\Py \Rt\Yi\Gm\Be\P, \Ra\Yn\Gy\Bp\Pl\Ra\Yc\Ge\B, \Pa\Rn\Yd\G"/
-\E7* \B"\P.\R.\Y.\Gh\Ba\Pv\Re\Y a\Gn\By \Pm\Re\Ya\Gn\Bi\Pn\Rg \Yy\Go\Bu\P& \Rw\Yo\Gu\Bl\Pd \Rl\Yi\Gk\Be\P^1.\R"/
+* \R"\YN\Ge\Be\Pf\R (\Yn\Ge\Be\Pf\Re\Yr\G,\B \Pn\Ro\Yf\G, \Bo\Pr&  \Rn\Yo\Go\Bf\P, \Ri\Ys\G a \Bw\Po\Rr\Yd\G t\Bh\Pa\Rt \Yc\Ga\Bn& \P b\Re\Y u\Gs\Be\Pd \Ra\Yt \Ga\Bn\Py \Rt\Yi\Gm\Be\P,"/
+\E7* \B"\P.\R.\Y. \Ra\Yn\Gy\Bp\Pl\Ra\Yc\Ge\B, \Pa\Rn\Yd\G \Gh\Ba\Pv\Re& \Y a\Gn\By \Pm\Re\Ya\Gn\Bi\Pn\Rg \Yy\Go\Bu\P \Rw\Yo\Gu\Bl\Pd &  \Rl\Yi\Gk\Be\P^1.\R"/
 \E0* Frisk^1, I don't regret&  that definition anymore./
 \E4* I did the right&  thing./
 * If I didn't go on&  The Urban Dictionary.../
