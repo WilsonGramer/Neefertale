@@ -1,4 +1,4 @@
-﻿prototype
+prototype
 @@array@@
 arguments
 Greetings.
@@ -11526,7 +11526,7 @@ donk
 tor
 curf
 * Do not worry about&  me./
-* Someone has to take&  care of these flowers./%%
+* Someone has to take&  care of these ians./%%
 * Don't worry about&  me./
 * Frisk^1, please leave&  me alone./
 \E3* I can't come back^1.&* I just can't^1, OK?/%%
@@ -11539,7 +11539,7 @@ curf
 \E0* Let me ask you a&  question./
 * Frisk..^1.&* Why did you come&  here?/
 * Everyone knows the&  legend^1, right...?/
-* "Travellers who climb&  Mt. Ebott are said&  to disappear."/
+* "Travellers who climb&  Mt. E-butt are &  said to disappear."/
 * Frisk./
 *\E0 Why would you ever&  climb a mountain&  like that?/
 \E7* Was it foolishness?/
@@ -11564,30 +11564,30 @@ curf
 \E7* While^1, Frisk.../
 \E0* You're the type of&  friend I wish I&  always had./
 \E7* So maybe I was kind&  of projecting a&  little bit./
-\E0* Let's be honest^1.&* I did some weird&  stuff as a flower./%%
+\E0* Let's be honest^1.&* I did some weird&  stuff as a ian./%%
 \E2* There's one last&  thing I feel like&  I should tell you./
 * Frisk^1, when 
 &  and I combined our&  NOOFs together.../
-* The control over our&  body was actually split&  between us./
-* They were the one&  that picked up their&  own empty body./
-* And then^1, when we&  got to the village.../
-\E2* They were the one&  that wanted to.../
-\E1* ... to use our full&  power./
-\E2* I was the one that&  resisted./
-\E7* And then^1, because of&  me^1, we.../
-\E1* Well^1, that's why I&  ended up a flower./
-* This whole time^1, I've&  blamed myself for&  that decision./
-* That's why I adopted&  that horrible view&  of the world./
-* "Kill or be killed."/
-\E7* But now..^1.&* After meeting you.../
-\E0* Frisk^1, I don't regret&  that decision anymore./
+* We realized our ability&  to go onto the Urban&  Dictionary./
+* We browsed around the&  random website./
+* And then^1, when we saw&  the word of the day.../
+\E2* It was.../
+\E1* ...well.../
+\E2* Neef nof noof nof neef nof noof&  nof neef nof noof nof neef nof&  noof nof neef nof noof nof./
+\E7* And then^1, because of&  me^1, well.../
+\E1* Well^1, that's why I&  ended up an ian./
+* This whole time^1, I've&  blamed myself for&  that website./
+* That's why I adopted&  that neefical definition&  of the world./
+* \R"\YN\Ge\Be\Pf\R (\Yn\Ge\Be\Pf\Re\Yr\G,\B \Pn\Ro\Yf\G, \Bo\Pr \Rn\Yo\Go\Bf\P,& \Ri\Ys\G a \Bw\Po\Rr\Yd\G t\Bh\Pa\Rt \Yc\Ga\Bn\P b\Re\Y u\Gs\Be\Pd \Ra\Yt& \Ga\Bn\Py \Rt\Yi\Gm\Be\P, \Ra\Yn\Gy\Bp\Pl\Ra\Yc\Ge\B, \Pa\Rn\Yd\G"/
+\E7* \B"\P.\R.\Y.\Gh\Ba\Pv\Re\Y a\Gn\By \Pm\Re\Ya\Gn\Bi\Pn\Rg \Yy\Go\Bu\P& \Rw\Yo\Gu\Bl\Pd \Rl\Yi\Gk\Be\P^1.\R"/
+\E0* Frisk^1, I don't regret&  that definition anymore./
 \E4* I did the right&  thing./
-* If I killed those&  humans.../
-* We would have had to&  wage war against all&  of humanity./
-\E0* And in the end^1,&  everyone went free^1,&  right?/
+* If I didn't go on&  The Urban Dictionary.../
+* We would have never had&  the winderful universe&  we have./
+\E0* And in the end^1,&  everyone ate pizza^1,&  right?/
 \E7* I still feel kind&  of sad knowing how&  long it took.../
-\E0* ... so maybe it&  wasn't a perfect&  decision./
-* But you can't regret&  hard choices your&  whole life^1, right?/
+\E0* ... so maybe it&  wasn't a perfect&  definiton./
+* But you can't regret&  the universe your&  whole life^1, right?/
 \E7* Well^1, not that I&  have much of a life&  left./
 \E0* But that's besides&  the point./%%
 * Frisk^1, thank you&  for listening to me./
@@ -11600,9 +11600,9 @@ curf
 \E2* Oh^1, and Frisk.../
 \E0* Be careful in the&  outside world^1, OK?/
 * Despite what everyone&  thinks^1, it's not as&  nice as it is here./
-\E7* There are a lot of&  Floweys out there./
+\E7* There are a lot of&  Ians out there./
 \E2* And not everything can&  be resolved by just&  being nice./
-* Don't kill^1, and&  don't be killed^1,&  alright?/
+* Don't neef^1, and&  don't be neefed^1,&  alright?/
 * That's the best you&  can strive for./
 * Well^1, see you./%%
 \E6* Don't you have&  anything better to&  do?/%%
