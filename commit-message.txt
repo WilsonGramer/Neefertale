@@ -1,1 +1,1 @@
-Fixed text glitch in Urban Dictionary Ending
+Fixed yet another text glitch
