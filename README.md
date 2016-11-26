@@ -1,5 +1,5 @@
-# Neefertale
-The greatest Undertale hack. Ever.
+﻿# Neefertale
+The greatest Undertale mod. Ever.
 
 Modified text and some sprites © 2016 Neef.co. Undertale itself is © 2016 Toby Fox. All rights reserved. Other software used is owned by its respective owners.
 
