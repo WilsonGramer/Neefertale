@@ -1,1 +1,1 @@
-Converted website to images and rearranged repo
+Updated gameplay/index.htm
