@@ -14004,9 +14004,9 @@ ptimer
 align
 drawtext
 drawtext2
-Oh my love        
+Dr. Neef        
 string1
-Please run away   
+I like pizza   
 string2
 mainmove
 frantic
@@ -14050,14 +14050,14 @@ wall2
 * COULD IT BE...?/%%
 di
 * ... MY ONE TRUE LOVE?/%%
-Monster King       
-Forbids your stay  
-Humans must       
-Live far apart    
-Even if             
-It breaks my heart  
+There was only one of you       
+Until you split the world in two 
+3rd Degree burns to the bone       
+We must go back through your tombstone
+There was only one of thee             
+Until you split the world in three  
 cher
-They'll put you    
+They'll put you
 In the dungeon     
 It'll suck         
 And then you'll#die a lot  
