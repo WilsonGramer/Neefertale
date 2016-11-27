@@ -14004,9 +14004,9 @@ ptimer
 align
 drawtext
 drawtext2
-Dr. Neef        
+I am a pizza        
 string1
-I like pizza   
+With extra cheese   
 string2
 mainmove
 frantic
@@ -14049,25 +14049,25 @@ wall1
 wall2
 * COULD IT BE...?/%%
 di
-* ... MY ONE TRUE LOVE?/%%
-There was only one of you       
-Until you split the world in two 
-3rd Degree burns to the bone       
-We must go back through your tombstone
-There was only one of thee             
-Until you split the world in three  
+* ... MY PIZZA?/%%
+From tomatoes       
+Sauce is squeezed
+Onions and mushrooms       
+Oregano
+I  am  a&pizza             
+Ready to go  
 cher
-They'll put you
-In the dungeon     
-It'll suck         
-And then you'll#die a lot  
-Really sad         
-You're gonna die     
-Cry cry cry      
-So sad it's#happening.       
+Out of the oven
+Into the box     
+Into the car and         
+Upside down  
+I am a pizza&dropped on&the ground         
+I was a pizza     
+I LIKE PIZZA       
+GOOD DAY SIR.      
 comet
 * SO SAD./
-* SO SAD THAT YOU ARE&  GOING TO THE DUNGEON./%%
+* SO SAD THAT THE&PIZZA WAS DROPPED./%%
 * OOMPH!&* I AM SO OVERWHELMED WITH&  TRAGEDIES./
 * THE KING HAS ORDERED YOU&  TO WASTE AWAY IN THE CASTLE&  BASEMENT./
 * AND BEFORE WE EVEN HAD&  TIME TO SING A SWEET&  SONG ABOUT IT./
@@ -14083,18 +14083,18 @@ stringlength
 sing
 offsing
 middle
-Oh my love
-Has fallen#down
-Now in tears
-We all will#drown
-Colored#tiles
-Make them#a fool
-If only they
-Still knew#the rules
-Well that#was
-A sorry try
-Now let's#watch
-Them fry
+I AM A PIZZA
+GOOD DAY SIR
+WITH PEPPERONI
+PHONEY BALONEY
+GOOD DAY SIR
+I LIKE PIZZA
+GOOD DAY SIR
+Y U NO LIK PASTA
+WELL I LIKE PIZZA
+YOU LOSE SIR
+GOOD DAY SIR
+GOOD DAY!
 animimg
 cooltimer
 orange
