@@ -12481,31 +12481,31 @@ lafftrax
 uuu
 shakehand
 rshot
-* heheh... the old whoopee&  cushion in the hand&  trick./
-* it's ALWAYS funny./
+* heheh... i really&  like pizza./
+* it ALWAYS tastes&  good./
 * anyways^1,&  you're a Neefer, right?/
-\E1* that's hilarious./
-* heh^1, the old whoopee&  cushion in the hand&  trick.../
-\E1* wait a sec..^1.&* have you heard it before&  or something?/
+\E1* that's explosion-&  inducing./
+* heh^1, i really&  like pizza.../
+\E1* neef a nof..^1.&* have you eaten i&  before or something?/
 \E1* you turned around before&  i said to..^1.&* ... weird./
 * ... whatever^1.&* you're a Neefer^1, right?/
 \E0* i'm sauce^1.&* sauce the pizza./
-* im actually supposed to&  be on watch for&  humans right now./
+* im actually supposed to&  be making pizza&  right now./
 * but..^1. y'know.../
-\E1* i dont really care about&  capturing anybody./
+\E1* i dont really care about&  making pizza./
 \E0* now my brother^1,&  noofus.../
-* he's a Neefer-hunting&  FANATIC./
+* he's a pizza-making&  FANATIC./
 \E1* hey^1, actually^1, I think&  that's him over there./
-\E0* i have an idea^1.&* go through this gate&  thingy./
-* yeah, go right through^1.&* my bro made the bars&  too wide to stop anyone./%%
-\E1* that's^1, uh^1.&* your cue to laugh./
-\E2* or^1, uh^1, to emote&  at all...?/
-\E1* (gee^1, lady^1, you really&  know how to pick&  'em, huh...?)/
-\E2* OK^1, that's fine^1.&* everyone's got their&  own sense of humor./
+\E0* i have an idea^1.&* go through this pasta&  thingy./
+* yeah, go right through^1.&* my bro made the pasta&  too soft to stop anyone./%%
+\E1* that's^1, uh^1.&* your cue to explode./
+\E2* or^1, uh^1, to neef&  at all...?/
+\E1* (gee^1, lady^1, you really&  know how to make&  pizza, huh...?)/
+\E2* OK^1, that's fine^1.&* everyone's got their&  own recipe for pizza./
 fsound
-* Human./
-* Don't you know how&  to greet a new pal?/
-* Turn around and shake&  my hand./%%
+* Neefer./
+* Don't you know how&  to eat pizza with&  sauce?/
+* Turn around and eat&  the pizza./%%
 mainact
 * quick^1, behind that&  conveniently-shaped&  lamp./%%
 * sup^1, bro?/
