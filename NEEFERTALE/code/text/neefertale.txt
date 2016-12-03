@@ -1,4 +1,4 @@
-﻿prototype
+prototype
 @@array@@
 arguments
 Greetings.
@@ -14861,13 +14861,13 @@ reverse
 looktimer
 smash
 gameshow
-* Oh^1.&* My god./%%
-* I didn't expect you&  to show up so&  soon!/
+* ^1Au ah.&* My omploding imploding&  explosians./%%
+* Meesa no like PIZA!/
 * I haven't showered^1, I'm&  barely dressed^1, it's&  all messy^1, and.../%%
 labvolume
 * Ummm.../
 * H-h-hiya!/
-* I'm Dr. Alphys^1.&* I'm ASGORE's royal&  scientist!/
+* I'm Dr. Nofys^1.&* I'm ASGORE's royal&  scientist!/
 \E3* B-b-but^1, ahhhh^1,&  I'm not one of&  the "bad guys"!/
 \E0* Actually^1, since you&  stepped out of the&  RUINS^1, I've^1, um.../
 \E7* ... been "observing"&  your journey through&  my console./
