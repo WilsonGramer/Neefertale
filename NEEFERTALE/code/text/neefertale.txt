@@ -1,4 +1,4 @@
-prototype
+﻿prototype
 @@array@@
 arguments
 Greetings.
@@ -11340,31 +11340,31 @@ currentvol
 heartcon
 hearttimer
 gs
-  You cannot give&  up just yet.../
-^1!&  Stay determined.../%%
-, this is just&  a bad dream.../
+  Oh my fatted&  calves.../
+^1!&  Stay detergented.../%%
+, this is just&  a wooden spoon.../
   Wake up^1!&  It's not over!/%%
 ! It's like&  he says.../
-  You have to&  stay determined.../%%
-! Please&  don't give up.../
+  You have to&  stay detergented.../%%
+! Please&  don't explode.../
   Have some&  detergent.../%%
 ! You're&  
-  You can't quit^1!&  Stay determined.../%%
+  You can't quit^1!&  Stay detergented.../%%
 , is this&  a kind of joke?/
   Cut it out^1!&  Wake up!/%%
 , it's not&  time to leave!/
   Hold on!/%%
-, gather&  your strength./
-  Stay determined!/%%
-, you have&  to keep going./
-  Our fate rests &  upon you.../
-  You're going to&  be alright!/
-  Don't lose hope!/
+, eat&  your pizza./
+  Stay detergented!/%%
+, you have&  to eat pizza./
+  I like pizza &  and you don't.../
+  You're going to&  neef and noof!/
+  HBJFJSD!/
   It cannot end&  now!/
-  geeettttttt&  dunked on!!!/
-  if we're really&  friends.../
-  you won't come back./%%
-* But it refused^5.%%
+  Y U NO LIK&  P A S T A ./
+  i will now hit&  you with a SPOON.../
+  you have LOST./%%
+* But it ate a slice&  of pizza^5.%%
 unfader
 deleteafter
 canpress
