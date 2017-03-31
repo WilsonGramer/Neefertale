@@ -1,4 +1,4 @@
-﻿prototype
+prototype
 @@array@@
 arguments
 Greetings.
@@ -14863,39 +14863,39 @@ smash
 gameshow
 * ^1Au ah.&* My omploding imploding&  explosians./%%
 * Meesa no like PIZA!/
-* I haven't showered^1, I'm&  barely dressed^1, it's&  all messy^1, and.../%%
+* Well, mean beans./%%
 labvolume
 * Ummm.../
-* H-h-hiya!/
-* I'm Dr. Nofys^1.&* I'm ASGORE's royal&  scientist!/
+* Hellooo./
+* I'm Alphoos^1.&* I'm the lord of the&  \OMEMEES\W!/
 \E3* B-b-but^1, ahhhh^1,&  I'm not one of&  the "bad guys"!/
-\E0* Actually^1, since you&  stepped out of the&  RUINS^1, I've^1, um.../
-\E7* ... been "observing"&  your journey through&  my console./
-\E3* Your fights..^1.&* Your friendships..^1.&* Everything!/
-\E0* I was originally&  going to stop&  you^1, but.../
-\E7* Watching someone on&  a screen really makes&  you root for them./
-\E7* Watching you^1, I felt&  like..^1. like I was&  seeing an old friend./
+\E0* Actually^1, since you&  stepped out of the&  NEEFS^1, I've^1, um.../
+\E7* ... been "observing"&  your journey through&  my technoset./
+\E3* It's a..^1.&  pretty good, spinning,&  winning technoset./
+\E0* I was originally&  going to eat&  you^1, but.../
+\E7* Spinning on a technoset&  is pretty appetite-filling./
+\E7* Spinning and winning^1, I felt&  like..^1. like I was&  seeing an old technoset./
 \E0* S-so^1, ahhh^1, now I&  want to help you!/
-\E6* Using my knowledge^1,&  I can easily guide&  you through Hotland!/
-\E0* I know a way right&  to ASGORE's castle^1,&  no problem!/
+\E6* Using my knowledge^1,&  I can easily give you&  infinite \OMEMEES\W!/
+\E0* I know a way right&  to a better technoset^1,&  no problem!/
 \E7* Well^1, actually^1, umm^1,&  there's just a&  tiny issue./
-\E0* A long time ago^1, I&  made a robot named&  Mettaton./
-* Originally^1, I built&  him to be an&  entertainment robot./
-\E7* Uh^1, you know^1, like&  a robotic TV star&  or something./
-\E0* Anyway^1, recently I&  decided to make him&  more useful./
-\E7* You know^1, just some&  small practical&  adjustments./
+\E0* A long time ago^1, I&  made a technoset named&  the Neefercot./
+* Originally^1, I built&  him to spin and win&  like all the others./
+\E7* Uh^1, you know^1, like&  an Internet surfer&  or something./
+\E0* Anyway^1, recently I&  decided to make him&  win more./
+\E7* You know^1, just some&  small omploding&  explosians./
 \E0* Like^1, um.../
 \E4* Anti..^1. anti-Neefer&  combat features?/
 \E6* Of c-course^1, when I&  saw you coming^1, I&  immediately decided.../
 \E3* I have to remove&  those features!/
 \E4* Unfortunately^1, I may&  have made a teensy&  mistake while doing so./
 * And^1, um.../
-\E5* Now he's an unstoppable&  killing machine with a&  thirst for Neefer blood?/
-* Ehehehehe.../
-\E8* Heh./
+\E5* Now he's an unstoppable&  expploding pizza with a&  thirst for Neefer NOOFs?/
+* Eheeeheeeheeeheehhhehhe.../
+\E8* hbjfjsd./
 \E0* But^1, ummm^1, hopefully&  we won't run into&  him!/%%
 scr_bouncer
-* Did you hear&  something?/%%
+* Did you just eat&  a slice of pizza?/%%
 cheer
 * OHHHH YES!/
 * WELCOME^1, BEAUTIES.../%%
