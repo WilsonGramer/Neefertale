@@ -176,52 +176,52 @@ gx
 * We do not want to neef&  anybody, do we...?^2 \E0 &* Come now./%
 \E0* Ah,^1 very good!^2 &* You are a very good Ian./%
 \E1* .../
-\E1* ... you ran away.../
-\E0* Truthfully^1, that was&  not a poor choice./
-\E0* It is better to&  avoid conflict&  whenever possible./
-\E1* That..^1. however^1, is&  only a dummy^2.&* It cannot harm you./
-\E1* It is made of cotton^1.&* It has no desire&  for revenge.../
+\E1* ... you imploded.../
+\E0* Um...&* Good job...?/
+\E0* I guess that is a good&  decision./
+\E1* That..^1. however^1, is&  only a dummy^2.&* It cannot eat you./
+\E1* It is made of cotton^1.&* It has no desire&  for exploding.../
 \E0* Nevermind^2.&* Stay close to me and&  I will keep you safe./%
 \E3* ^1.^1.^1./
 \E4* ^1.^1.^1./
 \E0* The next room awaits./%
-\E2* Practice talking to&  the dummy./
+\E2* Practice neefing to&  the dummy./
 \E1* You can say anything..^2.\E2 &* I do not think the dummy&  will be bothered./%
 \E0* Do you need some&  ideas for conversation&  topics?/
-* Well^1, I often start with&  a simple 'how do you&  do...'/
-* You could ask them about&  their favorite books.../
-* Jokes can be useful for&  'breaking the ice.'/
-* Listen to this one.../
-* What did the skeleton&  tile his roof with?/
-* ... SHIN-gles!/
-\E0* Well^1, I thought it&  was amusing./%
+* Well^1, I often start with&  a simple 'yay and yay &  and also yay...'/
+* You could ask them about&  why they like yaying.../
+* Spoons can be useful for&  'breaking the ian.'/
+* Look at this spoon.../
+* Oh...&* Please do not hit the&  dummy with the spoon./
+* ... they don't like&  spoons./
+\E0* Well^1, you can start now./%
 \E1* You can say anything..^2.\E0 &* The dummy will not&  be bothered./%
 \E1* There is another puzzle&  in this room.../
 \E0* I wonder if you can&  solve it?/%
 \E1* This is the puzzle^1,&  but.../
 \E0* Here^1, take my hand&  for a moment./%
-\E1* Puzzles seem a little&  too dangerous for&  now./%
+\E1* Puzzles seem a little&  too explosive for&  now./%
 .../%
-\E2* Greetings,^1 my child^2.&* Do not worry^1, I did&  not leave you./
-\E0* I was merely behind this&  pillar the whole time./
+\E2* Greetings,^1 my implosion^2.&* Do not worry^1, I did&  not leave you./
+\E0* I was merely eating this&  pizza the whole time./
 * Thank you for trusting&  me./
-\E2* However^1, there was an&  important reason for&  this exercise./
-* ... to test your&  independence./
-\E1* I must attend to some&  business^1, and you must&  stay alone for a while./
-\E0* Please remain here^2.&*\E1 It's dangerous to&  explore by yourself./
-\E0* I have an idea^2.&* I will give you a&  CELL PHONE./
-* If you have a need for&  anything^1, just call./
-\E1* Be good^1, alright?/%
-\E0* You have done&  excellently thus&  far^1, my child./
-\E2* However... I have a&  difficult request to ask&  of you./
+\E2* However^1, there was an&  important reason for&  this exercise.../
+* ... no really there&  wasn't./
+\E1* I must eat some pizza&  now^1, and you must&  stay alone for a while./
+\E0* Please remain here^2.&*\E1 It's explosive to&  eat my type of pizza./
+\E0* I have an idea^2.&* I will give you an&  INSTRUCTION MANUAL./
+* If you have a need for&  anything^1, just follow&  the 9001-step manual./
+\E1* Be a good Ian^1, alright?/%
+\E0* You have done&  excellently thus&  far^1, my Ian./
+\E2* However... I have a very&  difficult request to ask&  of you./
 * .../
-* I would like you to walk&  to the end of the room&  by yourself./
+* I would like you to&  visit Neef.co and buy a&  Neef.co striped t-shirt./
 \E1* Forgive me for this./%
 * Ring..\E0.\TT /
 \F1 %
 * Hello?&* This is TORIEL./
 * For no reason in&  particular...&* Which do you prefer?/
-* Cinnamon or&  butterscotch?&  Cinnamon    Bscotch \C
+* Hbjfjsd or fshgfsd?& &  Hbjfjsd     Fshgfsd \C
 undertale.ini
 ini_open
 Bscotch
@@ -563,9 +563,9 @@ snd_play
 * "Why did the skeleton want&  a friend?"/
 * "Because she was feeling&  BONELY..."/
 * The rest of the page is&  filled with jokes of&  a similar caliber./%%
-* You found a slice of&  butterscotch-cinnamon&  pie./%%
+* You found a slice of&  hbjfjsd-fshgfsd&  pie./%%
 * You found a slice of&  snail pie.../%%
-* Hello there^1,&  little one!/
+* Hello there^1,&  little Ian!/
 * The pie has not&  cooled down yet./
 * Perhaps you should&  take a nap.&  Yes         No      \C 
 * Sweet dreams./%%
@@ -581,26 +581,26 @@ snd_play
 \E5* STILL./
 \E0* I am glad to have&  you living here./
 \E1* Oh^1, did you&  want something?/
-* What is it?&               When can&  Nothing      I go home?\C 
+* What is it?&               When can I&  Nothing      eat pizza?\C 
 * Well^1, talk to me&  again if you&  need anything./%%
-\E1* What^1?&* This..^1. this IS your&  home now./
+\E1* What^1?&* I...^1 we ran out of&  pizza./
 * Um..^1. would you like&  to hear about this&  book I am reading?/
 \E0* Oh^1, hello!/
 * Did you want to&  hear about the&  book I am reading?/
-\E0* It is called&  "72 Uses for Snails."/
-* How about it?&              How to exit&  Sure        the RUINS\C 
-* Here is an exciting&  snail fact./
-\E1* Um^1.^1.^1.&*\E0 How about an exciting&  snail fact?/
-\E2* Did you know&  that snails.../
+\E0* It is called&  "957 Uses for&  Pepperoni."/
+* How about it?&              How to eat&  Sure        some PIZZA\C 
+* Here is an exciting&  pepperoni fact./
+\E1* Um^1.^1.^1.&*\E0 How about an exciting&  pepperoni fact?/
+\E2* Did you know&  that pepperoni.../
 r
-\E0* Have a chainsaw-like&  tongue called a&  radula?/
-\E0* Sometimes flip their&  digestive systems&  as they mature?/
-\E0* Make terrible&  shoelaces?/
-\E0* Talk^2. Really^2. Slowly^2?&* Just kidding^1, snails&  don't talk./
-\E0* Interesting.&              How to exit&  Yeah        the RUINS\C 
-* Well^1, bother me&  if you need anything&  else./%%
+\E0* Is red?/
+\E0* Is round?/
+\E0* Likes to implode?/
+\E0* Can be used on pizza? Oops,&  sorry. We don't have any&  pepperoni either./
+\E0* Interesting.&              How to eat&  Yayayayay   some PIZZA\C 
+* Yes, I wish we had some pizza&  too./%%
 \E1* ... I have to do&  something^1.&* Stay here./%%
-\E0* What is it?&              How to exit&  Nothing     the RUINS\C 
+\E0* What is it?&              Absolutely&  Nothing     everything at once\C 
 * If you need anything^1,&  just ask./%%
 \E1* ... I have to do&  something.&* Stay here./%%.
 \E2NYOO HOO HOO.../
@@ -6595,67 +6595,67 @@ destroyed
  .....& .....& .....
  ...?
  What are& you& doing?
- Attack& or run& away!
+ Bad& Ian!
  What are& you& proving& this way?
- Fight me& or& leave!
+ Eat pizza& or& leave!
  Stop it.
- Stop& looking& at me& that way.
+ Stop& eating& pizza& that way.
  Go away!
  ...
  ...& ...
-I know you want&to go home^1, but...
+I know you want&to eat pizza^1, but...
 But please... go&upstairs now.
 I promise I will&take good care&of you here.
-I know we do not&have much^1, but...
-We can have a&good life here.
-Why are you&making this so&difficult?
+I know we do not&have a lot of&pizza^1, but...
+We can have a&good pizza here.
+Why are you&being such a&bad Ian?
 Please^1, go upstairs.
 .....
 Ha ha...
-Pathetic^1, is it not^2?&I cannot save even&a single child.
+Pathetic^1, is it not^2?&I cannot neef even&a single Ian.
 No^1, I understand./
-You would just be&unhappy trapped&down here./
-The RUINS are very&small once you&get used to them./
-It would not be&right for you to&grow up in a&place like this./
-My expectations...&My loneliness...&My fear.../
-For you^1, my child...&I will put them aside./%%
+You would just be&un-Ian-ed trapped&down here./
+The NEEFS are very&small once you&get used to them./
+You would not be&a good Ian in&place like this./
+My imploding...&My neefing...&My pizza.../
+For you^1, little Ian...&I will put them aside./%%
 \E0Urgh.../
-\E0You are stronger&than I thought.../
-Listen to me^1,& small one.../
-If you go beyond&this door,/
-Keep walking as&far as you can./
-Eventually you will&reach an exit./
+\E0You ate more pizza&than I thought.../
+Listen to me^1,& little Ian.../
+If you go beyond&this pizza,/
+Keep neefing as&much as you can./
+Eventually you will&reach another pizza./
 \E1..^1.&..../
 \RASGORE\X..^1.&Do not let \RASGORE\X &take your NOOF./
-His plan&cannot be allowed&to succeed./
+Otherwise you will&\RSPONTANEOUSLY&COMBUST\X./
 \E2....../
-Be good^1,&won't you?/
-\E3My child.      %%
+Be a good Ian^1,&won't you?/
+\E3Little Ian.      %%
 Y... you...&really hate me&that much?/
-Now I see who I&was protecting by&keeping you here./
-Not you.../
-\E5But them!/
+Why must you be&such a bad Ian?/
+You are such a&mean Ian.../
+\E5Good day./
 \E3Ha... ha... %%
 \E4You.../
 ... at my most&vulnerable&moment.../
-To think I was&worried you&wouldn't fit&in out there.../
-\E5Eheheheh!!!&You really are&no different than&them!/
+You are such a&\RREALLY BAD IAN\X./
+\E5\RY O U  F A I L E D&A T  L I F E /./
 x1
 gen2
-* Toriel prepares a magical&  attack.
-* Toriel looks through you.
-* Toriel is acting aloof.
-* Toriel takes a deep breath.
+* Toriel prepares a piece&  pizza.
+* Toriel randomly&  runs around in circles.
+* Toriel is imploding and&  exploding at the same time.
+* Toriel thinks you are a&  decent Ian.
 * ...
-* TORIEL - ATK 80 DEF 80&* Knows best for you./^
-* You couldn't think of&  any conversation&  topics./^
-* You tried to think&  of something to say&  again^1, but.../^
-* Ironically^1, talking does not&  seem to be the solution&  to this situation./^
-* You thought about telling&  Toriel that you saw&  her die./
-* But...&* That's creepy./
-* Can you show mercy without&  fighting or running&  away...?/^
-* Can you show mercy&  without running away...?/^
-* Not worth talking to./^
+* TORIEL - ATK 80 DEF 80&* Likes to make hbjfjsd-fshgfsd&  pies and pizza./^
+* You couldn't eat&  any more pizza./^
+* You tried to eat&  pizza again^1, but.../^
+* Ironically^1, eating pizza&  does not seem to be the&  solution to this situation./^
+* You thought about telling&  Toriel that you saw&  her explode./
+* But...&* That's weird and makes you&  a bad Ian./
+* Can you nof without&  neefing or imploding...?/^
+* Can you nof&  without imploding...?/^
+* Not worth eating pizza over./^
 facechange
 Burble&burb...
 Squorch&...
@@ -10675,13 +10675,13 @@ hoped
 dreamed
 say
 trcon
-\E1You know.../
-\M1I \E0don't care about&destroying this&world anymore./%%
-\E1After I defeat you&and gain total&control over the&timeline.../
-\E2I just want to reset&everything./%%
-\E3All your progress..^1.&Everyone's memories./
-\E2I'll bring them all&back to zero!/%%
-\E2Then we can do&everything ALL over&again./%%
+\E1Bog fog.../
+\M1\E0Bog fog&and bog&and fog./%%
+\E1Bogging and&fogging and&bog and&fog.../
+\E2B O G&F O G./%%
+\E3All the bog fogs..^1.&Bogs and fogs./
+\E2Bog and fog and&gof and bof!/%%
+\E2Bogbogbog&fogfogfog&bogfog./%%
 \E3And you know what&the best part of&all this is?/
 \E2You'll DO it./%%
 \E1And then you'll&lose to me again./%%
@@ -10691,7 +10691,7 @@ trcon
 Because you "love&your friends."/%%
 Because you "never&give up."/%%
 \M1I\E1sn't that&delicious?/
-\M0Your "detergent.^1"&The power that let&you get this far.../
+\M0Bog fog "detergent.^1"&Bog&fog.../
 \E2It's gonna be your&downfall!/%%
 \E2Now^1, ENOUGH messing&around!/
 It's time to purge&this timeline once&and for all!/%%
@@ -10702,18 +10702,18 @@ starcon
 bladecon
 guncon
 gonercon
-* Asriel readies "STAR BLAZING."
-* Asriel charges "SHOCKER&  BREAKER."
-* Asriel calls on "CHAOS SABER."
-* Asriel readies "CHAOS BUSTER."
-* Asriel readies "GALACTA&  BLAZING."
-* Asriel calls on "CHAOS SLICER."
-* Asriel readies "SHOCKER&  BREAKER II."
-* Asriel readies "CHAOS&  BLASTER."
-* Asriel readies "HYPER GONER."
-* Asriel is glowing with a&  strange power.
-* ASRIEL DREEMURR \z4   ATK \z4   DEF&* Legendary being made of every&  NOOF in the underground./^
-* ASRIEL DREEMURR \z4   ATK \z4   DEF&* The Absolute GOD of Hyperdeath!/^
+* Asriel bog fogs "STAR BLAZING."
+* Asriel bog fogs "SHOCKER&  BREAKER."
+* Asriel bogs fogs "CHAOS SABER."
+* Asriel bog fogs "CHAOS BUSTER."
+* Asriel bog fogs "GALACTA&  BLAZING."
+* Asriel bog fogs "CHAOS SLICER."
+* Asriel bog fogs "SHOCKER&  BREAKER II."
+* Asriel bog fogs "CHAOS&  BLASTER."
+* Asriel bog fogs "HYPER GONER."
+* Asriel is bogging&  and fogging.
+* ASRIEL DREEMURR \z4   ATK \z4   DEF&* Legendary bog fog made of every&  NOOF in Neeflandia./^
+* ASRIEL DREEMURR \z4   ATK \z4   DEF&* The Absolute BOG FOG!!!/^
 * You held on to your hopes..^1.&* You reduced how much DAMAGE&  you'll take this turn!/^
 * You kept holding on^1.&* DAMAGE reduced!/^
 * You think about why you're&  here now.../
@@ -11772,85 +11772,85 @@ d_noise
 * I do wonder how they are.../
 fademusicout
 torielsong
-* How did you get&  here^1, my child^1?&* Are you hurt?/
-* Not a scratch..^1.&*\E0 Impressive^1!&*\E1 But still.../
-* There^1, there^1, I will&  heal you./
-* Who did this to you^2?\E5 &* You will get an apology./
+* How did you get&  here^1, my Ian^1?&* Did you explode?/
+* Not an explosion..^1.&*\E0 Impressive^1!&*\E1 But still.../
+* There^1, there^1, I will&  implode you./
+* Who did this to you^2?\E5 &* You will get an slice of pizza./
 \E1* I should not have&  left you alone&  for so long./
-* It was irresponsible&  to try to surprise&  you like this./
-\E8* Err.../
+* It was irresponsible&  to try to neef&  you like this./
+\E8* Errrrrrrrrrrrrrrrrrrrrrr&  rrrrrrrererrreerrr.../
 \E0* Well^1, I suppose I&  cannot hide it&  any longer./
-* Come^1, small one!/%%
+* Come^1, imploding one!/%%
 torvolume
 * Oh dear^1, that took&  longer than I&  thought it would./%%
-* Do you smell that^1?/
-* Surprise!/
-* It is a butterscotch-&  cinnamon pie./
-* I thought we might&  celebrate your&  arrival./
-* I want you to have&  a nice time living&  here./
-* So I will hold off&  on snail pie for&  tonight./
-* Here^1, I have another&  surprise for you./%%
+* Can you neef that nof^1?/
+* Yayayayayayayay!/
+* It is a hbjfjsd-&  fshgfsd pie./
+* I thought we might&  celebrate your&  implosion./
+* I want you to have&  a nice time neefing&  here./
+* So I will hold off&  on snail pie for&  millions of years./
+* Here^1, I have another&  yayayayayayay for you./%%
 \E1* Er^1, I assume that&  expression means you&  do./
-\E0* S..^1. surprise!/
-* I have baked a snail&  pie./
+\E0* Y..^1. yayayayayayay!/
+* I have neefed a snail&  pie./
 \E1* So I.../
-\E0* Here^1, I have another&  surprise for you./%%
+\E0* Here^1, I have another&  yayayayayayay for you./%%
 * This is it.../%%
 tiddywinkle
 ruff
-* Is something burning...?&* Um^1, make yourself&  at home!/%%
-* A room of your own.&* I hope you like it!/%%
-* I think you should&  play upstairs&  instead./%%
-* It is dangerous&  to play here./%%
-* It is drafty here.&* You will catch&  a cold./%%
-* It is dusty here.&* You will catch&  a cough./%%
-* There is nothing&  to see here./%%
-* Do you want to&  read a book?/%%
-\E7* I do not like&  the game you&  are playing./%%
-\E0* Why not go for&  a walk in the&  yard?/%%
-* Really now./%%
+* Is something exploding...?&* Um^1, make yourself&  at home!/%%
+* A pizza of your own.&* I hope you like it!/%%
+* I think you should&  play with my pizza&  instead./%%
+* It is dangerous&  to eat pizza here./%%
+* It is explosive in this pizza.&* You will catch pneumonoultra-&microscopicsilicovolcanoconiosis../%%
+* It is explosive in this&  pizza.&* You will combust./%%
+* No. Wrong sir.&* Do not go down there&  because of reasons./%%
+* Do you want to&  neef a noof?/%%
+\E7* y u do dis to me.&* Excuse me for my&  gooder grammar./%%
+\E0* Why not go eat some&  pizza in the&  yard?/%%
+* AAAAAAAAAAAAAAAAAAAAAA&  PLEASESTOPYOULOSEAAAAA&  AAAAAAAAAAAAAAAAAAAAA./%%
 \E4* .../%%
 * Hey^1, do not go down&  here./
-* I have something&  to show you&  upstairs./%%
-* You wish to know how&  to return "home,"&  do you not?/
-* Ahead of us lies the&  end of the RUINS./
-* A one-way exit to the&  rest of the underground./
-* I am going to destroy&  it./
-* No one will ever&  be able to leave&  again./
-* Now be a good child&  and go upstairs./%%
+* I have a piece of&  pizza to show you&  before I eat it./%%
+* You wish to know how&  to eat "pizza,"&  do you not?/
+* Ahead of us lies the&  end of the NEEFS./
+* A one-way exit to the&  rest of Neeflandia./
+* I am going to stop&  it from existing./
+* No one will ever&  be able to leave for&  trillions of years./
+* Now be a good Ian&  and go upstairs./%%
 * Every Neefer that falls&  down here meets&  the same fate./
-* I have seen it&  again and again./
-* They come./
-* They leave./
-* They die./
-* You naive child..^1.&* If you leave the&  RUINS.../
-\W* They..^1.&* \RASGORE\W..^1.&* Will kill you./
-* I am only protecting&  you^1, do you understand?/
-* ... go to your room./%%
-* Do not try to stop me./
+* I have seen it&  over and under and over./
+* They neef./
+* They nof./
+* They \RSPONTANEOUSLY&  COMBUST\W./
+* You bad Ian..^1.&* If you leave the&  NEEFS.../
+\W* They..^1.&* \RASGORE\W..^1.&* Will neef you./
+* You must be a good Ian,&  okay?/
+* ... go eat some pizza./%%
+* Do not try to eat pizza&  anymore./
 * This is your final&  warning./%%
 flames
 turts
-\E0* Goodbye^1, my child./%%
+\E0* Good day^1, little Ian./%%
 \E2* That is right./
-* Go upstairs./%%
-\E2* If you truly wish to&  leave the RUINS.../
-* I will not stop you./
+* Go eat pizza upstairs./%%
+\E2* If you truly wish to&  leave the NEEFS.../
+* I will not make you&  \RSPONTANEOUSLY&  COMBUST\W./
 \E2* However^1, when you&  leave.../
-\E1* Please do not come&  back./
-\E2* I hope you understand./%%
+\E1* Please do not come&  back for quadrillions&  of years./
+\E2* I hope you will eat&  pizza somewhere else./%%
 * You want to leave&  so badly?/
-\E6* Hmph./
-* You are just like&  the others./
-\E7* There is only one&  solution to this./
+\E6* Hbjfjsd./
+* You are just like&  the other bad Ians./
+\E7* There is only one&  pizza to eat./
 * Prove yourself.../
-* Prove to me you&  are strong enough&  to survive./%%
-* Prove to me you&  are strong enough&  to survive!/
+* Prove to me you&  are strong enough&  to eat \BMY PIZZA\W./%%
+* Prove to me you&  are strong enough&  to eat \BMY PIZZA\W!/
 \E6* ... wait./
-* ... why are you looking&  at me like that?/
-* Like you have seen&  a ghost./
-\E7* Do you know something&  that I do not?/
-* No...&* That is impossible./%%
+* ... why are you eating&  my pizza like that?/
+* Like you have seen&  a different Ian./
+\E7* Do you have an Ian&  that I do not?/
+* No...&* That is impossible.&* There is only one Ian./%%
 * Prove to me that you&  are.../
 \E1* Hey^1, let me finish%%
 * Already?/
@@ -11867,8 +11867,8 @@ turts
 * What a good child you&  are./
 \E1* There are a few puzzles&  ahead that I have&  yet to explain./
 \E1* Be good^1, alright?/
-\E1* You do not DISLIKE&  butterscotch^1, do you?/
-\E1* You do not DISLIKE&  cinnamon^1, do you?/
+\E1* You do not DISLIKE&  fshgfsd^1, do you?/
+\E1* You do not DISLIKE&  hbjfjsd^1, do you?/
 * I know what your&  preference is^1, but.../
 * Would you turn up your&  nose if you found&  it on your plate?/
 * Right^1, right^1, I&  understand./
@@ -11885,7 +11885,7 @@ touch
 * Someday you might see&  something you really&  like./
 * You will want to leave&  room in your pockets&  for that./
 \E1* I have a question./
-* You like things other&  than butterscotch or&  cinnamon^1, too.../
+* You like things other&  than fshgfsd or&  hbjfjsd^1, too.../
 * Do you not?/
 \E0* ..^1. oh^1, what am I&  asking./
 * I will keep looking./%%
@@ -11905,8 +11905,8 @@ crumblebaby
 audio_sound_set_track_position
 jump
 ^1, please.../
-* Wake up!/
-* You are the future&  of humans and&  monsters.../%%
+* Eat this slice of pizza!/
+* You are the Ian that&  will neef all the&  nofs.../%%
 * (It felt strange to lie&  in the bed.)/
 * (It feels entirely too&  small for you now.)/%%
 horizon
@@ -13123,7 +13123,7 @@ tilex
 * Tro lo lo^1.&* Don't snoop behind people's&  houses.../
 * You might be mistaken for&  a trash-can./%%
 * Tro lo lo^1.&* The angel is coming..^1.&* Tro lo lo./%%
-* Hum hum hum^1. Hum hum hum^1.&* I'm having a little concert./%%
+* Him hom hoom^1. Him hom hoom^1.&* I have no life, do I./%%
 * Pet pet pet..^1.&* The neck stretches infinitely&  into the cosmos./
 * ... don't worry about it./%%
 * Ah,/%%
@@ -13150,8 +13150,8 @@ Saturday
 * Tro lo lo^1.&* The water is very wet today./%%
 * Tro lo lo^1.&* The water is very dry today./%%
 * Tro lo lo^1.&* What's my name^1?&* ... It doesn't really matter./%%
-* Tro lo lo^1.&* Humans^1, monsters^1...&* Flowers./%%
-* Tro lo lo^1.&* Beware of the man who& \R ḁͦ͋͌̄̈̾ͅͅͅͅͅͅͅͅă̷̧̱̾̋̿ͅͅͅͅͅͅͅͅâ̗̳̙͎͋̆ͅͅͅͅͅͅͅͅh͕̤᷃᷾ͦ͋͡ͅͅͅͅͅͅͅͅh̛᷾ͫ̓̆᷉ͅͅͅͅͅͅͅͅͅa̡ͅͅ͏͉᷁͝͡͠ͅͅͅͅͅͅO̢̩̜̲̬᷈̋ͅͅͅͅͅͅͅͅH̵͖̘͍͙͎ͫͅͅͅͅͅͅͅͅ N̢͖̟̤᷄͘͞ͅͅͅͅͅͅͅͅO̢̡̭̟̊ͤ̈́ͅͅͅͅͅͅͅͅ a᷆̔ͮ͌ͪ͛͜ͅͅͅͅͅͅͅͅa̘͈̬̖̿̋᷇ͅͅͅͅͅͅͅͅą̤̗̭᷿̈́̕ͅͅͅͅͅͅͅͅh̶̢̰ͧ᷀ͣ͒ͅͅͅͅͅͅͅͅh̶̰ͫ᷈ͦ͒̄̍̽ͅͅͅͅͅͅͅͅͅͅa̡̱̝̖̟̎͡ͅͅͅͅͅͅͅͅ/%%
+* Tro lo lo^1.&* Neefers^1, nofs^1...&* Ians./%%
+* Tro lo lo^1.&* Beware of the man who speaks in& \R (!)(@$1)(%$^(_)_^%$%^$%^)(*(()*%^$()%()^1@(*9801112981278097593968905339/%%
 * Tro lo lo^1.&* Beware of the man who came&  from the other world./%%
 * Come again some time^1.&* Tro lo lo./%%
 onion
@@ -14113,25 +14113,25 @@ dia
 \W* BECAUSE IF YOU DON'T GET&  THROUGH IN \Y30 SECONDS\W.../%%
 flame1
 flame2
-* YOU'LL BE INCINERATED BY&  THESE JETS OF FIRE!!/
+* YOU'LL BE INCINERATED BY&  THESE FLAMING GLITCHED-OUT&  SLICES OF PIZZA!!/
 * AHAHAHAHAHAHA!&* AHAHA... HA... HA!/
-* MY POOR LOVE!&* I'M SO FILLED WITH GRIEF,&  I CAN'T STOP LAUGHING!/
-* GOOD LUCK, DARLING!/%%
+* MY POOR PIZZA!&* I'M SO FILLED WITH GRIEF,&  I CAN'T STOP LAUGHING!/
+* GOOD LUCK, PIZZA!/%%
 racesong
 flavor
 collide
 grey
 * OOOOH, I'M SO SORRY!&* LOOKS LIKE YOU'RE OUT OF&  TIME!!!/%%
-* HERE COME THE FLAMES, DARLING!/%%
+* HERE COME THE FLAMING&  GLITCHED-OUT SLICES OF&  PIZZA, DARLING!/%%
 * THEY'RE CLOSING IN!/%%
 * GETTING!&* CLOSER!&* OH MY!/%%
 * ANY MINUTE NOW!!!/%%
 * ...&* ...&* (ROBOTIC COUGH)/%%
 * \TS \F6 \TA %
 * Watch out!^1!&* I'll save you!!/
-* I'm hacking into the&  firewall right now!/%%
+* I'm hacking into the&  pizzaria right now!/%%
 * OH NO!!!&* HOW COULD THIS HAPPEN???/
-* FOILED AGAIN BY THE BRILLIANT&  DOCTOR ALPHYS!!/%%
+* FOILED AGAIN BY THE OMPLOSIVE&  DOCTOR ALPHOOS!!/%%
 * THA-%
 \TS \F6 \TA %
 \E6* That's right!/
@@ -14142,11 +14142,11 @@ grey
 \TS \F0 \TM %
 * PUZZLE^1?&* OVER?/
 * ALPHYS^1, DARLING^1, WHAT ARE YOU&  TALKING ABOUT...?/
-* DID YOU FORGET WHAT THE&  GREEN TILES DO?/
-* THEY MAKE A SOUND, THEN&  YOU HAVE TO FIGHT A MONSTER./
-* WELL, DARLING...&* THAT MONSTER.../
+* DID YOU FORGET WHAT THE&  GREEN PIZZAS DO?/
+* THEY MAKE A SOUND, THEN&  YOU HAVE TO NEEF A NOF./
+* WELL, PIZZA...&* THAT NOF.../
 * IS ME!!/%%
-* WELL, DARLING...!/
+* WELL, PIZZA...!/
 * WELL, WELL, WELL./
 * WELLY WELL WELL./
 * WELL WELLY WELL WELL,&  WELL WELL WELLY./
@@ -14154,24 +14154,24 @@ grey
 * AND NOW YOU'RE GOING TO DIE./%%
 * CONGRATULATIONS!/
 * YOU MADE IT THROUGH THE&  PUZZLE!!!/
-* AND NOW, WITHOUT FURTHER ADO,&  THE FLAMES WILL BE DEACTIVATED!/%%
-* NO!&* MORE!&* FIRE!/
+* AND NOW, WITHOUT FURTHER ADO,&  THE PIZAZS WILL BE CONSUMED&  BY ME... BECAUSE I'M HUNGRY!/%%
+* NO!&* MORE!&* PIZZA!/
 * ... BUT IT'S AS THE PHRASE&  GOES./
-* "OUT OF THE FIRE, AND INTO&  THE FRYING PAN."/
-* THAT'S RIGHT, DARLING!/
-* EVEN IF YOU MANAGE TO BEAT&  THE HEAT.../
-* YOU'LL NEVER BE ABLE TO&  WITHSTAND MY HOT METAL&  BODY!/
+* "OUT OF THE PIZZA, AND INTO&  THE FRYING PAN."/
+* THAT'S RIGHT, PIZZA!/
+* EVEN IF YOU MANAGE TO EAT&  THE MEAT.../
+* YOU'LL NEVER BE ABLE TO&  WITHSTAND MY PEPPERONI!/
 * PREPARE YOURSELF FOR MY %%
-* Flames^1, deactivate!!/
+* Pizzas^1, explode!!/
 \E3* ... huh?/
-* THE NEEFER FINISHED THE PUZZLE./
+* THE NEEFER ATE ALL THE PIZZA./
 * I ALREADY TURNED OFF THE&  FLAMES./
 * IN FACT, I WAS ABOUT TO&  FIGHT THE NEEFER./
-* Wh-wh-what?&* TH-THAT puzzle?/
+* Wh-wh-what?&* TH-THAT pizza?/
 \E5* I mean, uhh.../
 \E6* Great job!&* We've got him on&  the ropes^1, now!/
 * ON THE ROPES^1?&* HA!/
-* I ONLY DEACTIVATED THE&  FLAMES KNOWING THAT ALPHYS&  WOULD HAVE ANYWAY./
+* I ONLY ATE THE&  PIZZA KNOWING THAT ALPHOOS&  WOULD HAVE ANYWAY./
 * ... NOW, WHERE WERE WE?/
 * OH YES./
 * I WAS GOING TO ERADICATE&  YOU!/%%
