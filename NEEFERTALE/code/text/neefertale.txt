@@ -8108,8 +8108,8 @@ limit
 quizinit
 ERROR? %%
 HAHAHA, YOU WISH!&WRONG!
-WRONG! IF ONLY ALPHYS&COULD HELP!
-NOPE! TOO BAD ALPHYS&CAN'T HELP!
+WRONG! IF ONLY ALPHOOS&COULD HELP!
+NOPE! TOO BAD ALPHOOS&CAN'T HELP!
 WRONG!!! WRONG!!!&WROOOOOOOONG!!
 COMPLETELY UTTERLY&WRONG!!!!!!
 BOY, THAT'S&EMBARRASSING, HUH?
@@ -8133,37 +8133,37 @@ Black
 Yellow
 Red
 Dusk
-What's the prize#for answering#correctly?
-Money
-Mercy
-New car
-More questions
-What's the king's#full name?
-Lord Fluffybuns
-Fuzzy Pushover
-Asgore Dreemurr
-Dr. Friendship
-What are robots#made of?
-Hopes&Dreams
-Metal&Magic
-Snips&Snails
-Sugar&Spice
-Two trains, Train A and Train B,#simultaneously depart Station A#and Station B.#Station A and Station B are 252.5 miles#apart from each other.#Train A is moving at 124.7mph towards#Station B, and Train B is moving at#253.5mph towards station A.#If both trains departed at 10:00AM and it#is now 10:08, how much longer until#both trains pass each other?
-31.054 minutes
-16.232 minutes
-32.049 minutes
-32.058 minutes
+How fast is#my WiFi speed?
+900 Mbps
+Infinity Mbps
+0 Mbps
+4 nibbles
+How do I#connect to#the internet?
+Through a modem
+With WiFi
+I don't
+With Ethernet
+Who is Ian?
+!!!
+!!!
+[ERROR]
+!!!
+What is the Actual Answer to#Life, the Universe, and #Everything?
+957
+ian
+42
+PIZZA
 How many flies are#in this jar?
 54
 53
 55
 52
-What monster is this?
-Would you smooch#a ghost?
-Heck Yeah
-How many letters in#the name Mettaton
-In the dating#simulation video game#"Mew Mew Kissy Cutie"#what is Mew Mew's#favorite food?
-Who does Dr. Alphys#have a crush on?
+What nof is this?
+What is 2+2?
+5
+How many (TM)s in#the name Mettaton
+What is my#favorite pizza#topping?
+Who does Dr. Alphoos#have a crush on?
 The Neefer
 Don't know
 How bright is#this text?
@@ -8171,19 +8171,19 @@ How bright is#this text?
 84% Bright
 86% Bright
 83% Bright
-OH^1! OH^1! I KNOW&THIS ONE!!!&IT'S SNAIL ICE&CREAM!!!!!!!^1!%
-IN THE FOURTH&CHAPTER EVERYONE&GOES TO THE&BEACH!!!%
-AND SHE BUYS&ICE CREAM FOR&ALL OF HER&FRIENDS!!!!%
-BUT IT'S SNAIL&FLAVOR AND SHE'S&THE ONLY ONE&WHO WANTS IT!!!!!!%
-IT'S ONE OF MY&FAVORITE PARTS&OF THE GAME&BECAUSE%
-IT'S ACTUALLY A&VERY POWERFUL&message abou^1t&friendshi^1p and..^2.%%
-ALPHYS^1,&ALPHYS^1,&ALPHYS./
+OH^1! OH^1! I KNOW&THIS ONE!!!&IT'S ANCHOVIES!!!!!!!^1!%
+I WENT TO&A PIZZERIA&ONCE!!!%
+AND PEPPERONI&WAS ON THE MENU!!!!%
+AND YOUR NAME&WAS NEXT TO&IT!!!!!!%
+I LIKE&PEPPERONI&A LOT TOO&BECAUSE%
+IT'S ACTUALLY A&VERY TASTY&pizza toppin^1g&and..^2.%%
+ALPHOOS^1,&ALPHOOS^1,&ALPHOOS./
 YOU AREN'T HELPING&OUR CONTESTANT,&ARE YOU?/
 OOOOOOH!!!&YOU SHOULD HAVE&TOLD ME./
 I'LL ASK A&QUESTION.../
 YOU'LL BE SURE&TO KNOW THE&ANSWER TO!/%%
-ALPHYS^1, ALPHYS^1,&ALPHYS./
-SEE, ALPHYS?&I TOLD YOU IT&WAS OBVIOUS./
+ALPHOOS^1, ALPHOOS^1,&ALPHOOS./
+SEE, ALPHOOS?&I TOLD YOU IT&WAS OBVIOUS./
 EVEN THE NEEFER&FIGURED IT OUT./
 YES, SHE SCRAWLS&HER NAME IN THE&MARGINS OF HER&NOTES./
 SHE NAMES PROGRAMMING&VARIABLES AFTER&HER./
@@ -8215,13 +8215,13 @@ AND ALWAYS, ALWAYS,&WHISPERING.../
 "NO! WRONG!&YOU HAVE TO&GO THAT WAY!"/
 IN ITS OWN WAY^1,&IS THIS NOT&LOVE??/%%
 CORRECT./
-DR. ALPHYS HAS&A CRUSH ON.../
+DR. ALPHOOS HAS&A CRUSH ON.../
 THE UNKNOWABLE./
-YOU SEE, ALPHYS&BELIEVES THERE IS&SOMEONE OUT THERE./
+YOU SEE, ALPHOOS&BELIEVES THERE IS&SOMEONE OUT THERE./
 SOMEONE WATCHING HER./
 SOMEONE SHE THINKS&IS "CUTE" AND&"INTERESTING."/
 HELLO, THEORETICAL&PERSON./
-DR. ALPHYS LIKES&YOU./
+DR. ALPHOOS LIKES&YOU./
 TOO BAD YOU&ARE NOT REAL./
 *DERISIVE&LAUGHTRACK*/%%
 H-hey^1, I've done&research about this!/
@@ -8233,15 +8233,15 @@ PERSON^1, IF YOU'RE&OUT THERE.../
 HOW ABOUT GIVING US&A SIGN^1, RIGHT NOW?/%%
 THAT SETTLES&THAT, DOESN'T IT?/%%
 WELL WELL WELL./
-WITH DR. ALPHYS&HELPING YOU.../
-THE SHOW HAS NO&DRAMATIC TENSION!/
+WITH DR. ALPHOOS&HELPING YOU.../
+THE SHOW HAS NO&PIZZAFICATION!/
 WE CAN'T GO ON&LIKE THIS!!/
 BUT./
 BUT!!!/
-THIS WAS JUST THE&PILOT EPISODE!!/
-NEXT UP, MORE&DRAMA!/
-MORE ROMANCE!!!/
-MORE BLOODSHED!!!/
+THIS WAS JUST THE&TEST PIZZA!!/
+NEXT UP, MORE&NEEFING!/
+MORE NOFS!!!/
+MORE EXPLOSIONS!!!/
 UNTIL NEXT TIME,&DARLINGS...!!!/%%
 drawtime
 freshdeath
@@ -14099,24 +14099,24 @@ animimg
 cooltimer
 orange
 * OH NO!&* WHATEVER SHALL I DO?/
-* MY LOVE HAS BEEN CAST AWAY&  INTO THE DUNGEON./
-* A DUNGEON WITH A PUZZLE SO&  DASTARDLY^1, MY PARAMOUR WILL&  SURELY PERISH!/%%
+* MY PIZZA HAS BEEN DROPPED!!!/
+* INTO A PUZZLE SO&  EXPLOSIVE^1, MY PEPPERONI WILL&  SURELY PERISH!/%%
 dia
-* O, HEAVENS HAVE MERCY!&* THE HORRIBLE COLORED TILE&  MAZE!/
-* EACH COLORED TILE HAS ITS&  OWN SADISTIC FUNCTION./
-* FOR EXAMPLE, A GREEN TILE&  SOUNDS A NOISE, AND THEN&  YOU MUST FIGHT A MONSTER./
-* RED TILES WILL...&* ACTUALLY, WAIT A SECOND./
+* O, IANS HAVE MERCY!&* THE HORRIBLE COLORED PIZZA&  MAZE!/
+* EACH COLORED PIZZA HAS ITS&  OWN SADISTIC FUNCTION./
+* FOR EXAMPLE, A GREEN PIZZA&  SOUNDS A NOISE, AND THEN&  YOU MUST NEEF A NOF./
+* RED PIZZAS WILL...&* ACTUALLY, WAIT A SECOND./
 * DIDN'T WE SEE THIS PUZZLE&  ABOUT A HUNDRED ROOMS&  AGO?/
-* THAT'S RIGHT.&* YOU REMEMBER ALL THE&  RULES, DON'T YOU?/
+* THAT'S RIGHT.&* YOU REMEMBER ALL THE&  PIZZAS, DON'T YOU?/
 * GREAT...&* THEN I WON'T WASTE YOUR&  TIME REPEATING THEM!!/%%
-* OH, AND YOU'D BETTER HURRY./
-\W* BECAUSE IF YOU DON'T GET&  THROUGH IN \Y30 SECONDS\W.../%%
+* OH, AND YOU'D BETTER EAT&  THE PIZZA QUICKLY./
+\W* BECAUSE IF YOU DON'T EAT&  IT ALL IN \Y30,000&  MILLISECONDS\W.../%%
 flame1
 flame2
 * YOU'LL BE INCINERATED BY&  THESE FLAMING GLITCHED-OUT&  SLICES OF PIZZA!!/
 * AHAHAHAHAHAHA!&* AHAHA... HA... HA!/
 * MY POOR PIZZA!&* I'M SO FILLED WITH GRIEF,&  I CAN'T STOP LAUGHING!/
-* GOOD LUCK, PIZZA!/%%
+* GOOD LUCK!&* GOOD DAY!/%%
 racesong
 flavor
 collide
