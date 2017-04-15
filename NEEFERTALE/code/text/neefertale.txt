@@ -10682,7 +10682,7 @@ trcon
 \E3All the bog fogs..^1.&Bogs and fogs./
 \E2Bog and fog and&gof and bof!/%%
 \E2Bogbogbog&fogfogfog&bogfog./%%
-\E3And you know what&the best part of&all this is?/
+\E3And you know what&the best bog fog&is?/
 \E2You'll DO it./%%
 \E1And then you'll&lose to me again./%%
 \E3And again./%%
