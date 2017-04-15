@@ -18875,10 +18875,10 @@ leg_r
 cx2
 cy2
 fallendown
-\E4What a miserable&creature^1, torturing&such a poor^1,&innocent, youth.../
-\E0Do not be afraid^1,&my child./
-\E0It is I^1, TORIEL^1,&your friend and&guardian./
-\E1At first^1, I thought&I would let you&make your journey&alone.../
+\E4What a neefing&nof^1, noofing&such a poor^1,&innocent, Neefer.../
+\E0Do not be afraid^1,&little Ian./
+\E0It is I^1, TORIEL^1,&your pizza and&implosion./
+\E1At first^1, I thought&I would let you&eat your pizza&alone.../
 \E4But I could not&stop worrying about&you./
 \E4Your adventure must&have been so&treacherous./
 \E2... and ultimately^1,&it would burden you&with a horrible&choice./
