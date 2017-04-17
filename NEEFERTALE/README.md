@@ -1,1 +1,0 @@
-﻿Contains all of the files for NEEFERTALE.
