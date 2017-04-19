@@ -2715,7 +2715,7 @@ scr_itemnamelist
 * "Real Knife" - Weapon AT 99&* Here we are!/%
 * "The Locket" - Armor DF 99&* You can feel it beating./%
 * "Bad Memory" Hurts 1 HP&* ?????/%%
-* "Dream" Heals 12 HP&* The goal of "Determination."/%%
+* "Dream" Heals 12 HP&* The goal of ÒDetergent.Ó/%%
 * "Undyne's Letter" - Unique&* Letter written for Dr.&  Alphys./%%
 * "Undyne's Letter EX" - Unique&* It has DON'T DROP IT&  written on it./%%
 * "Popato Chisps" Heals 13 HP&* Regular old popato chisps./%%
@@ -2837,7 +2837,7 @@ nood
 * Right where it belongs./%
 * You consume the Bad Memory^1.&* Your HP was maxed out./%
 * You consume the Bad Memory^1.&* You lost 1HP./%
-* Through DETERMINATION^1, the&  dream became true.
+* Through DETERGENT^1, the&  dream became true.
 * The dream came true!
 * You tried to open the letter^1,&  but.../
 * It's been shut so tightly^1,&  you'd need a chainsaw in&  order to open it./%
@@ -7704,7 +7704,7 @@ s_f2
 s_f3
 shk
 shaketime
-* UNDYNE THE UNDYING 99ATK 99DEF&* Heroine reformed by her own&  DETERMINATION to save Earth./^
+* UNDYNE THE UNDYING 99ATK 99DEF&* Heroine reformed by her own&  DETERGENT to save Earth./^
 Damn it.../
 So even THAT&power..^1.&It wasn't enough...?/
 \E1Heh.../
@@ -9586,7 +9586,7 @@ special_end
 * (A strange light fills the&  room.^4) %
 * (Twilight is shining through&  the barrier.^4) %
 * (It seems your journey is&  finally over.^4) %
-     * (You're filled with&          DETERMINATION.^5) %%
+     * (You're filled with&          DETERGENT.^5) %%
 Neefer.../
 \E1You stole&fizzy&lifting&drinks./
 \E0GIVE&ME&YOUR&NOOF./%%
@@ -10334,7 +10334,7 @@ Sets of numbers..^1.&Lines of dialogue..^1.&I've seen them all./
 \E0And when I tried&to load my save&file.../
 \E1It didn't work./
 \E9
-..^1.&Your DETERMINATION!/
+..^1.&Your DETERGENT!/
 \E8Somehow^1, it's even&greater than mine!/%%
 \E1I just have one&question for you^1,&
 How did you get&back to the RUINS&from here...?/
@@ -10723,7 +10723,7 @@ gonercon
 \M1W\E0ow..^1.&You really ARE&something special./
 \M0B\E3ut don't get&cocky./
 \E0Up until now^1, I've&only been using&a fraction of my&REAL power!/
-\E2Let's see what good&your DETERMINATION&is against THIS!!/%%
+\E2Let's see what good&your DETERGENT&is against THIS!!/%%
 transform
 bright
 shakeamt
@@ -10774,7 +10774,7 @@ That attitude will&serve you well in&your next life!/%%
 Ura ha ha.../
 Still!?/
 Come on.../
-Show me what good&your DETERMINATION&is now!/%%
+Show me what good&your DETERGENT&is now!/%%
 Ultimate bepis/%%
 \E1Wh..^1.&what did you do...?/
 \E3What's this&feeling...^1?&What's happening&to me?/
@@ -13900,102 +13900,102 @@ myfakev
 overmode
 movemode
 * MY MY./
-* IT SEEMS YOU'VE BESTED ME./
-* BUT ONLY BECAUSE YOU HAD&  THE HELP OF THE BRILLIANT&  DOCTOR ALPHYS!/
-* OH^1, I LOATHE TO THINK OF&  WHAT WOULD HAVE HAPPENED&  TO YOU WITHOUT HER!!!/
-* WELL^1, TOODLES!!/%%
-* OH YES^1!&* ABOUT THE SUBSTITUTION.../
-* HAVEN'T YOU EVER SEEN&  A COOKING SHOW BEFORE?/
-* I ALREADY BAKED THE CAKE&  AHEAD OF TIME!!!!!&* SO FORGET IT!!!/%%
+* IT SEEMS YOU'VE NEEFED ME./
+* BUT ONLY BECAUSE YOU HAD&  THE HELP OF THE OMPLOSIVE&  DOCTOR ALPHOOS!/
+* OH^1, I LOATHE TO THINK OF&  WHAT WOULD HAVE HAPPENED&  TO YOUR PIZZA WITHOUT HER!!!/
+* WELL^1, MEAN BEANS!!/%%
+* OH YES^1!&* ABOUT THE IMPLOSION.../
+* HAVEN'T YOU EVER SEEN&  A NOOFING NOF BEFORE?/
+* I ALREADY NOOFED THE NOF&  AHEAD OF TIME!!!!!&* SO FORGET IT!!!/%%
 * Wh-what!^1?&* Wh-why aren't you&  m-m-moving?/
-* N-no...^1!&* I must not have&  added enough fuel!/
-\E8* D-darnit..^1.&* I'm sorry.../
+* N-no...^1!&* I must not have&  added enough pepperoni!/
+\E8* B-beans..^1.&* I'm sorry.../
 * Even when it's&  something like&  this^1, I.../
 * I still...^1!&* I still.../%%
 * OH NO^1, WOULD YOU LOOK AT&  THAT!/
 * What?/
 \TS \E0 \F0 \TM %
-* I FORGOT!&* RIGHT ABOUT NOW IS WHEN&  WE HAVE OUR COMMERCIAL BREAK!/
+* I FORGOT!&* RIGHT ABOUT NOW IS WHEN&  WE HAVE OUR 7-DAY COMMERCIALS!/
 * Wh..^1.&* What are you...%
-* UNFORTUNATELY, THAT MEANS&  NO ONE IS WATCHING THIS&  RIGHT NOW./
-* I'M NOT GOING TO DESTROY&  YOU WITHOUT A LIVE&  TELEVISION AUDIENCE!!/
-* LOOKS LIKE YOU'VE FOILED ME&  ONCE AGAIN, THANKS TO THE&  BRILLIANT DR. ALPHYS!!!/
-* UNTIL NEXT TIME, BEAUTIFUL!/
-* TOODLES!/%%
-* (You found the sugar.)/%%
-* (You found the eggs.)/%%
+* FORTUNATELY, THAT MEANS&  EVERYONE IS WATCHING THIS&  RIGHT NOW./
+* I'M NOT GOING TO EXPLODE&  YOU IN FRONT OF A LIVE&  TECHNOSET AUDIENCE!!/
+* LOOKS LIKE YOU'VE NEEFED ME&  ONCE AGAIN, THANKS TO THE&  OMPLOSIVE DR. ALPHOOS!!!/
+* UNTIL NEXT TIME, PIZZA!/
+* SELTOOT!/%%
+* (You neefed the hbjfjsd.)/%%
+* (You neefed the fshgfsd.)/%%
 inithspeed
-* (You found the milk.)/%%
-* PERFECT^1!&* GREAT JOB^1, BEAUTIFUL!/
-* WE'VE GOT ALL OF THE&  INGREDIENTS WE NEED TO BAKE&  THE CAKE!/
-\W* \YMILK\W... &* \YSUGAR\W...&* \YEGGS\W.../
-* ... OH MY^1!&* WAIT A MAGNIFICENT MOMENT^1!&* HOW COULD I FORGET!!!/
-\W* WE'RE MISSING THE MOST&  \YIMPORTANT INGREDIENT\W!/%%
+* (You found the \RGASTER& &\Wjk.)/%%
+* YAYAYAYAY^1!&* DECENT JOB^1, PIZZA!/
+* WE'VE GOT ALL OF THE&  PEPPERONI WE NEED TO NOOF&  THE NOF!/
+\W* \YHBJFJSD\W... &* \YFSHGFSD\W...&* \R^2(no.)^2\W.../
+* ... OH MY^1!&* WAIT A MILLION NANOSECONDS^1!&* HOW COULD I FORGET!!!/
+\W* WE'RE MISSING THE MOST&  \YIANOGRAPHIC INGREDIENT\W!/%%
 bossa
 yoffset1
 * H-hey^1, it's kind of&  dark \M9in there^1, isn't&  it?/
 \E6* Don't worry!/
-\E0* I'll hack into the&  light system and&  brighten it up!/%%
+\E0* I'll hack into the&  technoset and&  brighten it up!/%%
 ff1
 ff2
 chefhat
 * Oh no./%%
-* OHHHH YES!!!/
-* WELCOME^1, BEAUTIES, TO THE&  UNDERGROUND'S PREMIER COOKING&  SHOW!!!/%%
+* OHHHH MABYE!!!/
+* WELCOME^1, PIZZAS, TO&  NEEFLANDIA'S PREMIER NOOFING&  SHOW!!!/%%
 * PRE-HEAT YOUR OVENS^1, BECAUSE&  WE'VE GOT A VERY SPECIAL&  RECIPE FOR YOU TODAY!/
 * WE'RE GOING TO BE MAKING.../
-* A CAKE!/
-* MY LOVELY ASSISTANT HERE&  WILL GATHER THE INGREDIENTS./
-* EVERYONE GIVE THEM A BIG&  HAND!!!/%%
+* A NOF!/
+* MY LOVELY PIZZA HERE&  WILL NOOF THE IANS./
+* EVERYONE GIVE THEM IAN'S&  HAND!!!/%%
 applause
 conf
-\W* WE'LL NEED \YSUGAR^1,&  MILK^1, \WAND\Y EGGS.\W /
-* GO FOR IT^1, SWEETHEART!/%%
+\W* WE'LL NEED \YBHJFJSD^1,&  FSHGFSD^1, \WAND \R^2(no.)^2\W... /
+* GO FOR IT^1, PIZZA!/%%
 mett2
 chainsaw
 bad
 \W* A \YHUMAN NOOF\W!!!!/%%
 mettsong
 \TS \E3 \F0 \TM %
-* HELLO...?&* I'M KIND OF IN THE&  MIDDLE OF SOMETHING HERE./
+* HOI DERE...?&* I'M KIND OF IN THE&  EATING OF PIZZA HERE./
 * W-wait a second!!!/
-* Couldn't you make&  a.../
-\E6* Couldn't you use&  a.../
-\E4* Couldn't you make&  a substitution in&  the recipe?!/
-* ... A SUBSTITUTION?&* YOU MEAN, USE A DIFFERENT,&  NON-NEEFER INGREDIENT?/
+* Couldn't you neef&  a.../
+\E6* Couldn't you nof&  a.../
+\E4* Couldn't you neef&  a implosion in&  the recipe?!/
+* ... A IMPLOSION?&* YOU MEAN, USE A DIFFERENT,&  NON-NEEFER INGREDIENT?/
 * ... WHY?/
 \TS \E6 \F6 \TA %
 * Uhh^1, what if&  someone's.../
-\E4* Vegan?/
-* ... VEGAN./
+\E4* A little ian?/
+* ...LITTLE IAN?/
 \TS \E5 \F6 \TA %
 * Uh well I mean%%
-* THAT'S A BRILLIANT IDEA,&  ALPHYS!!/
-* ACTUALLY, I HAPPEN TO&  HAVE AN OPTION RIGHT HERE!!!/
-* MTT-BRAND ALWAYS-CONVENIENT&  NEEFER-NOOF-FLAVOR-SUBSTITUTE!/
+* THAT'S A TERRIBLE IDEA,&  ALPHOOS!!/
+* ACTUALLY, I HAPPEN TO&  HAVE AN IMPLOSION RIGHT HERE!!!/
+* TNC-BRAND ALWAYS-CONVENIENT&  NEEFER-NOOF-NOF-IMPLOSION!/
 * A CAN OF WHICH...&* IS JUST OVER ON THAT&  COUNTER!!!/%%
 * WELL, DARLING?&* WHY DON'T YOU GO GET IT?/%%
 * BY THE WAY^1, OUR SHOW RUNS ON&  A STRICT SCHEDULE./
-\W* IF YOU CAN'T GET THE&  CAN IN THE NEXT&  \YONE MINUTE...\W /
-\W* WE'LL JUST HAVE TO GO&  BACK TO THE \RORIGINAL PLAN\W!!!/
-* SO...&* BETTER START CLIMBING,&  BEAUTIFUL!!!/%%
-* Oh no!!^1!&* There's not enough&  time to climb up!/
-\E6* F-f-fortunately, I&  might have a plan!/
-\E0* When I was upgrading&  your phone, I added&  a few... features./
-\E6* You see that huge&  button that says..^1.&* "JETPACK"?/
+\W* IF YOU CAN'T GET THE&  CAN IN THE NEXT&  \Y60,000 MILLISECONDS...\W /
+\W* WE'LL JUST HAVE TO GO&  BACK TO THE \RORIGINAL IMPLOSION\W!!!/
+* SO...&* BETTER START NEEFING,&  UNBEAUTIFUL!!!/%%
+* Oh no!!^1!&* There's enough millisceconds &  time to climb up!/
+\E6* U-u-unfortunately, I&  *might* have a plan!/
+\E0* When I was hacking&  your technoset, I added&  a few... spins and wins./
+\E6* You see that huge&  button that says..^1.&* "PEPPERONI"?/
 \E3* Watch this!/%%
 jetpack
 clip
 * There!/
-* You should have&  just enough fuel to&  reach the top!/
+* You should have&  just enough pepperoni to&  reach the top!/
 \E3* Now^1, get up&  there!!!/%%
 chara2
 * Wow^1!&* We..^1. we did it!!/
 \E0* We..^1. we really did&  it!!!/
-\E0* Great job out&  there^1, team!/
-\E3* W-well^1, uh^1, anyway^1,&  let's keep heading&  forward!!!/
+\E0* Great job out&  there^1, pizza!/
+\E3* W-well^1, uh^1, anyway^1,&  let's keep eating&  pizza!!!/
 \TS \E1 \F6 \TA %
-\E4* U-um..^1.&* I guess we..^1.&* ... did it?/
+\E4* U-um..^1.&* I guess we..^1.&* ... nofed it?/
 segno
 maxalpha
 chime
@@ -16170,7 +16170,7 @@ IT ALWAYS REMINDS&ME OF WHAT'S&IMPORTANT IN LIFE./%%
 * I believe this is what&  gives their NOOFs the strength&  to persist after death./
 * The will to keep living..^1.&* The resolve to change fate./
 * Let's call this power.../
-\Y* "Determination."/%%
+\Y* ÒDetergent.Ó/%%
 * (Golden flowers.)/%%
 * (It's Sauce's dirty sock pile.^1)&* (Sc..^1. scandalous...?)/%%
 * (There's a strange machine&  behind the curtain.^1)&* (It seems to be broken.)/%%
@@ -19037,17 +19037,17 @@ Do not be afraid^1,&little ian.../
 No matter what&happens.../
 We will always&be there to&eat you!/%%
 pap2
-THAT'S RIGHT^1,&NEEFER^1!&YOU CAN’T&WIN!!/
+THAT'S RIGHT^1,&NEEFER^1!&YOU CAN'T&WIN!!/
 OH WAIT...&UHH.../
 JUST DO IT!!!/%%
 und2
 Hey^1! Neefer^1! If&you ate past&ME^1, you can&eat ANYTHING!/
-So definitely worry^1!&We’ll eat you&all the way!/%%
+So definitely worry^1!&We'll eat you&all the way!/%%
 sans2
 huh^1?&you haven't&neefed&this ian yet?/
-come on^1, little&ian’s got&pizza on you./%%
-Technically^1, you’ll&\RSPONTANEOUSLY&COMBUST\X.../
-B-but..^1.&Somehow^1, I know&you won’t!!/%%
+come on^1, little&ian's got&pizza on you./%%
+Technically^1, you'll&\RSPONTANEOUSLY&COMBUST\X.../
+B-but..^1.&Somehow^1, I know&you won't!!/%%
 asg2
 Neefer^1, for the&future of&Neefers and&Nofs...!/
 You have to stay&detergented...!/%%
@@ -19264,7 +19264,7 @@ legrot_l
 main_timer
 dtable
 t1
-METTATON
+THE NEEFERCOT
 t2
 SPECIAL INSPIRATION
 Bob Sparker, Sarah, and JN Wiedle
